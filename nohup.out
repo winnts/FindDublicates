@@ -1,0 +1,5063 @@
+Jan 14, 2016 6:29:59 PM org.elasticsearch.node.internal.InternalNode <init>
+INFO: [Vision] version[1.7.1], pid[6633], build[b88f43f/2015-07-29T09:54:16Z]
+Jan 14, 2016 6:29:59 PM org.elasticsearch.node.internal.InternalNode <init>
+INFO: [Vision] initializing ...
+Jan 14, 2016 6:30:00 PM org.elasticsearch.plugins.PluginsService <init>
+INFO: [Vision] loaded [], sites []
+Jan 14, 2016 6:30:00 PM org.elasticsearch.bootstrap.Natives <clinit>
+WARNING: JNA not found. native methods will be disabled.
+Jan 14, 2016 6:30:00 PM org.elasticsearch.node.internal.InternalNode <init>
+INFO: [Vision] initialized
+Jan 14, 2016 6:30:00 PM org.elasticsearch.node.internal.InternalNode start
+INFO: [Vision] starting ...
+Jan 14, 2016 6:30:00 PM org.elasticsearch.transport.TransportService doStart
+INFO: [Vision] bound_address {inet[/0.0.0.0:9300]}, publish_address {inet[/10.100.78.101:9300]}
+Jan 14, 2016 6:30:00 PM org.elasticsearch.discovery.DiscoveryService doStart
+INFO: [Vision] main-cluster/yYikVa3gQoC1Ye4OzdK6rg
+Jan 14, 2016 6:30:04 PM org.elasticsearch.cluster.service.InternalClusterService$UpdateTask run
+INFO: [Vision] detected_master [master-search][Mm6kv07HRG6Mw7LXUJhStA][dwdccres1][inet[/10.32.18.31:9303]]{data=false, master=true}, added {[slave5_2][XKUbKj4GT5agauea8Vr0lA][dwdccres5][inet[/10.32.18.35:9301]]{master=false},[slave3][T7HA0PfgQnuSwv9CADYi_A][dwdccres3][inet[/10.32.18.33:9300]]{master=true},[slave6][pVxmc5qXSR29fhXMF5vb-g][dwdccres6][inet[/10.32.18.36:9300]]{master=false},[slave1][Qju_bzdnSPCmdGVJjwkWkQ][dwdccres1][inet[/10.32.18.31:9300]]{master=true},[slave5][u4KBakEpR5iItLHwfJ56xg][dwdccres5][inet[/10.32.18.35:9300]]{master=false},[slave3_2][oAj77mfuQrWM3_M9pAwNCA][dwdccres3][inet[/10.32.18.33:9301]]{master=false},[slave1_2][mliwzL12RkiIUcq49D2CvA][dwdccres1][inet[/10.32.18.31:9301]]{master=false},[slave2_2][KWfD4bRWSzqjDKfwC6doRA][dwdccres2][inet[/10.32.18.32:9301]]{master=false},[slave6_2][kbQJBi6ATYu7c-x75gjvHg][dwdccres6][inet[/10.32.18.36:9301]]{master=false},[slave4][g98zSBhbRgahDxJc4TjhHg][dwdccres4][inet[/10.32.18.34:9300]]{master=false},[slave2][RNww7wp-QKi65rnpadlmqA][dwdccres2][inet[/10.32.18.32:9300]]{master=true},[slave4_1][itQl0P3_QOujGbo8uhw8RQ][dwdccres4][inet[/10.32.18.34:9301]]{master=false},[master-search][Mm6kv07HRG6Mw7LXUJhStA][dwdccres1][inet[/10.32.18.31:9303]]{data=false, master=true},}, reason: zen-disco-receive(from master [[master-search][Mm6kv07HRG6Mw7LXUJhStA][dwdccres1][inet[/10.32.18.31:9303]]{data=false, master=true}])
+Jan 14, 2016 6:30:06 PM org.elasticsearch.node.internal.InternalNode start
+INFO: [Vision] started
+TOTAL RECORDS: 2761772
+Searching for: videospycyxxx.com
+videospycyxxx.com UNIQUE
+Searching for: tct-lightings.com
+tct-lightings.com UNIQUE
+Searching for: craneeyum.com
+craneeyum.com UNIQUE
+Searching for: eukeromais.com
+eukeromais.com UNIQUE
+Searching for: gowanuscustom.com
+gowanuscustom.com UNIQUE
+Searching for: kongmingpan.com
+kongmingpan.com UNIQUE
+Searching for: africanmangoslimplan.com
+africanmangoslimplan.com UNIQUE
+Searching for: entcryoclinic.com
+entcryoclinic.com UNIQUE
+Searching for: laenoky.com
+laenoky.com UNIQUE
+Searching for: globalcoinespanol.com
+globalcoinespanol.com UNIQUE
+Searching for: sloppyronsbbq.com
+sloppyronsbbq.com UNIQUE
+Searching for: xn--xhq02ykwbp4abg6354a.com
+xn--xhq02ykwbp4abg6354a.com UNIQUE
+Searching for: bdfw80619988.com
+bdfw80619988.com UNIQUE
+Searching for: lenafrances.com
+lenafrances.com UNIQUE
+Searching for: ysys0919.com
+ysys0919.com UNIQUE
+Searching for: loosing2win.com
+loosing2win.com UNIQUE
+Searching for: tracicarter.com
+tracicarter.com UNIQUE
+Searching for: petcremationmn.com
+petcremationmn.com UNIQUE
+Searching for: agoracapm.com
+agoracapm.com UNIQUE
+Searching for: workingmom2three.com
+workingmom2three.com UNIQUE
+Searching for: myenergyrx.com
+myenergyrx.com UNIQUE
+Searching for: youfutape.com
+youfutape.com UNIQUE
+Searching for: shaneandjulia.com
+shaneandjulia.com UNIQUE
+Searching for: thevoiceoftodd.com
+thevoiceoftodd.com UNIQUE
+Searching for: fencescontractorindianapolis.com
+fencescontractorindianapolis.com UNIQUE
+Searching for: geniesbornoffire.com
+geniesbornoffire.com UNIQUE
+Searching for: gracesgproperty.com
+gracesgproperty.com UNIQUE
+Searching for: silvisci.com
+silvisci.com UNIQUE
+Searching for: flashfiresolutions.com
+flashfiresolutions.com UNIQUE
+Searching for: vaultofaudio.com
+vaultofaudio.com UNIQUE
+Searching for: prime-diet.com
+prime-diet.com UNIQUE
+Searching for: integratepower.com
+integratepower.com UNIQUE
+Searching for: markwhitelive.com
+markwhitelive.com UNIQUE
+Searching for: viptouzi88.com
+viptouzi88.com UNIQUE
+Searching for: throatcard.com
+throatcard.com UNIQUE
+Searching for: atlasgymlongisland.com
+atlasgymlongisland.com UNIQUE
+Searching for: hologramhometechnology.com
+hologramhometechnology.com UNIQUE
+Searching for: lovewintergreen.com
+lovewintergreen.com UNIQUE
+Searching for: kekipastries.com
+kekipastries.com UNIQUE
+Searching for: indieenergynetwork.com
+indieenergynetwork.com UNIQUE
+Searching for: 68agowang.com
+68agowang.com UNIQUE
+Searching for: trystbach.com
+trystbach.com UNIQUE
+Searching for: exemplarspotlight.com
+exemplarspotlight.com UNIQUE
+Searching for: realestatecarpinteria.com
+realestatecarpinteria.com UNIQUE
+Searching for: ctq123.com
+ctq123.com UNIQUE
+Searching for: 4008000000.wang
+4008000000.wang UNIQUE
+Searching for: biricikotokilit.com
+biricikotokilit.com UNIQUE
+Searching for: nawazir.com
+nawazir.com UNIQUE
+Searching for: weedeugene.com
+weedeugene.com UNIQUE
+Searching for: automatedspecialists.com
+automatedspecialists.com UNIQUE
+Searching for: fourgreenhouse.com
+fourgreenhouse.com UNIQUE
+Searching for: autoflextechnology.com
+autoflextechnology.com UNIQUE
+Searching for: bjyzhd.com
+bjyzhd.com UNIQUE
+Searching for: ttzzz.com
+ttzzz.com UNIQUE
+Searching for: privateitalianchef.com
+privateitalianchef.com UNIQUE
+Searching for: bairamoglou-gr.com
+bairamoglou-gr.com UNIQUE
+Searching for: gainesvilleautofinance.com
+gainesvilleautofinance.com UNIQUE
+Searching for: realestatemnwi.com
+realestatemnwi.com UNIQUE
+Searching for: quinte.healthcare
+quinte.healthcare UNIQUE
+Searching for: xn--eventospekeitos-8qb.com
+xn--eventospekeitos-8qb.com UNIQUE
+Searching for: imren-power.com
+imren-power.com UNIQUE
+Searching for: stuckn.com
+stuckn.com UNIQUE
+Searching for: smellystory.com
+smellystory.com UNIQUE
+Searching for: open-immo-paris.com
+open-immo-paris.com UNIQUE
+Searching for: gzsxhl.com
+gzsxhl.com UNIQUE
+Searching for: byotow.com
+byotow.com UNIQUE
+Searching for: businessbuildingblueprints.com
+businessbuildingblueprints.com UNIQUE
+Searching for: ksjiaoyu.com
+ksjiaoyu.com UNIQUE
+Searching for: studiotakada.com
+studiotakada.com UNIQUE
+Searching for: zipdigitalmedia.com
+zipdigitalmedia.com UNIQUE
+Searching for: nvcoeh.com
+nvcoeh.com UNIQUE
+Searching for: tpocontractor.com
+tpocontractor.com UNIQUE
+Searching for: barinds.com
+barinds.com UNIQUE
+Searching for: westportlandtalk.com
+westportlandtalk.com UNIQUE
+Searching for: maygiatlongngang.com
+maygiatlongngang.com UNIQUE
+Searching for: yumadev.com
+yumadev.com UNIQUE
+Searching for: ilhamikapukiran.com
+ilhamikapukiran.com UNIQUE
+Searching for: travelingmartinezes.com
+travelingmartinezes.com UNIQUE
+Searching for: trilliumpropertyservicesinfo.com
+trilliumpropertyservicesinfo.com UNIQUE
+Searching for: happyheartsministry.com
+happyheartsministry.com UNIQUE
+Searching for: xn--oy2bp4db3jtvoa.com
+xn--oy2bp4db3jtvoa.com UNIQUE
+Searching for: searchprestonhollowhomes.com
+searchprestonhollowhomes.com UNIQUE
+Searching for: 178ncb.com
+178ncb.com UNIQUE
+Searching for: adultshower.com
+adultshower.com UNIQUE
+Searching for: mortgageratesinc.com
+mortgageratesinc.com UNIQUE
+Searching for: konkek2.com
+konkek2.com UNIQUE
+Searching for: helenspa.com
+helenspa.com UNIQUE
+Searching for: elifplastikmutabakat.com
+elifplastikmutabakat.com UNIQUE
+Searching for: pricelessassetsonline.com
+pricelessassetsonline.com UNIQUE
+Searching for: woundedheartcoaching.com
+woundedheartcoaching.com UNIQUE
+Searching for: culture111.com
+culture111.com UNIQUE
+Searching for: deirdreboyd.com
+deirdreboyd.com UNIQUE
+Searching for: minkshmink.com
+minkshmink.com UNIQUE
+Searching for: zorgames.com
+zorgames.com UNIQUE
+Searching for: lisa-michele-wilson.com
+lisa-michele-wilson.com UNIQUE
+Searching for: viralmust.com
+viralmust.com UNIQUE
+Searching for: pgiaindoor.com
+pgiaindoor.com UNIQUE
+Searching for: juyanyi.com
+juyanyi.com UNIQUE
+Searching for: myyunda.com
+myyunda.com UNIQUE
+Searching for: ebolahoax.com
+ebolahoax.com UNIQUE
+Searching for: relageo.com
+relageo.com UNIQUE
+Searching for: roczoo.com
+roczoo.com UNIQUE
+Searching for: squareflattop.com
+squareflattop.com UNIQUE
+Searching for: waitwin.com
+waitwin.com UNIQUE
+Searching for: megknowsrealestate.com
+megknowsrealestate.com UNIQUE
+Searching for: ddtavocats.com
+ddtavocats.com UNIQUE
+Searching for: tonyvanzweeden.com
+tonyvanzweeden.com UNIQUE
+Searching for: northmediaman.com
+northmediaman.com UNIQUE
+Searching for: 9vic.com
+9vic.com UNIQUE
+Searching for: xn--martin-degaard-1pb.com
+xn--martin-degaard-1pb.com UNIQUE
+Searching for: schneeportgastein.com
+schneeportgastein.com UNIQUE
+Searching for: maymainenbetong.com
+maymainenbetong.com UNIQUE
+Searching for: kobayashi-skin.com
+kobayashi-skin.com UNIQUE
+Searching for: vassalloandjones.com
+vassalloandjones.com UNIQUE
+Searching for: tirush.com
+tirush.com UNIQUE
+Searching for: ordterraceliquors.com
+ordterraceliquors.com UNIQUE
+Searching for: sethjitalks.com
+sethjitalks.com UNIQUE
+Searching for: theuptownsass.com
+theuptownsass.com UNIQUE
+Searching for: mukank.com
+mukank.com UNIQUE
+Searching for: mazdainmckinney.com
+mazdainmckinney.com UNIQUE
+Searching for: panoramajo.com
+panoramajo.com UNIQUE
+Searching for: polishmortgagebroker.com
+polishmortgagebroker.com UNIQUE
+Searching for: kutharresort.com
+kutharresort.com UNIQUE
+Searching for: szjyhr.com
+szjyhr.com UNIQUE
+Searching for: strongpictures.com
+strongpictures.com UNIQUE
+Searching for: reviveanddrive.com
+reviveanddrive.com UNIQUE
+Searching for: noonthirtygames.com
+noonthirtygames.com UNIQUE
+Searching for: ytstick.com
+ytstick.com UNIQUE
+Searching for: haas-hunan.com
+haas-hunan.com UNIQUE
+Searching for: te-le.com
+te-le.com UNIQUE
+Searching for: hammersandhay.com
+hammersandhay.com UNIQUE
+Searching for: bresciatoday.com
+bresciatoday.com UNIQUE
+Searching for: richsnobent.com
+richsnobent.com UNIQUE
+Searching for: buymynjhouse.com
+buymynjhouse.com UNIQUE
+Searching for: eesalatif.com
+eesalatif.com UNIQUE
+Searching for: cannyprices.com
+cannyprices.com UNIQUE
+Searching for: fortnightwine.com
+fortnightwine.com UNIQUE
+Searching for: consultoriosanpablo.com
+consultoriosanpablo.com UNIQUE
+Searching for: appletvinfo.com
+appletvinfo.com UNIQUE
+Searching for: blackrockjeeprental.com
+blackrockjeeprental.com UNIQUE
+Searching for: vivvr.com
+vivvr.com UNIQUE
+Searching for: wonderwomanfordc.com
+wonderwomanfordc.com UNIQUE
+Searching for: trydiamonds.com
+trydiamonds.com UNIQUE
+Searching for: castmodelajans.com
+castmodelajans.com UNIQUE
+Searching for: sarahkibler.com
+sarahkibler.com UNIQUE
+Searching for: professionallearninglegacy.com
+professionallearninglegacy.com UNIQUE
+Searching for: bl-holding.com
+bl-holding.com UNIQUE
+Searching for: vlnobr.com
+vlnobr.com UNIQUE
+Searching for: viajarencolombia.com
+viajarencolombia.com UNIQUE
+Searching for: 515ok.com
+515ok.com UNIQUE
+Searching for: nowakdigital.com
+nowakdigital.com UNIQUE
+Searching for: sorciosecco.com
+sorciosecco.com UNIQUE
+Searching for: liveoncornelia.com
+liveoncornelia.com UNIQUE
+Searching for: oldfashionenergy.com
+oldfashionenergy.com UNIQUE
+Searching for: tcxjsrrmbc-mky.com
+tcxjsrrmbc-mky.com UNIQUE
+Searching for: no2war.com
+no2war.com UNIQUE
+Searching for: onlineeverydayloans.com
+onlineeverydayloans.com UNIQUE
+Searching for: professionalcoloradobirthphotographers.com
+professionalcoloradobirthphotographers.com UNIQUE
+Searching for: travelchatlink.com
+travelchatlink.com UNIQUE
+Searching for: knx-sation.com
+knx-sation.com UNIQUE
+Searching for: knewtritionnanny.com
+knewtritionnanny.com UNIQUE
+Searching for: yootiket.com
+yootiket.com UNIQUE
+Searching for: tdjphskzcasush.com
+tdjphskzcasush.com UNIQUE
+Searching for: solokizi.com
+solokizi.com UNIQUE
+Searching for: lancuchy-sniegowe.com
+lancuchy-sniegowe.com UNIQUE
+Searching for: kal10.com
+kal10.com UNIQUE
+Searching for: support-samsung.com
+support-samsung.com UNIQUE
+Searching for: beecaverealestate.com
+beecaverealestate.com UNIQUE
+Searching for: accessnewhanover.com
+accessnewhanover.com UNIQUE
+Searching for: ivsovica.com
+ivsovica.com UNIQUE
+Searching for: experiencemfm.com
+experiencemfm.com UNIQUE
+Searching for: gebzeotomasyonmalzeme.com
+gebzeotomasyonmalzeme.com UNIQUE
+Searching for: booking-kreuzfahrt.com
+booking-kreuzfahrt.com UNIQUE
+Searching for: gamecentergalore.com
+gamecentergalore.com UNIQUE
+Searching for: caughtyoustaringatmylashes.com
+caughtyoustaringatmylashes.com UNIQUE
+Searching for: gradientdesigns.com
+gradientdesigns.com UNIQUE
+Searching for: cricketleathers.com
+cricketleathers.com UNIQUE
+Searching for: plsddiscountsuperstore.com
+plsddiscountsuperstore.com UNIQUE
+Searching for: professionaltrainersforyourmind.com
+professionaltrainersforyourmind.com UNIQUE
+Searching for: barbarabivens.com
+barbarabivens.com UNIQUE
+Searching for: transcendencehhc.com
+transcendencehhc.com UNIQUE
+Searching for: dalmationroom.com
+dalmationroom.com UNIQUE
+Searching for: 2015qqb.com
+2015qqb.com UNIQUE
+Searching for: csxuanyuan.com
+csxuanyuan.com UNIQUE
+Searching for: hoohdesign.com
+hoohdesign.com UNIQUE
+Searching for: 22xyxy.com
+22xyxy.com UNIQUE
+Searching for: bbinoy.com
+bbinoy.com UNIQUE
+Searching for: jay-ray.com
+jay-ray.com UNIQUE
+Searching for: 921718.com
+921718.com UNIQUE
+Searching for: fresnostem.com
+fresnostem.com UNIQUE
+Searching for: catanesolutions.com
+catanesolutions.com UNIQUE
+Searching for: tealholliday.com
+tealholliday.com UNIQUE
+Searching for: fadedbackground.com
+fadedbackground.com UNIQUE
+Searching for: meumiamifit.com
+meumiamifit.com UNIQUE
+Searching for: wearemontecarlo.com
+wearemontecarlo.com UNIQUE
+Searching for: tangshanyuanlin.com
+tangshanyuanlin.com UNIQUE
+Searching for: uruguaywater.com
+uruguaywater.com UNIQUE
+Searching for: xn--l3caq0bxcwgd1d0b.com
+xn--l3caq0bxcwgd1d0b.com UNIQUE
+Searching for: argankrem.com
+argankrem.com UNIQUE
+Searching for: qiruiwang.com
+qiruiwang.com UNIQUE
+Searching for: chaatfusion.com
+chaatfusion.com UNIQUE
+Searching for: portofwestsweden.com
+portofwestsweden.com UNIQUE
+Searching for: farmaciafos.com
+farmaciafos.com UNIQUE
+Searching for: faction6.com
+faction6.com UNIQUE
+Searching for: sidsugg.com
+sidsugg.com UNIQUE
+Searching for: iworksg.com
+iworksg.com UNIQUE
+Searching for: calebstuart.com
+calebstuart.com UNIQUE
+Searching for: brilliantlooks.com
+brilliantlooks.com UNIQUE
+Searching for: agouche.com
+agouche.com UNIQUE
+Searching for: largeslabsfortables.com
+largeslabsfortables.com UNIQUE
+Searching for: lafatte.com
+lafatte.com UNIQUE
+Searching for: xn--vcs312cyzz.com
+xn--vcs312cyzz.com UNIQUE
+Searching for: banmaybodamgiare.com
+banmaybodamgiare.com UNIQUE
+Searching for: killersugar.com
+killersugar.com UNIQUE
+Searching for: cadiproin.com
+cadiproin.com UNIQUE
+Searching for: unlimitedserve.com
+unlimitedserve.com UNIQUE
+Searching for: weialerts.com
+weialerts.com UNIQUE
+Searching for: romneyrepublican.com
+romneyrepublican.com UNIQUE
+Searching for: firepitpie.com
+firepitpie.com UNIQUE
+Searching for: 1001pr.com
+1001pr.com UNIQUE
+Searching for: xkkix.com
+xkkix.com UNIQUE
+Searching for: luvdubs.com
+luvdubs.com UNIQUE
+Searching for: iecoheating.com
+iecoheating.com UNIQUE
+Searching for: chagajava.com
+chagajava.com UNIQUE
+Searching for: lab141.com
+lab141.com UNIQUE
+Searching for: maristore.com
+maristore.com UNIQUE
+Searching for: bathremodelingatascadero.com
+bathremodelingatascadero.com UNIQUE
+Searching for: gadrevy.com
+gadrevy.com UNIQUE
+Searching for: bulamobile.com
+bulamobile.com UNIQUE
+Searching for: naturehealthgroup.com
+naturehealthgroup.com UNIQUE
+Searching for: brightonhouseofpizzamenu.com
+brightonhouseofpizzamenu.com UNIQUE
+Searching for: tyresoe-opendi.com
+tyresoe-opendi.com UNIQUE
+Searching for: seifek.com
+seifek.com UNIQUE
+Searching for: tbcjt.com
+tbcjt.com UNIQUE
+Searching for: career-priviledge.com
+career-priviledge.com UNIQUE
+Searching for: genetikalab.com
+genetikalab.com UNIQUE
+Searching for: timberstonegrille.com
+timberstonegrille.com UNIQUE
+Searching for: proitrepair.com
+proitrepair.com UNIQUE
+Searching for: graniteslabforgtainteriordesign.com
+graniteslabforgtainteriordesign.com UNIQUE
+Searching for: insightsbm.com
+insightsbm.com UNIQUE
+Searching for: cdr-group.com
+cdr-group.com UNIQUE
+Searching for: fm965theanswer.com
+fm965theanswer.com UNIQUE
+Searching for: bartlettfamilyadventures.com
+bartlettfamilyadventures.com UNIQUE
+Searching for: karenconstruction.com
+karenconstruction.com UNIQUE
+Searching for: omgoregoncity.com
+omgoregoncity.com UNIQUE
+Searching for: 1219roger.com
+1219roger.com UNIQUE
+Searching for: ancort.com
+ancort.com UNIQUE
+Searching for: hrt4anewyou.com
+hrt4anewyou.com UNIQUE
+Searching for: phoenixmastermind.com
+phoenixmastermind.com UNIQUE
+Searching for: officialmikehuckabee2016.com
+officialmikehuckabee2016.com UNIQUE
+Searching for: photographybyphillips.com
+photographybyphillips.com UNIQUE
+Searching for: stellaalves.com
+stellaalves.com UNIQUE
+Searching for: cedumed.com
+cedumed.com UNIQUE
+Searching for: thecassidies.com
+thecassidies.com UNIQUE
+Searching for: respectforartistry.com
+respectforartistry.com UNIQUE
+Searching for: fsxczz.com
+fsxczz.com UNIQUE
+Searching for: kkav51.com
+kkav51.com UNIQUE
+Searching for: roofingcontractorsinboiseid.com
+roofingcontractorsinboiseid.com UNIQUE
+Searching for: gigstarz.com
+gigstarz.com UNIQUE
+Searching for: whatsoldisnewdiy.com
+whatsoldisnewdiy.com UNIQUE
+Searching for: basred.com
+basred.com UNIQUE
+Searching for: thecraftsoflife.com
+thecraftsoflife.com UNIQUE
+Searching for: professionalmarineak.com
+professionalmarineak.com UNIQUE
+Searching for: bryonydewsphotography.com
+bryonydewsphotography.com UNIQUE
+Searching for: dontgrieveme.com
+dontgrieveme.com UNIQUE
+Searching for: goczf.com
+goczf.com UNIQUE
+Searching for: cheeryoh.com
+cheeryoh.com UNIQUE
+Searching for: corporate-gifts-china.com
+corporate-gifts-china.com UNIQUE
+Searching for: sbyachtdesign.com
+sbyachtdesign.com UNIQUE
+Searching for: adubsproductions.com
+adubsproductions.com UNIQUE
+Searching for: tygarhicks.com
+tygarhicks.com UNIQUE
+Searching for: soccer-loud.com
+soccer-loud.com UNIQUE
+Searching for: wmykg.com
+wmykg.com UNIQUE
+Searching for: jasonandhala.com
+jasonandhala.com UNIQUE
+Searching for: sunshinedad.com
+sunshinedad.com UNIQUE
+Searching for: smjlee.com
+smjlee.com UNIQUE
+Searching for: domingueztv.com
+domingueztv.com UNIQUE
+Searching for: quarterlifequests.com
+quarterlifequests.com UNIQUE
+Searching for: tennesseetinyhousetrailer.com
+tennesseetinyhousetrailer.com UNIQUE
+Searching for: appleyardless.com
+appleyardless.com UNIQUE
+Searching for: xn--pje.com
+xn--pje.com UNIQUE
+Searching for: imaxracking.com
+imaxracking.com UNIQUE
+Searching for: wastedmontreal.com
+wastedmontreal.com UNIQUE
+Searching for: ky-graphy.com
+ky-graphy.com UNIQUE
+Searching for: cylame.com
+cylame.com UNIQUE
+Searching for: iwodeshijie.com
+iwodeshijie.com UNIQUE
+Searching for: livraison-paris-burger.com
+livraison-paris-burger.com UNIQUE
+Searching for: dimirealestateservices.com
+dimirealestateservices.com UNIQUE
+Searching for: giraud-psychologue-paris.com
+giraud-psychologue-paris.com UNIQUE
+Searching for: english-christening-gowns.com
+english-christening-gowns.com UNIQUE
+Searching for: ztlu8.com
+ztlu8.com UNIQUE
+Searching for: thecatinthetree.com
+thecatinthetree.com UNIQUE
+Searching for: earnfreeutilities.com
+earnfreeutilities.com UNIQUE
+Searching for: w2planethollywoodintl.com
+w2planethollywoodintl.com UNIQUE
+Searching for: 17-4.com
+17-4.com UNIQUE
+Searching for: delygroup-parts.com
+delygroup-parts.com UNIQUE
+Searching for: pasturegrazed.com
+pasturegrazed.com UNIQUE
+Searching for: aw-do.com
+aw-do.com UNIQUE
+Searching for: serbaelektronik.com
+serbaelektronik.com UNIQUE
+Searching for: bt-projects.com
+bt-projects.com UNIQUE
+Searching for: icnsafety.com
+icnsafety.com UNIQUE
+Searching for: topjumping.tips
+topjumping.tips UNIQUE
+Searching for: cs33106.wang
+cs33106.wang UNIQUE
+Searching for: jamesbellagency.com
+jamesbellagency.com UNIQUE
+Searching for: bestwishesparcel.com
+bestwishesparcel.com UNIQUE
+Searching for: participaentuciudad.com
+participaentuciudad.com UNIQUE
+Searching for: ntini.com
+ntini.com UNIQUE
+Searching for: mgmutensileria.com
+mgmutensileria.com UNIQUE
+Searching for: communitylegalcounsel.com
+communitylegalcounsel.com UNIQUE
+Searching for: hoosierrecruiter.com
+hoosierrecruiter.com UNIQUE
+Searching for: sarahkathrynmartin.com
+sarahkathrynmartin.com UNIQUE
+Searching for: niupsd.com
+niupsd.com UNIQUE
+Searching for: casasenlaspalmas.com
+casasenlaspalmas.com UNIQUE
+Searching for: sweetsassyessentialoils.com
+sweetsassyessentialoils.com UNIQUE
+Searching for: gt1.co.uk
+gt1.co.uk UNIQUE
+Searching for: kasimetkinlikleri.com
+kasimetkinlikleri.com UNIQUE
+Searching for: alexcauthensite.com
+alexcauthensite.com UNIQUE
+Searching for: xn--energie-bro-1hb.com
+xn--energie-bro-1hb.com UNIQUE
+Searching for: arkansasapprenticeship.com
+arkansasapprenticeship.com UNIQUE
+Searching for: heartbeatpayment.com
+heartbeatpayment.com UNIQUE
+Searching for: 5starswholesale.com
+5starswholesale.com UNIQUE
+Searching for: 176.photo
+176.photo UNIQUE
+Searching for: ciro.co.uk
+ciro.co.uk UNIQUE
+Searching for: confession.domains
+confession.domains UNIQUE
+Searching for: 999492.com
+999492.com UNIQUE
+Searching for: terralandergame.com
+terralandergame.com UNIQUE
+Searching for: damienelstontestimonials.com
+damienelstontestimonials.com UNIQUE
+Searching for: luxoelingerie.com
+luxoelingerie.com UNIQUE
+Searching for: support-canadadrugs.com
+support-canadadrugs.com UNIQUE
+Searching for: prop47felonyreduction.com
+prop47felonyreduction.com UNIQUE
+Searching for: gingerbreadfaire.com
+gingerbreadfaire.com UNIQUE
+Searching for: prune.io
+prune.io UNIQUE
+Searching for: fago.co.uk
+fago.co.uk UNIQUE
+Searching for: s31.it
+s31.it UNIQUE
+Searching for: ifwe.co.uk
+ifwe.co.uk UNIQUE
+Searching for: a1d.ru
+a1d.ru UNIQUE
+Searching for: lathe.it
+lathe.it UNIQUE
+Searching for: marge.tv
+marge.tv UNIQUE
+Searching for: roost.io
+roost.io UNIQUE
+Searching for: ctrc.co.uk
+ctrc.co.uk UNIQUE
+Searching for: amdw.ru
+amdw.ru UNIQUE
+Searching for: uwu.us
+uwu.us UNIQUE
+Searching for: jpr.us
+jpr.us UNIQUE
+Searching for: tepidarium.it
+tepidarium.it UNIQUE
+Searching for: 2x1.it
+2x1.it UNIQUE
+Searching for: calichef.com
+calichef.com UNIQUE
+Searching for: 726.us
+726.us UNIQUE
+Searching for: ebth.it
+ebth.it UNIQUE
+Searching for: awrd.me
+awrd.me UNIQUE
+Searching for: deca.co.uk
+deca.co.uk UNIQUE
+Searching for: bamf.it
+bamf.it UNIQUE
+Searching for: 4n6s.us
+4n6s.us UNIQUE
+Searching for: go65.ru
+go65.ru UNIQUE
+Searching for: goaz.me
+goaz.me UNIQUE
+Searching for: 5pwc.ru
+5pwc.ru UNIQUE
+Searching for: t78.co.uk
+t78.co.uk UNIQUE
+Searching for: blush.it
+blush.it UNIQUE
+Searching for: abzz.ru
+abzz.ru UNIQUE
+Searching for: banzai.io
+banzai.io UNIQUE
+Searching for: fkx.co.uk
+fkx.co.uk UNIQUE
+Searching for: afem.ru
+afem.ru UNIQUE
+Searching for: behind.me
+behind.me UNIQUE
+Searching for: trailer.io
+trailer.io UNIQUE
+Searching for: quinton.tv
+quinton.tv UNIQUE
+Searching for: ajwa.es
+ajwa.es UNIQUE
+Searching for: dflw.io
+dflw.io UNIQUE
+Searching for: dt4.co.uk
+dt4.co.uk UNIQUE
+Searching for: dobu.es
+dobu.es UNIQUE
+Searching for: rosewood.tv
+rosewood.tv UNIQUE
+Searching for: dobu.me
+dobu.me UNIQUE
+Searching for: tuhdmovement.com
+tuhdmovement.com UNIQUE
+Searching for: seacoastfixmydevice.com
+seacoastfixmydevice.com UNIQUE
+Searching for: everypetsitter.com
+everypetsitter.com UNIQUE
+Searching for: bosslesschaps.com
+bosslesschaps.com UNIQUE
+Searching for: peaktriad.com
+peaktriad.com UNIQUE
+Searching for: zehjc.com
+zehjc.com UNIQUE
+Searching for: caproblems.com
+caproblems.com UNIQUE
+Searching for: 931f.com
+931f.com UNIQUE
+Searching for: laderaheatherwood.com
+laderaheatherwood.com UNIQUE
+Searching for: begenizamani.com
+begenizamani.com UNIQUE
+Searching for: ok-bricktown.com
+ok-bricktown.com UNIQUE
+Searching for: errotaberri.com
+errotaberri.com UNIQUE
+Searching for: seguridadsoporte.com
+seguridadsoporte.com UNIQUE
+Searching for: kennedymobilenotary.com
+kennedymobilenotary.com UNIQUE
+Searching for: alternategreen.com
+alternategreen.com UNIQUE
+Searching for: silveradoc.com
+silveradoc.com UNIQUE
+Searching for: bixtz.com
+bixtz.com UNIQUE
+Searching for: morejobsnow.com
+morejobsnow.com UNIQUE
+Searching for: movilgasguate.com
+movilgasguate.com UNIQUE
+Searching for: thermalheatingandcooling.com
+thermalheatingandcooling.com UNIQUE
+Searching for: meditails.com
+meditails.com UNIQUE
+Searching for: columbusfilmfund.com
+columbusfilmfund.com UNIQUE
+Searching for: gm-dental.com
+gm-dental.com UNIQUE
+Searching for: za88.com
+za88.com UNIQUE
+Searching for: entspecialiststerling.com
+entspecialiststerling.com UNIQUE
+Searching for: polipoison.com
+polipoison.com UNIQUE
+Searching for: mustardmoxie.com
+mustardmoxie.com UNIQUE
+Searching for: bikumbara.com
+bikumbara.com UNIQUE
+Searching for: uswarpolitics.com
+uswarpolitics.com UNIQUE
+Searching for: endeavortrainingandfitness.com
+endeavortrainingandfitness.com UNIQUE
+Searching for: fuerzadefe.com
+fuerzadefe.com UNIQUE
+Searching for: beganvegan.com
+beganvegan.com UNIQUE
+Searching for: kendallboysen.com
+kendallboysen.com UNIQUE
+Searching for: wirelesschargingdesk.com
+wirelesschargingdesk.com UNIQUE
+Searching for: vipsetup.com
+vipsetup.com UNIQUE
+Searching for: bellamiracle.com
+bellamiracle.com UNIQUE
+Searching for: discoverhakone.com
+discoverhakone.com UNIQUE
+Searching for: globaldetectivebureau.com
+globaldetectivebureau.com UNIQUE
+Searching for: studiodent2000.com
+studiodent2000.com UNIQUE
+Searching for: swipeandlease.com
+swipeandlease.com UNIQUE
+Searching for: firstpropertygroupllc.com
+firstpropertygroupllc.com UNIQUE
+Searching for: weddingbandsinconnecticut.com
+weddingbandsinconnecticut.com UNIQUE
+Searching for: actionapplianceserviceca.com
+actionapplianceserviceca.com UNIQUE
+Searching for: jendeedesigns.com
+jendeedesigns.com UNIQUE
+Searching for: spotviral.com
+spotviral.com UNIQUE
+Searching for: qzysm.com
+qzysm.com UNIQUE
+Searching for: chaseandbeyond.com
+chaseandbeyond.com UNIQUE
+Searching for: xueyige.com
+xueyige.com UNIQUE
+Searching for: vientianeprepaidcard.com
+vientianeprepaidcard.com UNIQUE
+Searching for: decolesuaviagem.com
+decolesuaviagem.com UNIQUE
+Searching for: plastervaluation.com
+plastervaluation.com UNIQUE
+Searching for: weightloss01.com
+weightloss01.com UNIQUE
+Searching for: seahippies.com
+seahippies.com UNIQUE
+Searching for: stanfordstewart.com
+stanfordstewart.com UNIQUE
+Searching for: goavitco.com
+goavitco.com UNIQUE
+Searching for: klassde.com
+klassde.com UNIQUE
+Searching for: thegalwayhooker.com
+thegalwayhooker.com UNIQUE
+Searching for: vedatkasim.com
+vedatkasim.com UNIQUE
+Searching for: homecondominium.com
+homecondominium.com UNIQUE
+Searching for: txnsmgs.com
+txnsmgs.com UNIQUE
+Searching for: solucionesorba.com
+solucionesorba.com UNIQUE
+Searching for: ricochettheplayneway.com
+ricochettheplayneway.com UNIQUE
+Searching for: cy-online.com
+cy-online.com UNIQUE
+Searching for: llapstartrek.com
+llapstartrek.com UNIQUE
+Searching for: maremotor.com
+maremotor.com UNIQUE
+Searching for: topokglasses.com
+topokglasses.com UNIQUE
+Searching for: njwns.com
+njwns.com UNIQUE
+Searching for: staerkestolzanmut.com
+staerkestolzanmut.com UNIQUE
+Searching for: cinerreklamcilik.com
+cinerreklamcilik.com UNIQUE
+Searching for: xn--lksoto-3ya.com
+xn--lksoto-3ya.com UNIQUE
+Searching for: simpelewebsitelatenmaken.com
+simpelewebsitelatenmaken.com UNIQUE
+Searching for: missionburritonyc.com
+missionburritonyc.com UNIQUE
+Searching for: rofl24.com
+rofl24.com UNIQUE
+Searching for: themindfulnesscafe.com
+themindfulnesscafe.com UNIQUE
+Searching for: ifreedthebird.com
+ifreedthebird.com UNIQUE
+Searching for: informaticaporhoras.com
+informaticaporhoras.com UNIQUE
+Searching for: francotosimeccanica.com
+francotosimeccanica.com UNIQUE
+Searching for: bearvalleyspringsgirl.com
+bearvalleyspringsgirl.com UNIQUE
+Searching for: partners-propertyfrontiers.com
+partners-propertyfrontiers.com UNIQUE
+Searching for: coach-cafe.com
+coach-cafe.com UNIQUE
+Searching for: tedzwoodworkings.com
+tedzwoodworkings.com UNIQUE
+Searching for: education-nursing-wiki.com
+education-nursing-wiki.com UNIQUE
+Searching for: everysonicdrink.com
+everysonicdrink.com UNIQUE
+Searching for: albouthna.com
+albouthna.com UNIQUE
+Searching for: flikmag.com
+flikmag.com UNIQUE
+Searching for: brunoaloe.com
+brunoaloe.com UNIQUE
+Searching for: play-crimea.com
+play-crimea.com UNIQUE
+Searching for: chesapeakebayviewcondo.com
+chesapeakebayviewcondo.com UNIQUE
+Searching for: bianto.com
+bianto.com UNIQUE
+Searching for: tvujclanek.com
+tvujclanek.com UNIQUE
+Searching for: qdcega.com
+qdcega.com UNIQUE
+Searching for: baoyang8088.com
+baoyang8088.com UNIQUE
+Searching for: happilyengbertafter.com
+happilyengbertafter.com UNIQUE
+Searching for: instantlondoner.com
+instantlondoner.com UNIQUE
+Searching for: mybrokelifestyle.com
+mybrokelifestyle.com UNIQUE
+Searching for: boutiquerecruitment.com
+boutiquerecruitment.com UNIQUE
+Searching for: 828sj.com
+828sj.com UNIQUE
+Searching for: greeklooksgreat.com
+greeklooksgreat.com UNIQUE
+Searching for: newtop-tv.com
+newtop-tv.com UNIQUE
+Searching for: chrisbatch.com
+chrisbatch.com UNIQUE
+Searching for: remembrancebears.com
+remembrancebears.com UNIQUE
+Searching for: tinasrarbar.com
+tinasrarbar.com UNIQUE
+Searching for: cocukkitaplarim.com
+cocukkitaplarim.com UNIQUE
+Searching for: bonnefriesen.com
+bonnefriesen.com UNIQUE
+Searching for: eisbulle.com
+eisbulle.com UNIQUE
+Searching for: qiaoxiaohuan.com
+qiaoxiaohuan.com UNIQUE
+Searching for: reading-cities.com
+reading-cities.com UNIQUE
+Searching for: 30elmastreeteast.com
+30elmastreeteast.com UNIQUE
+Searching for: pingvinstore.com
+pingvinstore.com UNIQUE
+Searching for: vri-condoconnect.com
+vri-condoconnect.com UNIQUE
+Searching for: tensioapp.com
+tensioapp.com UNIQUE
+Searching for: insightsworx.com
+insightsworx.com UNIQUE
+Searching for: baypointewaterfront.com
+baypointewaterfront.com UNIQUE
+Searching for: xm198.com
+xm198.com UNIQUE
+Searching for: decaturxtreme.com
+decaturxtreme.com UNIQUE
+Searching for: smgdestinations.com
+smgdestinations.com UNIQUE
+Searching for: tech501.com
+tech501.com UNIQUE
+Searching for: 89greenmeadowscir.com
+89greenmeadowscir.com UNIQUE
+Searching for: xn--penyetirt-67a86i.com
+xn--penyetirt-67a86i.com UNIQUE
+Searching for: mobipayme.com
+mobipayme.com UNIQUE
+Searching for: pdxseeds.com
+pdxseeds.com UNIQUE
+Searching for: markenbooster.com
+markenbooster.com UNIQUE
+Searching for: ehubpac.com
+ehubpac.com UNIQUE
+Searching for: amesburyaccounting.com
+amesburyaccounting.com UNIQUE
+Searching for: perfect-medical.com
+perfect-medical.com UNIQUE
+Searching for: hoaxlike.com
+hoaxlike.com UNIQUE
+Searching for: inkytravel.com
+inkytravel.com UNIQUE
+Searching for: shoof-koora.com
+shoof-koora.com UNIQUE
+Searching for: tuopugroup-china.com
+tuopugroup-china.com UNIQUE
+Searching for: homepurchaseindy.com
+homepurchaseindy.com UNIQUE
+Searching for: dzhsr.com
+dzhsr.com UNIQUE
+Searching for: wfkqg.com
+wfkqg.com UNIQUE
+Searching for: ajubank-freelancer.com
+ajubank-freelancer.com UNIQUE
+Searching for: oakbestnew.com
+oakbestnew.com UNIQUE
+Searching for: ylnhm.com
+ylnhm.com UNIQUE
+Searching for: ktddy.com
+ktddy.com UNIQUE
+Searching for: materialliftingtowers.com
+materialliftingtowers.com UNIQUE
+Searching for: 3667712.com
+3667712.com UNIQUE
+Searching for: hoteldelsolphx.com
+hoteldelsolphx.com UNIQUE
+Searching for: rdgzb.com
+rdgzb.com UNIQUE
+Searching for: hypwd.com
+hypwd.com UNIQUE
+Searching for: 3272522.com
+3272522.com UNIQUE
+Searching for: 6215711.com
+6215711.com UNIQUE
+Searching for: ljxfc.com
+ljxfc.com UNIQUE
+Searching for: soundwhereusa.com
+soundwhereusa.com UNIQUE
+Searching for: 5923211.com
+5923211.com UNIQUE
+Searching for: loveczj.com
+loveczj.com UNIQUE
+Searching for: dzdkb.com
+dzdkb.com UNIQUE
+Searching for: tuiniuren.com
+tuiniuren.com UNIQUE
+Searching for: 3386693.com
+3386693.com UNIQUE
+Searching for: fairstockprice.com
+fairstockprice.com UNIQUE
+Searching for: lfqrk.com
+lfqrk.com UNIQUE
+Searching for: zenswell.com
+zenswell.com UNIQUE
+Searching for: chefonawire.com
+chefonawire.com UNIQUE
+Searching for: talnido.com
+talnido.com UNIQUE
+Searching for: 7022678.com
+7022678.com UNIQUE
+Searching for: movetofloridasuncoast.com
+movetofloridasuncoast.com UNIQUE
+Searching for: 5156533.com
+5156533.com UNIQUE
+Searching for: lgwwl.com
+lgwwl.com UNIQUE
+Searching for: 1033bridle.com
+1033bridle.com UNIQUE
+Searching for: rmcwl.com
+rmcwl.com UNIQUE
+Searching for: 2193722.com
+2193722.com UNIQUE
+Searching for: eventlip.com
+eventlip.com UNIQUE
+Searching for: hhfwq.com
+hhfwq.com UNIQUE
+Searching for: 9953765.com
+9953765.com UNIQUE
+Searching for: 9332289.com
+9332289.com UNIQUE
+Searching for: z-wave-store.com
+z-wave-store.com UNIQUE
+Searching for: drivepizzapalmira.com
+drivepizzapalmira.com UNIQUE
+Searching for: jtmsp.com
+jtmsp.com UNIQUE
+Searching for: 7275733.com
+7275733.com UNIQUE
+Searching for: 1936322.com
+1936322.com UNIQUE
+Searching for: gzjxjt.com
+gzjxjt.com UNIQUE
+Searching for: lfdbq.com
+lfdbq.com UNIQUE
+Searching for: dqqhz.com
+dqqhz.com UNIQUE
+Searching for: mytechallrounder.com
+mytechallrounder.com UNIQUE
+Searching for: apexfastmoneyloan.com
+apexfastmoneyloan.com UNIQUE
+Searching for: dontgoworkgoworkinton.com
+dontgoworkgoworkinton.com UNIQUE
+Searching for: peidmontmachine.com
+peidmontmachine.com UNIQUE
+Searching for: dymng.com
+dymng.com UNIQUE
+Searching for: 6117721.com
+6117721.com UNIQUE
+Searching for: topratedmalpracticelawfirms.com
+topratedmalpracticelawfirms.com UNIQUE
+Searching for: pvsrub.com
+pvsrub.com UNIQUE
+Searching for: dqbqy.com
+dqbqy.com UNIQUE
+Searching for: 2522338.com
+2522338.com UNIQUE
+Searching for: fitnessolutionhut.com
+fitnessolutionhut.com UNIQUE
+Searching for: bridgetocolombia.com
+bridgetocolombia.com UNIQUE
+Searching for: 3725959.com
+3725959.com UNIQUE
+Searching for: souq-saudi.com
+souq-saudi.com UNIQUE
+Searching for: bohemicabank.com
+bohemicabank.com UNIQUE
+Searching for: pnsgf.com
+pnsgf.com UNIQUE
+Searching for: 3885621.com
+3885621.com UNIQUE
+Searching for: 8787151.com
+8787151.com UNIQUE
+Searching for: 1226616.com
+1226616.com UNIQUE
+Searching for: nynnq.com
+nynnq.com UNIQUE
+Searching for: hxhdh.com
+hxhdh.com UNIQUE
+Searching for: 3181611.com
+3181611.com UNIQUE
+Searching for: alabamasmallclaimscourtinformation.com
+alabamasmallclaimscourtinformation.com UNIQUE
+Searching for: brandinproduct.com
+brandinproduct.com UNIQUE
+Searching for: dyngx.com
+dyngx.com UNIQUE
+Searching for: skahla.com
+skahla.com UNIQUE
+Searching for: 2799886.com
+2799886.com UNIQUE
+Searching for: 8687662.com
+8687662.com UNIQUE
+Searching for: hcqdm.com
+hcqdm.com UNIQUE
+Searching for: zibajie.com
+zibajie.com UNIQUE
+Searching for: 3871838.com
+3871838.com UNIQUE
+Searching for: 3592877.com
+3592877.com UNIQUE
+Searching for: 3187676.com
+3187676.com UNIQUE
+Searching for: yulongtangdayaofang.com
+yulongtangdayaofang.com UNIQUE
+Searching for: clarencepeters.com
+clarencepeters.com UNIQUE
+Searching for: bcpdm.com
+bcpdm.com UNIQUE
+Searching for: 2552281.com
+2552281.com UNIQUE
+Searching for: omaha-painting-remodeling.com
+EQUALS DOCS FOUND: 2
+Searching for: napleshipprogram.com
+napleshipprogram.com UNIQUE
+Searching for: vitale-health.com
+vitale-health.com UNIQUE
+Searching for: topsnowbootsoutlets.com
+topsnowbootsoutlets.com UNIQUE
+Searching for: mmlxh.com
+mmlxh.com UNIQUE
+Searching for: sgbnz.com
+EQUALS DOCS FOUND: 1
+Searching for: juldizlar.com
+EQUALS DOCS FOUND: 1
+Searching for: 5582291.com
+5582291.com UNIQUE
+Searching for: aliciamontavon.com
+aliciamontavon.com UNIQUE
+Searching for: surrusty.com
+surrusty.com UNIQUE
+Searching for: communicationleaderscircle.com
+communicationleaderscircle.com UNIQUE
+Searching for: sennheise.com
+EQUALS DOCS FOUND: 1
+Searching for: ebayprofitmadeeasy.com
+ebayprofitmadeeasy.com UNIQUE
+Searching for: 9464555.com
+9464555.com UNIQUE
+Searching for: zhazhipu.com
+EQUALS DOCS FOUND: 1
+Searching for: hiltonheadwoman.com
+EQUALS DOCS FOUND: 1
+Searching for: 855findtruth.com
+EQUALS DOCS FOUND: 1
+Searching for: 99173999.com
+99173999.com UNIQUE
+Searching for: wzcyk.com
+wzcyk.com UNIQUE
+Searching for: yaytexas.com
+EQUALS DOCS FOUND: 1
+Searching for: audiatel.com
+EQUALS DOCS FOUND: 1
+Searching for: moonshinebeauties.com
+moonshinebeauties.com UNIQUE
+Searching for: getraleigh.com
+EQUALS DOCS FOUND: 1
+Searching for: saborafrutas.com
+EQUALS DOCS FOUND: 2
+Searching for: 3636448.com
+3636448.com UNIQUE
+Searching for: getphillipines.com
+EQUALS DOCS FOUND: 1
+Searching for: literarymints.com
+literarymints.com UNIQUE
+Searching for: logicom-africa.com
+logicom-africa.com UNIQUE
+Searching for: coloradocarclinic.com
+EQUALS DOCS FOUND: 1
+Searching for: iznenadabg.com
+iznenadabg.com UNIQUE
+Searching for: 6857878.com
+6857878.com UNIQUE
+Searching for: suzukibikeparts.com
+suzukibikeparts.com UNIQUE
+Searching for: generalcounselireland.com
+EQUALS DOCS FOUND: 1
+Searching for: cheapleaflet.com
+EQUALS DOCS FOUND: 1
+Searching for: streetvenomm.com
+EQUALS DOCS FOUND: 1
+Searching for: canalout.com
+canalout.com UNIQUE
+Searching for: hydebilt.com
+EQUALS DOCS FOUND: 2
+Searching for: marriageceremoniesny.com
+EQUALS DOCS FOUND: 1
+Searching for: yourcoachk.com
+EQUALS DOCS FOUND: 3
+Searching for: lifeimagesbyjillharrison.com
+EQUALS DOCS FOUND: 2
+Searching for: dazzlingbeauties.com
+EQUALS DOCS FOUND: 1
+Searching for: productorapicopance.com
+EQUALS DOCS FOUND: 1
+Searching for: boardmandiscounttravel.com
+EQUALS DOCS FOUND: 1
+Searching for: qdjiedong.com
+EQUALS DOCS FOUND: 2
+Searching for: fortprod.com
+EQUALS DOCS FOUND: 1
+Searching for: easternshoredigital.com
+easternshoredigital.com UNIQUE
+Searching for: commercezoneasia.com
+EQUALS DOCS FOUND: 1
+Searching for: sportingbetitalia.com
+EQUALS DOCS FOUND: 1
+Searching for: hongkongcarteretnj.com
+hongkongcarteretnj.com UNIQUE
+Searching for: malloryballinger.com
+malloryballinger.com UNIQUE
+Searching for: honestrenter.com
+EQUALS DOCS FOUND: 3
+Searching for: wrapwiththismom.com
+wrapwiththismom.com UNIQUE
+Searching for: chrisandrex.com
+EQUALS DOCS FOUND: 1
+Searching for: promotionchaudieres.com
+promotionchaudieres.com UNIQUE
+Searching for: dacoury.com
+EQUALS DOCS FOUND: 1
+Searching for: paidinspades.com
+EQUALS DOCS FOUND: 1
+Searching for: trendlabroomdecor.com
+EQUALS DOCS FOUND: 1
+Searching for: albanylarktavern.com
+EQUALS DOCS FOUND: 1
+Searching for: princehenrymedical.com
+EQUALS DOCS FOUND: 1
+Searching for: baijiruihotel.com
+EQUALS DOCS FOUND: 2
+Searching for: configlife.com
+EQUALS DOCS FOUND: 1
+Searching for: rubencaraveo.com
+EQUALS DOCS FOUND: 1
+Searching for: impactqualit.com
+EQUALS DOCS FOUND: 2
+Searching for: allelementrestoration.com
+EQUALS DOCS FOUND: 2
+Searching for: sugar4ever.com
+EQUALS DOCS FOUND: 1
+Searching for: 817311.com
+817311.com UNIQUE
+Searching for: exportengine.com
+EQUALS DOCS FOUND: 1
+Searching for: iris-mulhouse.com
+EQUALS DOCS FOUND: 1
+Searching for: traininglikeapro.com
+EQUALS DOCS FOUND: 1
+Searching for: laapconcepts.com
+EQUALS DOCS FOUND: 1
+Searching for: sophisticated-makeup.com
+EQUALS DOCS FOUND: 1
+Searching for: tubishu.com
+tubishu.com UNIQUE
+Searching for: bimonly.com
+EQUALS DOCS FOUND: 1
+Searching for: rabcrafthall.com
+rabcrafthall.com UNIQUE
+Searching for: knitting999.com
+knitting999.com UNIQUE
+Searching for: xn--uiru7lyyvzgxa517w.com
+xn--uiru7lyyvzgxa517w.com UNIQUE
+Searching for: spagasbuildingservices.com
+EQUALS DOCS FOUND: 1
+Searching for: 77729666.com
+77729666.com UNIQUE
+Searching for: wackylax.com
+EQUALS DOCS FOUND: 1
+Searching for: successwithamy.com
+EQUALS DOCS FOUND: 1
+Searching for: cplnw.com
+cplnw.com UNIQUE
+Searching for: tilisha.com
+tilisha.com UNIQUE
+Searching for: thebeautycult.com
+EQUALS DOCS FOUND: 1
+Searching for: bazicobioenergia.com
+bazicobioenergia.com UNIQUE
+Searching for: aqualtum.com
+EQUALS DOCS FOUND: 1
+Searching for: arboldelcorazon.com
+EQUALS DOCS FOUND: 1
+Searching for: lauralacombe.com
+EQUALS DOCS FOUND: 3
+Searching for: visitcoloma.com
+EQUALS DOCS FOUND: 2
+Searching for: galvanencuadernacionesdearte.com
+EQUALS DOCS FOUND: 2
+Searching for: pasteleriaslaera.com
+EQUALS DOCS FOUND: 2
+Searching for: weiniesandbikinis.com
+EQUALS DOCS FOUND: 1
+Searching for: benitofreire.com
+EQUALS DOCS FOUND: 2
+Searching for: ukworldthailand.com
+EQUALS DOCS FOUND: 1
+Searching for: coffeescrollmusic.com
+coffeescrollmusic.com UNIQUE
+Searching for: 6875899.com
+6875899.com UNIQUE
+Searching for: jwnwh.com
+EQUALS DOCS FOUND: 1
+Searching for: neyosolutions.com
+neyosolutions.com UNIQUE
+Searching for: noblestransmissionoahu.com
+EQUALS DOCS FOUND: 1
+Searching for: themorrisonclan.com
+EQUALS DOCS FOUND: 1
+Searching for: cuudulieuvn.com
+EQUALS DOCS FOUND: 1
+Searching for: gthonda.com
+EQUALS DOCS FOUND: 1
+Searching for: worldonetwo.com
+worldonetwo.com UNIQUE
+Searching for: plentyofrichfish.com
+EQUALS DOCS FOUND: 1
+Searching for: fuziom.com
+EQUALS DOCS FOUND: 1
+Searching for: expo2015tour.com
+EQUALS DOCS FOUND: 1
+Searching for: felishiasdiscountgoods.com
+felishiasdiscountgoods.com UNIQUE
+Searching for: 0701jx.com
+0701jx.com UNIQUE
+Searching for: wonpark.com
+EQUALS DOCS FOUND: 1
+Searching for: chapelhillhomeservices.com
+chapelhillhomeservices.com UNIQUE
+Searching for: vipprescription.com
+EQUALS DOCS FOUND: 1
+Searching for: standrewsgreenweek.com
+EQUALS DOCS FOUND: 2
+Searching for: homesartdecorltd.com
+EQUALS DOCS FOUND: 1
+Searching for: xeraproducts.com
+xeraproducts.com UNIQUE
+Searching for: aenergycorp.com
+aenergycorp.com UNIQUE
+Searching for: nosehairwaxremovalkit.com
+EQUALS DOCS FOUND: 1
+Searching for: salcamera.com
+EQUALS DOCS FOUND: 4
+Searching for: patriots4america.com
+EQUALS DOCS FOUND: 3
+Searching for: 99-yt.com
+99-yt.com UNIQUE
+Searching for: maritimewriter.com
+EQUALS DOCS FOUND: 2
+Searching for: meganfemery.com
+meganfemery.com UNIQUE
+Searching for: megabytecasino.com
+megabytecasino.com UNIQUE
+Searching for: thecheapskatedoityourselfer.com
+thecheapskatedoityourselfer.com UNIQUE
+Searching for: xiaotingzi.com
+xiaotingzi.com UNIQUE
+Searching for: palmvillasrwc.com
+palmvillasrwc.com UNIQUE
+Searching for: haipiulu.com
+haipiulu.com UNIQUE
+Searching for: himalayanvalleyhr.com
+himalayanvalleyhr.com UNIQUE
+Searching for: souanzhuo.com
+souanzhuo.com UNIQUE
+Searching for: stick2015.com
+stick2015.com UNIQUE
+Searching for: eflowpos.com
+eflowpos.com UNIQUE
+Searching for: clicklamua.com
+clicklamua.com UNIQUE
+Searching for: girlsexwithanimals.com
+girlsexwithanimals.com UNIQUE
+Searching for: themasterscs.com
+themasterscs.com UNIQUE
+Searching for: living-shop.com
+living-shop.com UNIQUE
+Searching for: shineclasses.com
+shineclasses.com UNIQUE
+Searching for: sacteamachievers.com
+sacteamachievers.com UNIQUE
+Searching for: slgdallasattorneys.com
+slgdallasattorneys.com UNIQUE
+Searching for: monxqp.com
+monxqp.com UNIQUE
+Searching for: renoviolinlessons.com
+renoviolinlessons.com UNIQUE
+Searching for: overtonparkapartments.com
+overtonparkapartments.com UNIQUE
+Searching for: metodototal.com
+metodototal.com UNIQUE
+Searching for: mayconsen.com
+mayconsen.com UNIQUE
+Searching for: nitetamilnadu.com
+nitetamilnadu.com UNIQUE
+Searching for: sechura-phosphate.com
+sechura-phosphate.com UNIQUE
+Searching for: mharthi.com
+mharthi.com UNIQUE
+Searching for: nowrouzi-psychotherapie.com
+nowrouzi-psychotherapie.com UNIQUE
+Searching for: marketingoverbeer.com
+marketingoverbeer.com UNIQUE
+Searching for: matchgateway.com
+matchgateway.com UNIQUE
+Searching for: rafaelmelophoto.com
+rafaelmelophoto.com UNIQUE
+Searching for: orphansmatch.com
+orphansmatch.com UNIQUE
+Searching for: rentcoldlake.com
+rentcoldlake.com UNIQUE
+Searching for: monbeaudessin.com
+monbeaudessin.com UNIQUE
+Searching for: sanderscentralvac.com
+sanderscentralvac.com UNIQUE
+Searching for: leakexpertsplumbing.com
+leakexpertsplumbing.com UNIQUE
+Searching for: macattacktournament.com
+macattacktournament.com UNIQUE
+Searching for: lovemesomeyoga.com
+lovemesomeyoga.com UNIQUE
+Searching for: trusight-carbon.com
+trusight-carbon.com UNIQUE
+Searching for: topseolive.com
+topseolive.com UNIQUE
+Searching for: luckyqun.com
+luckyqun.com UNIQUE
+Searching for: russoukrainianwar.com
+russoukrainianwar.com UNIQUE
+Searching for: meeplesteeple.com
+meeplesteeple.com UNIQUE
+Searching for: vxdast.com
+vxdast.com UNIQUE
+Searching for: mx2materials.com
+mx2materials.com UNIQUE
+Searching for: tikinaut.com
+tikinaut.com UNIQUE
+Searching for: marleonandtanya.com
+marleonandtanya.com UNIQUE
+Searching for: wadeatx.com
+wadeatx.com UNIQUE
+Searching for: logicophobia.com
+logicophobia.com UNIQUE
+Searching for: luckygdl.com
+luckygdl.com UNIQUE
+Searching for: cepatlaku.com
+cepatlaku.com UNIQUE
+Searching for: lmgstell.com
+lmgstell.com UNIQUE
+Searching for: hinoshop.com
+hinoshop.com UNIQUE
+Searching for: internetwordservices.com
+internetwordservices.com UNIQUE
+Searching for: stellarhosp.com
+stellarhosp.com UNIQUE
+Searching for: hobitik.com
+hobitik.com UNIQUE
+Searching for: 125vanbuuren.com
+125vanbuuren.com UNIQUE
+Searching for: newschannel365aberdeen.com
+newschannel365aberdeen.com UNIQUE
+Searching for: poshboudoircollection.com
+poshboudoircollection.com UNIQUE
+Searching for: yahhe.com
+yahhe.com UNIQUE
+Searching for: e-palosanto.com
+e-palosanto.com UNIQUE
+Searching for: arnisons.com
+arnisons.com UNIQUE
+Searching for: clearcourseconsulting.com
+clearcourseconsulting.com UNIQUE
+Searching for: bienesraicesyuriria.com
+bienesraicesyuriria.com UNIQUE
+Searching for: pettyposts.com
+pettyposts.com UNIQUE
+Searching for: wwwsearchcactus.com
+wwwsearchcactus.com UNIQUE
+Searching for: oklahomacoralfarmers.com
+oklahomacoralfarmers.com UNIQUE
+Searching for: farmersseafoodmarket.com
+farmersseafoodmarket.com UNIQUE
+Searching for: natellweds.com
+natellweds.com UNIQUE
+Searching for: mafianuevayork.com
+mafianuevayork.com UNIQUE
+Searching for: xinkawen.com
+xinkawen.com UNIQUE
+Searching for: updatesdaddy.com
+updatesdaddy.com UNIQUE
+Searching for: objectiveprogram.com
+objectiveprogram.com UNIQUE
+Searching for: meshfully.com
+meshfully.com UNIQUE
+Searching for: messyphotography14.com
+messyphotography14.com UNIQUE
+Searching for: ogotosurvey.com
+ogotosurvey.com UNIQUE
+Searching for: rospdr.com
+rospdr.com UNIQUE
+Searching for: meetthelighthousecrew.com
+meetthelighthousecrew.com UNIQUE
+Searching for: stevesaxtonmusic.com
+stevesaxtonmusic.com UNIQUE
+Searching for: ponyoponyo06.com
+ponyoponyo06.com UNIQUE
+Searching for: pembrokemineralconsultants.com
+pembrokemineralconsultants.com UNIQUE
+Searching for: linamahmassani.com
+linamahmassani.com UNIQUE
+Searching for: mewhyderabad.com
+mewhyderabad.com UNIQUE
+Searching for: ngoles.com
+ngoles.com UNIQUE
+Searching for: xuntongqixiu.com
+xuntongqixiu.com UNIQUE
+Searching for: msc2622.com
+msc2622.com UNIQUE
+Searching for: microtec-arck.com
+microtec-arck.com UNIQUE
+Searching for: slagency28.com
+slagency28.com UNIQUE
+Searching for: manlyblooms.com
+manlyblooms.com UNIQUE
+Searching for: 659898.com
+659898.com UNIQUE
+Searching for: makerfuelchallenge.com
+makerfuelchallenge.com UNIQUE
+Searching for: topvetonline.com
+topvetonline.com UNIQUE
+Searching for: mansionrecruitment.com
+mansionrecruitment.com UNIQUE
+Searching for: theresaratermann.com
+theresaratermann.com UNIQUE
+Searching for: lizbeardmoredarosa.com
+lizbeardmoredarosa.com UNIQUE
+Searching for: ywxsylcwx.com
+ywxsylcwx.com UNIQUE
+Searching for: m2-eventtechnology.com
+m2-eventtechnology.com UNIQUE
+Searching for: mdpcb.com
+mdpcb.com UNIQUE
+Searching for: orwiginnovations.com
+orwiginnovations.com UNIQUE
+Searching for: mortgage-loans-insurance-attorney-credit-lawyer.com
+mortgage-loans-insurance-attorney-credit-lawyer.com UNIQUE
+Searching for: nogeninvestment.com
+nogeninvestment.com UNIQUE
+Searching for: persimmontreephotography.com
+persimmontreephotography.com UNIQUE
+Searching for: kkqpm.com
+kkqpm.com UNIQUE
+Searching for: pl-transitions.com
+pl-transitions.com UNIQUE
+Searching for: hnndx.com
+hnndx.com UNIQUE
+Searching for: 796150.com
+796150.com UNIQUE
+Searching for: 9911175.com
+9911175.com UNIQUE
+Searching for: americanfamilycookies.com
+EQUALS DOCS FOUND: 1
+Searching for: acorsant.com
+acorsant.com UNIQUE
+Searching for: accessorieinlove.com
+EQUALS DOCS FOUND: 1
+Searching for: icinemalatino.com
+icinemalatino.com UNIQUE
+Searching for: sgeasymaxi.com
+sgeasymaxi.com UNIQUE
+Searching for: horseshoebayseller.com
+EQUALS DOCS FOUND: 1
+Searching for: 0310008.com
+0310008.com UNIQUE
+Searching for: careerinstitue.com
+EQUALS DOCS FOUND: 1
+Searching for: fountainavehouse.com
+fountainavehouse.com UNIQUE
+Searching for: minifigurephotography.com
+EQUALS DOCS FOUND: 1
+Searching for: bargaindorks.com
+bargaindorks.com UNIQUE
+Searching for: agilitydogtrainingequipment.com
+EQUALS DOCS FOUND: 1
+Searching for: xinglianchichuang.com
+xinglianchichuang.com UNIQUE
+Searching for: kacokids.com
+EQUALS DOCS FOUND: 5
+Searching for: 280608.com
+280608.com UNIQUE
+Searching for: snapstaffnetwork.com
+snapstaffnetwork.com UNIQUE
+Searching for: datamax-partner.com
+EQUALS DOCS FOUND: 1
+Searching for: efurnituresupplies.com
+efurnituresupplies.com UNIQUE
+Searching for: pxsfy.com
+pxsfy.com UNIQUE
+Searching for: dlsfr.com
+dlsfr.com UNIQUE
+Searching for: greakly.com
+EQUALS DOCS FOUND: 1
+Searching for: abm-space.com
+EQUALS DOCS FOUND: 3
+Searching for: sweetandchewy.com
+sweetandchewy.com UNIQUE
+Searching for: igfauvergne.com
+EQUALS DOCS FOUND: 1
+Searching for: parcota.com
+parcota.com UNIQUE
+Searching for: jiejinyan.com
+jiejinyan.com UNIQUE
+Searching for: zstx999.com
+zstx999.com UNIQUE
+Searching for: 5589268.com
+5589268.com UNIQUE
+Searching for: burgisbuildingservices.com
+EQUALS DOCS FOUND: 1
+Searching for: ntnbait.com
+EQUALS DOCS FOUND: 1
+Searching for: xpmct.com
+xpmct.com UNIQUE
+Searching for: sellorswapshop.com
+EQUALS DOCS FOUND: 1
+Searching for: itworkswithjuls.com
+itworkswithjuls.com UNIQUE
+Searching for: caffecialdefirenze.com
+EQUALS DOCS FOUND: 1
+Searching for: argonuhc.com
+argonuhc.com UNIQUE
+Searching for: ydc090.com
+ydc090.com UNIQUE
+Searching for: caribislands.com
+EQUALS DOCS FOUND: 1
+Searching for: micaelus.com
+EQUALS DOCS FOUND: 1
+Searching for: lmomiou.com
+lmomiou.com UNIQUE
+Searching for: stclouddoula.com
+stclouddoula.com UNIQUE
+Searching for: mist-unlimited.com
+mist-unlimited.com UNIQUE
+Searching for: loiseauxverres.com
+loiseauxverres.com UNIQUE
+Searching for: wszgb.com
+wszgb.com UNIQUE
+Searching for: honey-moons.com
+EQUALS DOCS FOUND: 1
+Searching for: hostelgamboa.com
+hostelgamboa.com UNIQUE
+Searching for: handsomemc.com
+handsomemc.com UNIQUE
+Searching for: sweaterkitty.com
+EQUALS DOCS FOUND: 1
+Searching for: chlbw.com
+chlbw.com UNIQUE
+Searching for: icap-ex2.com
+icap-ex2.com UNIQUE
+Searching for: bearhawkfitness.com
+bearhawkfitness.com UNIQUE
+Searching for: ultimatescreens.com
+ultimatescreens.com UNIQUE
+Searching for: nbhrh.com
+nbhrh.com UNIQUE
+Searching for: wtfmsales.com
+EQUALS DOCS FOUND: 1
+Searching for: concertinparis.com
+EQUALS DOCS FOUND: 2
+Searching for: ttl1013.com
+ttl1013.com UNIQUE
+Searching for: 0129983.com
+0129983.com UNIQUE
+Searching for: firstaidqueensland.com
+EQUALS DOCS FOUND: 1
+Searching for: ndump.com
+EQUALS DOCS FOUND: 1
+Searching for: bxhjx.com
+bxhjx.com UNIQUE
+Searching for: chenkez.com
+chenkez.com UNIQUE
+Searching for: xiaodongxing.com
+xiaodongxing.com UNIQUE
+Searching for: ottawaifs.com
+ottawaifs.com UNIQUE
+Searching for: corporateemployeejewelrydiscounts.com
+corporateemployeejewelrydiscounts.com UNIQUE
+Searching for: bodhisustained.com
+EQUALS DOCS FOUND: 1
+Searching for: qphysique.com
+EQUALS DOCS FOUND: 1
+Searching for: zhangtengyun.com
+EQUALS DOCS FOUND: 1
+Searching for: krikat.com
+EQUALS DOCS FOUND: 1
+Searching for: dopvape.com
+EQUALS DOCS FOUND: 1
+Searching for: cuerossportsgarden.com
+cuerossportsgarden.com UNIQUE
+Searching for: littlesupervelvet.com
+EQUALS DOCS FOUND: 1
+Searching for: psadewas.com
+psadewas.com UNIQUE
+Searching for: bocemall.com
+EQUALS DOCS FOUND: 4
+Searching for: mainstreambarbers.com
+EQUALS DOCS FOUND: 1
+Searching for: understandingyourteen.com
+EQUALS DOCS FOUND: 1
+Searching for: beazlay.com
+beazlay.com UNIQUE
+Searching for: watchingmachine.com
+EQUALS DOCS FOUND: 1
+Searching for: maryanatfashions.com
+EQUALS DOCS FOUND: 1
+Searching for: mgeeng.com
+EQUALS DOCS FOUND: 2
+Searching for: hiltrudriederer.com
+EQUALS DOCS FOUND: 1
+Searching for: hanni888.com
+hanni888.com UNIQUE
+Searching for: xhglv.com
+EQUALS DOCS FOUND: 1
+Searching for: morpayments.com
+EQUALS DOCS FOUND: 1
+Searching for: sewmyimagination.com
+EQUALS DOCS FOUND: 1
+Searching for: cupidmates.com
+EQUALS DOCS FOUND: 1
+Searching for: airportindex.com
+EQUALS DOCS FOUND: 1
+Searching for: gaochenxi.com
+EQUALS DOCS FOUND: 1
+Searching for: 8866778899.com
+8866778899.com UNIQUE
+Searching for: sikyoority.com
+EQUALS DOCS FOUND: 1
+Searching for: pure-newzealand.com
+EQUALS DOCS FOUND: 1
+Searching for: oilideas.com
+oilideas.com UNIQUE
+Searching for: hg59444.com
+EQUALS DOCS FOUND: 1
+Searching for: traveloania.com
+traveloania.com UNIQUE
+Searching for: qqn290.com
+EQUALS DOCS FOUND: 1
+Searching for: sisgm.com
+EQUALS DOCS FOUND: 1
+Searching for: mywalkwithdiabetes.com
+mywalkwithdiabetes.com UNIQUE
+Searching for: plamanagedservices.com
+plamanagedservices.com UNIQUE
+Searching for: web-hosting-frontpage-pro.net
+EQUALS DOCS FOUND: 1
+Searching for: sellerhelpdesk.com
+EQUALS DOCS FOUND: 1
+Searching for: mae-midwest.net
+EQUALS DOCS FOUND: 1
+Searching for: gcs-az.com
+EQUALS DOCS FOUND: 3
+Searching for: intouchit.com
+EQUALS DOCS FOUND: 2
+Searching for: xactsolution.com
+EQUALS DOCS FOUND: 2
+Searching for: cbtsonline.com
+EQUALS DOCS FOUND: 1
+Searching for: valleycomputersolutions.com
+EQUALS DOCS FOUND: 6
+Searching for: securisys.com.au
+securisys.com.au UNIQUE
+Searching for: santamarianetworksupport.net
+EQUALS DOCS FOUND: 1
+Searching for: guamsys.com
+EQUALS DOCS FOUND: 1
+Searching for: advancedips.com
+EQUALS DOCS FOUND: 2
+Searching for: greatitpros.com
+EQUALS DOCS FOUND: 2
+Searching for: mkbtech.com
+EQUALS DOCS FOUND: 1
+Searching for: freewarecds.com
+EQUALS DOCS FOUND: 1
+Searching for: quickvitae.com
+quickvitae.com UNIQUE
+Searching for: key-pages.net
+EQUALS DOCS FOUND: 1
+Searching for: titangbs.org
+EQUALS DOCS FOUND: 1
+Searching for: omnitechsupport.com
+EQUALS DOCS FOUND: 5
+Searching for: commitelsolutions.com
+EQUALS DOCS FOUND: 2
+Searching for: nst-ct.com
+nst-ct.com UNIQUE
+Searching for: techfirmation.com
+EQUALS DOCS FOUND: 2
+Searching for: coloradonetworkmanagement.com
+EQUALS DOCS FOUND: 1
+Searching for: ccscloudbackups.net
+EQUALS DOCS FOUND: 1
+Searching for: natco-inc.com
+EQUALS DOCS FOUND: 2
+Searching for: der-webhostingtarif.com
+EQUALS DOCS FOUND: 1
+Searching for: dcbproduction.com
+dcbproduction.com UNIQUE
+Searching for: latiendadelasoportunidades-castalla.com
+latiendadelasoportunidades-castalla.com UNIQUE
+Searching for: onglutenfree.com
+onglutenfree.com UNIQUE
+Searching for: applylane.com
+applylane.com UNIQUE
+Searching for: apolykarpou.com
+apolykarpou.com UNIQUE
+Searching for: mushroomcontrol.com
+mushroomcontrol.com UNIQUE
+Searching for: drinkpinkandshrinkaz.com
+drinkpinkandshrinkaz.com UNIQUE
+Searching for: cleardrv.com
+cleardrv.com UNIQUE
+Searching for: thesoundguytom.com
+thesoundguytom.com UNIQUE
+Searching for: yadagiriguttanews.com
+yadagiriguttanews.com UNIQUE
+Searching for: ddfylc1025.com
+ddfylc1025.com UNIQUE
+Searching for: qdtjs699.com
+qdtjs699.com UNIQUE
+Searching for: pa-intercom-severine.com
+pa-intercom-severine.com UNIQUE
+Searching for: genevievefairclough.com
+genevievefairclough.com UNIQUE
+Searching for: prayersforpennie.com
+prayersforpennie.com UNIQUE
+Searching for: htmelectrical.com
+htmelectrical.com UNIQUE
+Searching for: wmworldmedia.com
+wmworldmedia.com UNIQUE
+Searching for: novataur.com
+novataur.com UNIQUE
+Searching for: djfhkjd-hfedfukh.com
+djfhkjd-hfedfukh.com UNIQUE
+Searching for: pisthu.com
+pisthu.com UNIQUE
+Searching for: caeprueba.com
+caeprueba.com UNIQUE
+Searching for: nicthagreat.com
+nicthagreat.com UNIQUE
+Searching for: 7ocmwq9n2icl5j0.com
+7ocmwq9n2icl5j0.com UNIQUE
+Searching for: attainirvanaphotoco.com
+attainirvanaphotoco.com UNIQUE
+Searching for: mailpnetimgs.com
+mailpnetimgs.com UNIQUE
+Searching for: gezzwutt.com
+gezzwutt.com UNIQUE
+Searching for: eliteforcleaning.com
+eliteforcleaning.com UNIQUE
+Searching for: legacyeventsgh.com
+legacyeventsgh.com UNIQUE
+Searching for: valpharmainternational.com
+valpharmainternational.com UNIQUE
+Searching for: timothybborchers.com
+timothybborchers.com UNIQUE
+Searching for: hoteltodoincluidomexico.com
+hoteltodoincluidomexico.com UNIQUE
+Searching for: manufacturinginsanity.com
+manufacturinginsanity.com UNIQUE
+Searching for: g-kouryaku.com
+g-kouryaku.com UNIQUE
+Searching for: cityscapecabinets.com
+cityscapecabinets.com UNIQUE
+Searching for: 2223kelton.com
+2223kelton.com UNIQUE
+Searching for: fhfqby.com
+fhfqby.com UNIQUE
+Searching for: njcsh.com
+njcsh.com UNIQUE
+Searching for: brumasdoiguacu.com
+brumasdoiguacu.com UNIQUE
+Searching for: biletpro.com
+biletpro.com UNIQUE
+Searching for: infobresse.com
+infobresse.com UNIQUE
+Searching for: belmontboosters.com
+belmontboosters.com UNIQUE
+Searching for: uxrush.com
+uxrush.com UNIQUE
+Searching for: terangeneralcontractor.com
+terangeneralcontractor.com UNIQUE
+Searching for: luxushill.com
+luxushill.com UNIQUE
+Searching for: satuhaji.com
+satuhaji.com UNIQUE
+Searching for: assistedlivinghomesbowie.com
+assistedlivinghomesbowie.com UNIQUE
+Searching for: datingfordoglovers.com
+datingfordoglovers.com UNIQUE
+Searching for: farbenchem.com
+farbenchem.com UNIQUE
+Searching for: greateuropeancarnival.com
+greateuropeancarnival.com UNIQUE
+Searching for: reikilovepanama.com
+reikilovepanama.com UNIQUE
+Searching for: onthejobtrainingsquared.com
+onthejobtrainingsquared.com UNIQUE
+Searching for: kicklevel.com
+kicklevel.com UNIQUE
+Searching for: sunrainy66.com
+sunrainy66.com UNIQUE
+Searching for: summitticklistseries.com
+summitticklistseries.com UNIQUE
+Searching for: jiafenshenqi.com
+jiafenshenqi.com UNIQUE
+Searching for: jadathompson.com
+jadathompson.com UNIQUE
+Searching for: 291cc.com
+291cc.com UNIQUE
+Searching for: mondoegitto.com
+mondoegitto.com UNIQUE
+Searching for: wheretogoguate.com
+wheretogoguate.com UNIQUE
+Searching for: davidmausjaguar.com
+davidmausjaguar.com UNIQUE
+Searching for: growwithteece.com
+growwithteece.com UNIQUE
+Searching for: spafacilitydallastx.com
+spafacilitydallastx.com UNIQUE
+Searching for: colemanprattlawfirm.com
+colemanprattlawfirm.com UNIQUE
+Searching for: laplayasky.com
+laplayasky.com UNIQUE
+Searching for: liebeda.com
+liebeda.com UNIQUE
+Searching for: linethaidd.com
+linethaidd.com UNIQUE
+Searching for: suprlink.com
+suprlink.com UNIQUE
+Searching for: summitcalendar.com
+summitcalendar.com UNIQUE
+Searching for: larchaccountancy.com
+larchaccountancy.com UNIQUE
+Searching for: brandjacketsoutletshop.com
+brandjacketsoutletshop.com UNIQUE
+Searching for: e-mobilelearning.com
+e-mobilelearning.com UNIQUE
+Searching for: dkfjodhek.com
+dkfjodhek.com UNIQUE
+Searching for: lqtzjgb.com
+lqtzjgb.com UNIQUE
+Searching for: 305clearsprings.com
+305clearsprings.com UNIQUE
+Searching for: agilephysician.com
+agilephysician.com UNIQUE
+Searching for: justaskinternational.com
+justaskinternational.com UNIQUE
+Searching for: sueballard.com
+sueballard.com UNIQUE
+Searching for: xjiang168.com
+xjiang168.com UNIQUE
+Searching for: kxeoolt.com
+kxeoolt.com UNIQUE
+Searching for: elephantasticdesigns.com
+elephantasticdesigns.com UNIQUE
+Searching for: oldtownhallsalem.com
+oldtownhallsalem.com UNIQUE
+Searching for: brooksidenc.com
+brooksidenc.com UNIQUE
+Searching for: zhongjiqi.com
+zhongjiqi.com UNIQUE
+Searching for: szykjc.com
+szykjc.com UNIQUE
+Searching for: 12-music.com
+12-music.com UNIQUE
+Searching for: murryridge.com
+murryridge.com UNIQUE
+Searching for: ceraphinmusicrecords.com
+ceraphinmusicrecords.com UNIQUE
+Searching for: forsatn.com
+forsatn.com UNIQUE
+Searching for: cowboyssoutherncatering.com
+cowboyssoutherncatering.com UNIQUE
+Searching for: americansportsnutrion.com
+americansportsnutrion.com UNIQUE
+Searching for: craftedcocktailcompany.com
+craftedcocktailcompany.com UNIQUE
+Searching for: bmwiofaustin-connectdrive.com
+bmwiofaustin-connectdrive.com UNIQUE
+Searching for: hijab-dental.com
+hijab-dental.com UNIQUE
+Searching for: wageringit.com
+wageringit.com UNIQUE
+Searching for: iowamassagecontinuingeducation.com
+iowamassagecontinuingeducation.com UNIQUE
+Searching for: familyfeather.com
+familyfeather.com UNIQUE
+Searching for: parbuckel.com
+parbuckel.com UNIQUE
+Searching for: fensiqq.com
+fensiqq.com UNIQUE
+Searching for: legalservicesmemphistn.com
+legalservicesmemphistn.com UNIQUE
+Searching for: discusfishbreeding.com
+discusfishbreeding.com UNIQUE
+Searching for: belayteeny.com
+belayteeny.com UNIQUE
+Searching for: xiaohuobanxjq.com
+xiaohuobanxjq.com UNIQUE
+Searching for: varisindo.com
+varisindo.com UNIQUE
+Searching for: vaneojrl.com
+vaneojrl.com UNIQUE
+Searching for: 123fence.com
+123fence.com UNIQUE
+Searching for: grandoptipon.com
+grandoptipon.com UNIQUE
+Searching for: honghuabz.com
+honghuabz.com UNIQUE
+Searching for: eleonoracorvetta.com
+eleonoracorvetta.com UNIQUE
+Searching for: lauramagistri.com
+lauramagistri.com UNIQUE
+Searching for: patchwrx.com
+patchwrx.com UNIQUE
+Searching for: nwzqap59q1l.com
+nwzqap59q1l.com UNIQUE
+Searching for: immobiliengmbh.com
+immobiliengmbh.com UNIQUE
+Searching for: ebeautybay.com
+ebeautybay.com UNIQUE
+Searching for: vierasoft.com
+vierasoft.com UNIQUE
+Searching for: dreadm.com
+dreadm.com UNIQUE
+Searching for: deviltrade.com
+deviltrade.com UNIQUE
+Searching for: hmarty.com
+hmarty.com UNIQUE
+Searching for: rich-sound.com
+rich-sound.com UNIQUE
+Searching for: smobilenomix.com
+smobilenomix.com UNIQUE
+Searching for: fuckcisco.com
+fuckcisco.com UNIQUE
+Searching for: samungsrvis.com
+samungsrvis.com UNIQUE
+Searching for: theoconeeeffect.com
+theoconeeeffect.com UNIQUE
+Searching for: ozkarahancinakliyat.com
+ozkarahancinakliyat.com UNIQUE
+Searching for: mdoudounepaschersoldes.com
+mdoudounepaschersoldes.com UNIQUE
+Searching for: lienyang.com
+lienyang.com UNIQUE
+Searching for: greaterlax.com
+greaterlax.com UNIQUE
+Searching for: smilingpaw.com
+smilingpaw.com UNIQUE
+Searching for: haotvwang.com
+haotvwang.com UNIQUE
+Searching for: newlifebuildersllc.com
+newlifebuildersllc.com UNIQUE
+Searching for: qualibanques.com
+qualibanques.com UNIQUE
+Searching for: tripletreehotels-ng.com
+tripletreehotels-ng.com UNIQUE
+Searching for: everygraham.com
+everygraham.com UNIQUE
+Searching for: jinzouyuanzhuangbao.com
+jinzouyuanzhuangbao.com UNIQUE
+Searching for: kylieferriday.com
+kylieferriday.com UNIQUE
+Searching for: vivataxis.com
+vivataxis.com UNIQUE
+Searching for: twhzbke.com
+twhzbke.com UNIQUE
+Searching for: elitewalkers.com
+elitewalkers.com UNIQUE
+Searching for: xn--2e0bl7d83b6vy6qbyv2ajfp.com
+xn--2e0bl7d83b6vy6qbyv2ajfp.com UNIQUE
+Searching for: babakanco.com
+babakanco.com UNIQUE
+Searching for: insbin.com
+insbin.com UNIQUE
+Searching for: adonis-hotel-vieuxport.com
+adonis-hotel-vieuxport.com UNIQUE
+Searching for: laoliushop.com
+laoliushop.com UNIQUE
+Searching for: thinksmallbiznh.com
+thinksmallbiznh.com UNIQUE
+Searching for: joneebag.com
+joneebag.com UNIQUE
+Searching for: pj664.com
+pj664.com UNIQUE
+Searching for: wn44444.com
+wn44444.com UNIQUE
+Searching for: electronicmedicalrecordsinfo.com
+electronicmedicalrecordsinfo.com UNIQUE
+Searching for: vap-max.com
+vap-max.com UNIQUE
+Searching for: brfjlh252y.com
+brfjlh252y.com UNIQUE
+Searching for: hrithiks-angels.com
+hrithiks-angels.com UNIQUE
+Searching for: findyourthird.com
+findyourthird.com UNIQUE
+Searching for: crautomobile.com
+crautomobile.com UNIQUE
+Searching for: smartlocal259.com
+smartlocal259.com UNIQUE
+Searching for: franciscobrives.com
+franciscobrives.com UNIQUE
+Searching for: jgdq0.com
+jgdq0.com UNIQUE
+Searching for: hobbymodeltranslator.com
+hobbymodeltranslator.com UNIQUE
+Searching for: k0af94.com
+k0af94.com UNIQUE
+Searching for: maguntasreenivasulureddy.com
+maguntasreenivasulureddy.com UNIQUE
+Searching for: macromyelonundenominationalwo.com
+macromyelonundenominationalwo.com UNIQUE
+Searching for: metrodergisi.com
+metrodergisi.com UNIQUE
+Searching for: newenglandfishingshow.com
+newenglandfishingshow.com UNIQUE
+Searching for: seductivesoulsjewelry.com
+seductivesoulsjewelry.com UNIQUE
+Searching for: devinjordan88.com
+devinjordan88.com UNIQUE
+Searching for: i1or77.com
+i1or77.com UNIQUE
+Searching for: buttersgaming.com
+buttersgaming.com UNIQUE
+Searching for: e-timeonline.com
+e-timeonline.com UNIQUE
+Searching for: peguffalo.com
+peguffalo.com UNIQUE
+Searching for: alishainfra.com
+alishainfra.com UNIQUE
+Searching for: patricejolenephotography.com
+patricejolenephotography.com UNIQUE
+Searching for: tulsaeyeinstitute.com
+tulsaeyeinstitute.com UNIQUE
+Searching for: mariliasantannalmeida.com
+mariliasantannalmeida.com UNIQUE
+Searching for: drfranciscocolaco.com
+drfranciscocolaco.com UNIQUE
+Searching for: gzcrock.com
+gzcrock.com UNIQUE
+Searching for: jxzexiang.com
+jxzexiang.com UNIQUE
+Searching for: jacirahotel.com
+jacirahotel.com UNIQUE
+Searching for: escapade-autour-du-monde.com
+escapade-autour-du-monde.com UNIQUE
+Searching for: hashtagyahoo.com
+hashtagyahoo.com UNIQUE
+Searching for: dollaradayvision.com
+dollaradayvision.com UNIQUE
+Searching for: betting368.com
+betting368.com UNIQUE
+Searching for: fishome.com
+fishome.com UNIQUE
+Searching for: eascarnide.com
+eascarnide.com UNIQUE
+Searching for: income-tax-india-efiling.com
+Jan 14, 2016 6:35:56 PM org.elasticsearch.cluster.service.InternalClusterService$UpdateTask run
+INFO: [Vision] added {[Kubik][2FuNN5ZxTwe1MHasWSJUvw][adyachenko][inet[/10.100.78.101:9301]]{data=false, client=true},}, reason: zen-disco-receive(from master [[master-search][Mm6kv07HRG6Mw7LXUJhStA][dwdccres1][inet[/10.32.18.31:9303]]{data=false, master=true}])
+income-tax-india-efiling.com UNIQUE
+Searching for: outdoorsportstories.com
+outdoorsportstories.com UNIQUE
+Searching for: catropersonalberatung.com
+EQUALS DOCS FOUND: 1
+Searching for: 33210.com
+EQUALS DOCS FOUND: 1
+Searching for: atcsonline.com
+EQUALS DOCS FOUND: 5
+Searching for: sxfytxh.com
+EQUALS DOCS FOUND: 1
+Searching for: 835167.com
+835167.com UNIQUE
+Searching for: petyuvasi.com
+EQUALS DOCS FOUND: 1
+Searching for: zcm9.com
+zcm9.com UNIQUE
+Searching for: voydevaga.com
+voydevaga.com UNIQUE
+Searching for: a-decc.com
+a-decc.com UNIQUE
+Searching for: shencaijiankang.com
+EQUALS DOCS FOUND: 1
+Searching for: phuthaicorp.com
+EQUALS DOCS FOUND: 3
+Searching for: 7uka.com
+EQUALS DOCS FOUND: 1
+Searching for: talizaratevr.com
+talizaratevr.com UNIQUE
+Searching for: zaiengroup.com
+EQUALS DOCS FOUND: 1
+Searching for: 5xhm.com
+5xhm.com UNIQUE
+Searching for: travelpeques.com
+EQUALS DOCS FOUND: 1
+Searching for: pounds-to-oocket.com
+EQUALS DOCS FOUND: 1
+Searching for: bnm0147.com
+bnm0147.com UNIQUE
+Searching for: mgt325assist.com
+mgt325assist.com UNIQUE
+Searching for: fraud-world.com
+EQUALS DOCS FOUND: 1
+Searching for: lapornskin.com
+lapornskin.com UNIQUE
+Searching for: orahitaxipool.com
+orahitaxipool.com UNIQUE
+Searching for: winderssonnunes.com
+winderssonnunes.com UNIQUE
+Searching for: a2dudh.com
+a2dudh.com UNIQUE
+Searching for: catsultations.com
+catsultations.com UNIQUE
+Searching for: 22222224.com
+EQUALS DOCS FOUND: 1
+Searching for: zerotonothing.com
+EQUALS DOCS FOUND: 1
+Searching for: abilink.com
+EQUALS DOCS FOUND: 1
+Searching for: www0ba9bnat.com
+EQUALS DOCS FOUND: 1
+Searching for: 19910718.com
+19910718.com UNIQUE
+Searching for: livingchallenge.com
+EQUALS DOCS FOUND: 1
+Searching for: gameboyadvanceroms.com
+EQUALS DOCS FOUND: 1
+Searching for: informaticasiero.com
+EQUALS DOCS FOUND: 1
+Searching for: 2879518.com
+2879518.com UNIQUE
+Searching for: portalpandora.com
+portalpandora.com UNIQUE
+Searching for: photoartbroker.com
+EQUALS DOCS FOUND: 1
+Searching for: allaboutbuying.com
+EQUALS DOCS FOUND: 1
+Searching for: schwarzwald-stube.com
+Jan 14, 2016 6:36:07 PM org.elasticsearch.cluster.service.InternalClusterService$UpdateTask run
+INFO: [Vision] removed {[Kubik][2FuNN5ZxTwe1MHasWSJUvw][adyachenko][inet[/10.100.78.101:9301]]{data=false, client=true},}, reason: zen-disco-receive(from master [[master-search][Mm6kv07HRG6Mw7LXUJhStA][dwdccres1][inet[/10.32.18.31:9303]]{data=false, master=true}])
+EQUALS DOCS FOUND: 1
+Searching for: duplicate360.com
+EQUALS DOCS FOUND: 1
+Searching for: 58kao.com
+58kao.com UNIQUE
+Searching for: pakwebvibe.com
+pakwebvibe.com UNIQUE
+Searching for: alexbourdo.com
+EQUALS DOCS FOUND: 1
+Searching for: elemics.com
+elemics.com UNIQUE
+Searching for: hzyanpai.com
+EQUALS DOCS FOUND: 1
+Searching for: 2068republicannationalconvention.com
+2068republicannationalconvention.com UNIQUE
+Searching for: aiwwa.com
+aiwwa.com UNIQUE
+Searching for: 9882955.com
+9882955.com UNIQUE
+Searching for: zhdnc.com
+EQUALS DOCS FOUND: 1
+Searching for: studenttourstogo.com
+EQUALS DOCS FOUND: 1
+Searching for: amanig94.com
+amanig94.com UNIQUE
+Searching for: uncurbd.com
+EQUALS DOCS FOUND: 3
+Searching for: dentalbusinesscoach.com
+EQUALS DOCS FOUND: 1
+Searching for: selfmedreportsonline.com
+EQUALS DOCS FOUND: 1
+Searching for: buildingblocksinaromatherapy.com
+buildingblocksinaromatherapy.com UNIQUE
+Searching for: uct-news.com
+EQUALS DOCS FOUND: 2
+Searching for: advokatfinanz.com
+EQUALS DOCS FOUND: 1
+Searching for: averywilliams.com
+EQUALS DOCS FOUND: 1
+Searching for: infairy.com
+EQUALS DOCS FOUND: 1
+Searching for: connectedsurfing.com
+EQUALS DOCS FOUND: 1
+Searching for: pippass-portugal.com
+pippass-portugal.com UNIQUE
+Searching for: goddesscall.com
+goddesscall.com UNIQUE
+Searching for: questautong.com
+questautong.com UNIQUE
+Searching for: loisdixon.com
+EQUALS DOCS FOUND: 1
+Searching for: oymakbakliyat.com
+EQUALS DOCS FOUND: 1
+Searching for: fontainebleauhotelmiami.com
+EQUALS DOCS FOUND: 1
+Searching for: ratpackswingband.com
+ratpackswingband.com UNIQUE
+Searching for: 2869518.com
+2869518.com UNIQUE
+Searching for: mingyange.com
+EQUALS DOCS FOUND: 1
+Searching for: thefamilyshield.com
+EQUALS DOCS FOUND: 1
+Searching for: robertenglandguitars.com
+EQUALS DOCS FOUND: 1
+Searching for: beam-gesundheitswerkstaette.com
+EQUALS DOCS FOUND: 1
+Searching for: morturk.com
+EQUALS DOCS FOUND: 1
+Searching for: 2nd-hand-toys.com
+EQUALS DOCS FOUND: 1
+Searching for: astrainsurance.com
+EQUALS DOCS FOUND: 1
+Searching for: automobile-insider.com
+automobile-insider.com UNIQUE
+Searching for: hbtianbo.com
+EQUALS DOCS FOUND: 1
+Searching for: frenchquarterhoteltreasures.com
+EQUALS DOCS FOUND: 1
+Searching for: funditforwardrealty.com
+funditforwardrealty.com UNIQUE
+Searching for: jackgraves.com
+EQUALS DOCS FOUND: 1
+Searching for: matagent.com
+EQUALS DOCS FOUND: 1
+Searching for: inurseyou.com
+inurseyou.com UNIQUE
+Searching for: frank-vernel.com
+frank-vernel.com UNIQUE
+Searching for: xmltart.com
+xmltart.com UNIQUE
+Searching for: maassen-gmbh.com
+EQUALS DOCS FOUND: 1
+Searching for: atmexpresscash.com
+EQUALS DOCS FOUND: 1
+Searching for: ihvf.com
+EQUALS DOCS FOUND: 1
+Searching for: completetoner.com
+EQUALS DOCS FOUND: 1
+Searching for: flaglerbullshit.com
+flaglerbullshit.com UNIQUE
+Searching for: rae-nbg.com
+EQUALS DOCS FOUND: 1
+Searching for: 20090211.com
+20090211.com UNIQUE
+Searching for: dbaservices.de
+dbaservices.de UNIQUE
+Searching for: revision4.com
+EQUALS DOCS FOUND: 1
+Searching for: alpha-tech.us
+alpha-tech.us UNIQUE
+Searching for: burhanigroup.com
+EQUALS DOCS FOUND: 1
+Searching for: scit.com
+EQUALS DOCS FOUND: 1
+Searching for: rheinsiegcloud.net
+EQUALS DOCS FOUND: 1
+Searching for: voiceoverippbx.com
+EQUALS DOCS FOUND: 1
+Searching for: manageditservicesbellevue.com
+manageditservicesbellevue.com UNIQUE
+Searching for: thethreegeeks.com
+EQUALS DOCS FOUND: 1
+Searching for: solution7it.com
+EQUALS DOCS FOUND: 1
+Searching for: broadstoneservices.com
+EQUALS DOCS FOUND: 1
+Searching for: processivesolutions.net
+EQUALS DOCS FOUND: 3
+Searching for: m2mtechsolutions.net
+EQUALS DOCS FOUND: 1
+Searching for: gointelesys.com
+EQUALS DOCS FOUND: 1
+Searching for: linearecruitment.net
+EQUALS DOCS FOUND: 1
+Searching for: financialplanninghk.com
+EQUALS DOCS FOUND: 1
+Searching for: layer-orange.org
+EQUALS DOCS FOUND: 1
+Searching for: linode.com
+EQUALS DOCS FOUND: 5
+Searching for: portlandnap.com
+EQUALS DOCS FOUND: 1
+Searching for: orchardcomputer.com
+EQUALS DOCS FOUND: 1
+Searching for: baroan.com
+EQUALS DOCS FOUND: 1
+Searching for: raleighitsupport.com
+EQUALS DOCS FOUND: 1
+Searching for: managedserviceprovideratlanta.com
+EQUALS DOCS FOUND: 1
+Searching for: reyreyinfo.com
+EQUALS DOCS FOUND: 1
+Searching for: northtexastechsupport.com
+EQUALS DOCS FOUND: 1
+Searching for: csm-office-solutions.com
+EQUALS DOCS FOUND: 1
+Searching for: wncconsultants.com
+EQUALS DOCS FOUND: 2
+Searching for: xilicontech.net
+EQUALS DOCS FOUND: 1
+Searching for: clouditla.com
+EQUALS DOCS FOUND: 1
+Searching for: cmdctrlpwr.com
+EQUALS DOCS FOUND: 1
+Searching for: venturianhosting.com
+EQUALS DOCS FOUND: 1
+Searching for: ecsoffice.com
+EQUALS DOCS FOUND: 3
+Searching for: sunmanagedservices.net
+EQUALS DOCS FOUND: 1
+Searching for: morganmckinley.com
+EQUALS DOCS FOUND: 1
+Searching for: pliantpro.com
+EQUALS DOCS FOUND: 3
+Searching for: nero-consulting.com
+EQUALS DOCS FOUND: 3
+Searching for: ixxx.co.uk
+ixxx.co.uk UNIQUE
+Searching for: erev.it
+Jan 14, 2016 6:36:37 PM org.elasticsearch.cluster.service.InternalClusterService$UpdateTask run
+INFO: [Vision] added {[Doctor Minerva][d6TMCtuhQbSMiIhSadxY-A][adyachenko][inet[/10.100.78.101:9301]]{data=false, client=true},}, reason: zen-disco-receive(from master [[master-search][Mm6kv07HRG6Mw7LXUJhStA][dwdccres1][inet[/10.32.18.31:9303]]{data=false, master=true}])
+erev.it UNIQUE
+Searching for: 331.tv
+331.tv UNIQUE
+Searching for: bettina.tv
+bettina.tv UNIQUE
+Searching for: oef.com.ua
+oef.com.ua UNIQUE
+Searching for: aets.co.uk
+aets.co.uk UNIQUE
+Searching for: iwin.es
+iwin.es UNIQUE
+Searching for: is4u.co.uk
+is4u.co.uk UNIQUE
+Searching for: emulate.tv
+emulate.tv UNIQUE
+Searching for: d8k.co.uk
+d8k.co.uk UNIQUE
+Searching for: magento2agency.com
+magento2agency.com UNIQUE
+Searching for: fphl.co.uk
+fphl.co.uk UNIQUE
+Searching for: tomography.io
+tomography.io UNIQUE
+Searching for: d2ss.com.ua
+d2ss.com.ua UNIQUE
+Searching for: brot.it
+brot.it UNIQUE
+Searching for: bobl.ru
+bobl.ru UNIQUE
+Searching for: acir.es
+Jan 14, 2016 6:36:43 PM org.elasticsearch.cluster.service.InternalClusterService$UpdateTask run
+INFO: [Vision] removed {[Doctor Minerva][d6TMCtuhQbSMiIhSadxY-A][adyachenko][inet[/10.100.78.101:9301]]{data=false, client=true},}, reason: zen-disco-receive(from master [[master-search][Mm6kv07HRG6Mw7LXUJhStA][dwdccres1][inet[/10.32.18.31:9303]]{data=false, master=true}])
+acir.es UNIQUE
+Searching for: exap.ru
+exap.ru UNIQUE
+Searching for: bfd1.co.uk
+bfd1.co.uk UNIQUE
+Searching for: env.us
+env.us UNIQUE
+Searching for: eti.it
+eti.it UNIQUE
+Searching for: asm.us
+asm.us UNIQUE
+Searching for: qenafevers.com
+qenafevers.com UNIQUE
+Searching for: lanemaloneyphotography.com
+lanemaloneyphotography.com UNIQUE
+Searching for: duek.it
+duek.it UNIQUE
+Searching for: landoconstructioninc.com
+landoconstructioninc.com UNIQUE
+Searching for: 3rob.tv
+3rob.tv UNIQUE
+Searching for: ebse.ru
+ebse.ru UNIQUE
+Searching for: f64.us
+f64.us UNIQUE
+Searching for: cfmf.co.uk
+cfmf.co.uk UNIQUE
+Searching for: areh.ru
+areh.ru UNIQUE
+Searching for: dr8.ru
+dr8.ru UNIQUE
+Searching for: ce21.it
+ce21.it UNIQUE
+Searching for: l53.co.uk
+l53.co.uk UNIQUE
+Searching for: ba93.us
+ba93.us UNIQUE
+Searching for: lovecraftboutique.com
+lovecraftboutique.com UNIQUE
+Searching for: mjindiancuisine.com
+mjindiancuisine.com UNIQUE
+Searching for: thestaybuyers.com
+thestaybuyers.com UNIQUE
+Searching for: wannbewinesnob.com
+wannbewinesnob.com UNIQUE
+Searching for: metropyle.com
+metropyle.com UNIQUE
+Searching for: locosdelrally.com
+locosdelrally.com UNIQUE
+Searching for: shinecaribbean.com
+shinecaribbean.com UNIQUE
+Searching for: motorcityposters.com
+motorcityposters.com UNIQUE
+Searching for: murtuzakazmi.com
+murtuzakazmi.com UNIQUE
+Searching for: xzhrgy.com
+xzhrgy.com UNIQUE
+Searching for: unifiredance.com
+unifiredance.com UNIQUE
+Searching for: routesincrete.com
+routesincrete.com UNIQUE
+Searching for: melafund.com
+melafund.com UNIQUE
+Searching for: lavagancia.com
+lavagancia.com UNIQUE
+Searching for: zjghuaneng.com
+zjghuaneng.com UNIQUE
+Searching for: 59ade6h.com
+59ade6h.com UNIQUE
+Searching for: sonicautolasvegas.com
+sonicautolasvegas.com UNIQUE
+Searching for: nslaptops.com
+nslaptops.com UNIQUE
+Searching for: kocgrupankara.com
+kocgrupankara.com UNIQUE
+Searching for: spieleheute.com
+spieleheute.com UNIQUE
+Searching for: millennialsofsf.com
+millennialsofsf.com UNIQUE
+Searching for: oxfordiq.com
+oxfordiq.com UNIQUE
+Searching for: nerdfitnesssucks.com
+nerdfitnesssucks.com UNIQUE
+Searching for: karate-pku.com
+karate-pku.com UNIQUE
+Searching for: zgslwj.com
+zgslwj.com UNIQUE
+Searching for: 4drmalan.com
+4drmalan.com UNIQUE
+Searching for: wyldtyme.com
+wyldtyme.com UNIQUE
+Searching for: theflipsidelounge.com
+theflipsidelounge.com UNIQUE
+Searching for: ktjrw.com
+ktjrw.com UNIQUE
+Searching for: yildizlarpeyzaj.com
+yildizlarpeyzaj.com UNIQUE
+Searching for: strengthcomesfromwithin.com
+strengthcomesfromwithin.com UNIQUE
+Searching for: cochesgtracing.com
+cochesgtracing.com UNIQUE
+Searching for: threeboyslandscaping.com
+threeboyslandscaping.com UNIQUE
+Searching for: tls-demenagement.com
+tls-demenagement.com UNIQUE
+Searching for: thefryinghouse.com
+thefryinghouse.com UNIQUE
+Searching for: beratmodel.com
+beratmodel.com UNIQUE
+Searching for: emergenceiq.com
+emergenceiq.com UNIQUE
+Searching for: apostarbrasileirao.com
+apostarbrasileirao.com UNIQUE
+Searching for: icdlabpros.com
+icdlabpros.com UNIQUE
+Searching for: arttoframesblog.com
+arttoframesblog.com UNIQUE
+Searching for: poobuster.com
+poobuster.com UNIQUE
+Searching for: stellarwirelessgroup.com
+stellarwirelessgroup.com UNIQUE
+Searching for: softclean-soft.com
+softclean-soft.com UNIQUE
+Searching for: tareasdomesticas.com
+tareasdomesticas.com UNIQUE
+Searching for: cimbkonline.com
+cimbkonline.com UNIQUE
+Searching for: refundshipping.com
+refundshipping.com UNIQUE
+Searching for: gaziantepkiralikfabrika.com
+gaziantepkiralikfabrika.com UNIQUE
+Searching for: xn--3kq4dx17a7iyem9a.com
+xn--3kq4dx17a7iyem9a.com UNIQUE
+Searching for: amlakshakhes.com
+amlakshakhes.com UNIQUE
+Searching for: dbnong.com
+dbnong.com UNIQUE
+Searching for: theforbiddenpizza.com
+theforbiddenpizza.com UNIQUE
+Searching for: weedlogs.com
+weedlogs.com UNIQUE
+Searching for: asknancytodd.com
+asknancytodd.com UNIQUE
+Searching for: truthaboutmusclenutrition.com
+truthaboutmusclenutrition.com UNIQUE
+Searching for: jackwdolan.com
+jackwdolan.com UNIQUE
+Searching for: persianboors.com
+persianboors.com UNIQUE
+Searching for: toastcoasters.com
+toastcoasters.com UNIQUE
+Searching for: professionalflightacademy.com
+professionalflightacademy.com UNIQUE
+Searching for: allguider.com
+allguider.com UNIQUE
+Searching for: dantafari.com
+dantafari.com UNIQUE
+Searching for: corporativoforza.com
+corporativoforza.com UNIQUE
+Searching for: aliexalipress.com
+aliexalipress.com UNIQUE
+Searching for: parafarmaciagalan.com
+parafarmaciagalan.com UNIQUE
+Searching for: uploadget.com
+uploadget.com UNIQUE
+Searching for: tepropongounacosa.com
+tepropongounacosa.com UNIQUE
+Searching for: faceandphoto.com
+faceandphoto.com UNIQUE
+Searching for: freeipadshop.com
+freeipadshop.com UNIQUE
+Searching for: enoilgas.com
+enoilgas.com UNIQUE
+Searching for: grahamcremation.com
+grahamcremation.com UNIQUE
+Searching for: xn--limitedgrndungservice-hic.com
+xn--limitedgrndungservice-hic.com UNIQUE
+Searching for: datedef.com
+datedef.com UNIQUE
+Searching for: ssoilfieldservices.com
+ssoilfieldservices.com UNIQUE
+Searching for: bringhen.com
+bringhen.com UNIQUE
+Searching for: tokefino.com
+tokefino.com UNIQUE
+Searching for: thomasanelli.com
+thomasanelli.com UNIQUE
+Searching for: iosteknoloji.com
+iosteknoloji.com UNIQUE
+Searching for: zekioto.com
+zekioto.com UNIQUE
+Searching for: bilgisozlugu.com
+bilgisozlugu.com UNIQUE
+Searching for: skypeinenglish.com
+skypeinenglish.com UNIQUE
+Searching for: denvernetworksecurity.com
+denvernetworksecurity.com UNIQUE
+Searching for: dslhjsh.com
+dslhjsh.com UNIQUE
+Searching for: cnmiaoyimiaoyao.com
+cnmiaoyimiaoyao.com UNIQUE
+Searching for: priscillahendrix.com
+priscillahendrix.com UNIQUE
+Searching for: bevelandspike.com
+bevelandspike.com UNIQUE
+Searching for: residentcms.com
+residentcms.com UNIQUE
+Searching for: atiazamanalternativeinvestmentpropertygroup.com
+atiazamanalternativeinvestmentpropertygroup.com UNIQUE
+Searching for: trellor.com
+trellor.com UNIQUE
+Searching for: al-rushd.com
+al-rushd.com UNIQUE
+Searching for: dreamcasinomobile.com
+dreamcasinomobile.com UNIQUE
+Searching for: bankuem.com
+bankuem.com UNIQUE
+Searching for: seniormedtech.com
+seniormedtech.com UNIQUE
+Searching for: standoutsoc.com
+standoutsoc.com UNIQUE
+Searching for: glambeautyblog.com
+glambeautyblog.com UNIQUE
+Searching for: glasssunbest.com
+glasssunbest.com UNIQUE
+Searching for: sryxa.com
+sryxa.com UNIQUE
+Searching for: rushabhelectra.com
+rushabhelectra.com UNIQUE
+Searching for: cleanfishcleanshrimp.com
+cleanfishcleanshrimp.com UNIQUE
+Searching for: ikipedi.com
+ikipedi.com UNIQUE
+Searching for: myluckyacres.com
+myluckyacres.com UNIQUE
+Searching for: cicinet.com
+cicinet.com UNIQUE
+Searching for: royalinterbuild.com
+royalinterbuild.com UNIQUE
+Searching for: whiteysurplus.com
+whiteysurplus.com UNIQUE
+Searching for: programapublicida.com
+programapublicida.com UNIQUE
+Searching for: spiralwayhealingarts.com
+spiralwayhealingarts.com UNIQUE
+Searching for: mhervas.com
+mhervas.com UNIQUE
+Searching for: cameellia.com
+cameellia.com UNIQUE
+Searching for: lisaraebrooks.com
+lisaraebrooks.com UNIQUE
+Searching for: algotrainer.com
+algotrainer.com UNIQUE
+Searching for: volthunder.com
+volthunder.com UNIQUE
+Searching for: cognitiveimpairmenttreatment.com
+cognitiveimpairmenttreatment.com UNIQUE
+Searching for: gmt-shipping.com
+gmt-shipping.com UNIQUE
+Searching for: xm-yingxing.com
+xm-yingxing.com UNIQUE
+Searching for: malaimar.com
+malaimar.com UNIQUE
+Searching for: sonnepv.com
+sonnepv.com UNIQUE
+Searching for: furrreal.com
+furrreal.com UNIQUE
+Searching for: chimtchybrid.com
+chimtchybrid.com UNIQUE
+Searching for: xn--grundstcksgutachten-cbc.com
+xn--grundstcksgutachten-cbc.com UNIQUE
+Searching for: xinpujing11.com
+xinpujing11.com UNIQUE
+Searching for: looseseed.com
+looseseed.com UNIQUE
+Searching for: knockoff-designershandbags.com
+knockoff-designershandbags.com UNIQUE
+Searching for: youryescardprocess.com
+youryescardprocess.com UNIQUE
+Searching for: vinosbar.com
+vinosbar.com UNIQUE
+Searching for: famousjade.com
+famousjade.com UNIQUE
+Searching for: juvirgo.com
+juvirgo.com UNIQUE
+Searching for: textcallapp.com
+textcallapp.com UNIQUE
+Searching for: jxhylife.com
+jxhylife.com UNIQUE
+Searching for: lover-sheji.com
+lover-sheji.com UNIQUE
+Searching for: jocohomeprices.com
+jocohomeprices.com UNIQUE
+Searching for: survivaloftheoutfitted.com
+survivaloftheoutfitted.com UNIQUE
+Searching for: sonnyvuinsurance.com
+sonnyvuinsurance.com UNIQUE
+Searching for: teingsac.com
+teingsac.com UNIQUE
+Searching for: kyoto-deaikei-10dai.link
+kyoto-deaikei-10dai.link UNIQUE
+Searching for: slowdiscipleship.com
+slowdiscipleship.com UNIQUE
+Searching for: marijuanahive.com
+marijuanahive.com UNIQUE
+Searching for: tenzinjinpa.com
+tenzinjinpa.com UNIQUE
+Searching for: ota.social
+ota.social UNIQUE
+Searching for: secure825ym.com
+secure825ym.com UNIQUE
+Searching for: steel-for-construction.com
+steel-for-construction.com UNIQUE
+Searching for: bowrailgroup.com
+bowrailgroup.com UNIQUE
+Searching for: warehouse9pro.com
+warehouse9pro.com UNIQUE
+Searching for: odor.link
+odor.link UNIQUE
+Searching for: sxcow.com
+sxcow.com UNIQUE
+Searching for: kassel.singles
+kassel.singles UNIQUE
+Searching for: smaakmeesters.com
+smaakmeesters.com UNIQUE
+Searching for: koyaban.link
+koyaban.link UNIQUE
+Searching for: pressuredropped.com
+pressuredropped.com UNIQUE
+Searching for: wiseawake.com
+wiseawake.com UNIQUE
+Searching for: metformina.link
+metformina.link UNIQUE
+Searching for: karnevalskostueme.hamburg
+karnevalskostueme.hamburg UNIQUE
+Searching for: sikotek.com
+sikotek.com UNIQUE
+Searching for: kyoto-boyscouts100th.com
+kyoto-boyscouts100th.com UNIQUE
+Searching for: powerrackliving.com
+powerrackliving.com UNIQUE
+Searching for: wzwjk.com
+wzwjk.com UNIQUE
+Searching for: lawyercoin.com
+lawyercoin.com UNIQUE
+Searching for: 8shop.wang
+8shop.wang UNIQUE
+Searching for: kioskistanbulhotels.com
+kioskistanbulhotels.com UNIQUE
+Searching for: shot-tenn.com
+shot-tenn.com UNIQUE
+Searching for: rideallthemiles.com
+rideallthemiles.com UNIQUE
+Searching for: xn--sons-of-the-architectflorianpolis-shd.com
+xn--sons-of-the-architectflorianpolis-shd.com UNIQUE
+Searching for: kheirkhahropeways.com
+kheirkhahropeways.com UNIQUE
+Searching for: weddingsbyjohncarr.com
+weddingsbyjohncarr.com UNIQUE
+Searching for: richmondandale.com
+richmondandale.com UNIQUE
+Searching for: mdwparkingapp.com
+mdwparkingapp.com UNIQUE
+Searching for: newaqib.com
+newaqib.com UNIQUE
+Searching for: xn--7hv82mnx6a.com
+xn--7hv82mnx6a.com UNIQUE
+Searching for: soumissionsdemenageurs.com
+soumissionsdemenageurs.com UNIQUE
+Searching for: moleculestomedicine.com
+moleculestomedicine.com UNIQUE
+Searching for: markayaz.com
+markayaz.com UNIQUE
+Searching for: withpodium.com
+withpodium.com UNIQUE
+Searching for: ooo.uno
+ooo.uno UNIQUE
+Searching for: wlmzx.com
+wlmzx.com UNIQUE
+Searching for: kelliehaggerty.link
+kelliehaggerty.link UNIQUE
+Searching for: straightouttayourhood.com
+straightouttayourhood.com UNIQUE
+Searching for: medications.link
+medications.link UNIQUE
+Searching for: l63137fk1fmb.link
+l63137fk1fmb.link UNIQUE
+Searching for: vandervalkvakantiepark.com
+vandervalkvakantiepark.com UNIQUE
+Searching for: niigata-30-seeking-a-boyfriend.link
+niigata-30-seeking-a-boyfriend.link UNIQUE
+Searching for: qhzx-lamp.com
+qhzx-lamp.com UNIQUE
+Searching for: 9jamail.com
+9jamail.com UNIQUE
+Searching for: mainstlab.com
+mainstlab.com UNIQUE
+Searching for: 4x73biy.com
+4x73biy.com UNIQUE
+Searching for: the-wireless-securitys-spot.com
+the-wireless-securitys-spot.com UNIQUE
+Searching for: noelboreham.com
+noelboreham.com UNIQUE
+Searching for: nwstexas.com
+nwstexas.com UNIQUE
+Searching for: lb23rqgc8hh-k.com
+lb23rqgc8hh-k.com UNIQUE
+Searching for: wefunn.com
+wefunn.com UNIQUE
+Searching for: shopafterclass.com
+shopafterclass.com UNIQUE
+Searching for: makeupbyrobin.com
+makeupbyrobin.com UNIQUE
+Searching for: richmondwaterrestoration.com
+richmondwaterrestoration.com UNIQUE
+Searching for: sediatiket.com
+sediatiket.com UNIQUE
+Searching for: 999472.com
+999472.com UNIQUE
+Searching for: ncruiren.com
+ncruiren.com UNIQUE
+Searching for: parkpod.com
+parkpod.com UNIQUE
+Searching for: professorstafford.com
+professorstafford.com UNIQUE
+Searching for: modailgim.com
+modailgim.com UNIQUE
+Searching for: wynnrealtygroup.com
+wynnrealtygroup.com UNIQUE
+Searching for: wickeringlights.com
+wickeringlights.com UNIQUE
+Searching for: med-market-online.com
+med-market-online.com UNIQUE
+Searching for: lahdiscover.com
+lahdiscover.com UNIQUE
+Searching for: u4ya2jpmtsit1.com
+u4ya2jpmtsit1.com UNIQUE
+Searching for: sugarfreebee.com
+sugarfreebee.com UNIQUE
+Searching for: thethirstymom.com
+thethirstymom.com UNIQUE
+Searching for: flyelkonevada.com
+flyelkonevada.com UNIQUE
+Searching for: sitterpreneur.com
+sitterpreneur.com UNIQUE
+Searching for: livehealthy-livehappy.com
+livehealthy-livehappy.com UNIQUE
+Searching for: enucuzexpress.com
+enucuzexpress.com UNIQUE
+Searching for: higaoshan.com
+higaoshan.com UNIQUE
+Searching for: fabbricagallese.com
+fabbricagallese.com UNIQUE
+Searching for: logolade.com
+logolade.com UNIQUE
+Searching for: cooldigitv.com
+cooldigitv.com UNIQUE
+Searching for: baansiripatt.com
+baansiripatt.com UNIQUE
+Searching for: ampliflierdesign.com
+ampliflierdesign.com UNIQUE
+Searching for: ministry4america.com
+ministry4america.com UNIQUE
+Searching for: mattcairnsauthor.com
+mattcairnsauthor.com UNIQUE
+Searching for: lindafrinkphillipsliebertsmith.com
+lindafrinkphillipsliebertsmith.com UNIQUE
+Searching for: daylawaz.com
+daylawaz.com UNIQUE
+Searching for: eqlighting.com
+eqlighting.com UNIQUE
+Searching for: sandrobauer.com
+sandrobauer.com UNIQUE
+Searching for: 8888344.com
+8888344.com UNIQUE
+Searching for: weicanyizu.com
+weicanyizu.com UNIQUE
+Searching for: redemptionwishaw.com
+redemptionwishaw.com UNIQUE
+Searching for: bpciuev.com
+bpciuev.com UNIQUE
+Searching for: superinternships.com
+superinternships.com UNIQUE
+Searching for: nesoos.com
+nesoos.com UNIQUE
+Searching for: pinkhoneybees.com
+pinkhoneybees.com UNIQUE
+Searching for: kltaoba.com
+kltaoba.com UNIQUE
+Searching for: summertimetide.com
+summertimetide.com UNIQUE
+Searching for: kryha.space
+kryha.space UNIQUE
+Searching for: 88928.wang
+88928.wang UNIQUE
+Searching for: lgfys.com
+lgfys.com UNIQUE
+Searching for: certifiedfans.com
+certifiedfans.com UNIQUE
+Searching for: missprisslashes.com
+missprisslashes.com UNIQUE
+Searching for: halcointernational.com
+halcointernational.com UNIQUE
+Searching for: informationstyled.com
+informationstyled.com UNIQUE
+Searching for: download-f1-2014-crack.com
+download-f1-2014-crack.com UNIQUE
+Searching for: affordableproductonlineshop.com
+affordableproductonlineshop.com UNIQUE
+Searching for: enviosmasivosennicaragua.com
+enviosmasivosennicaragua.com UNIQUE
+Searching for: cjeec.com
+cjeec.com UNIQUE
+Searching for: beforeandaftereffects.com
+beforeandaftereffects.com UNIQUE
+Searching for: answershacks.com
+answershacks.com UNIQUE
+Searching for: download-version.com
+download-version.com UNIQUE
+Searching for: tj-jingquan.com
+tj-jingquan.com UNIQUE
+Searching for: trevlab.com
+trevlab.com UNIQUE
+Searching for: yingchengtong.com
+yingchengtong.com UNIQUE
+Searching for: cbdvytazky.com
+cbdvytazky.com UNIQUE
+Searching for: mishi1000.com
+mishi1000.com UNIQUE
+Searching for: 360foodgroup.com
+360foodgroup.com UNIQUE
+Searching for: petsdream.com
+petsdream.com UNIQUE
+Searching for: santafehomeprice.com
+santafehomeprice.com UNIQUE
+Searching for: carbidecash.com
+carbidecash.com UNIQUE
+Searching for: simpleacct.com
+simpleacct.com UNIQUE
+Searching for: thecsrpost.com
+thecsrpost.com UNIQUE
+Searching for: xxxmet.com
+xxxmet.com UNIQUE
+Searching for: checkpricebabyshowergifts.com
+checkpricebabyshowergifts.com UNIQUE
+Searching for: exclusive-customer.com
+exclusive-customer.com UNIQUE
+Searching for: leadingrates.com
+leadingrates.com UNIQUE
+Searching for: honfire.com
+honfire.com UNIQUE
+Searching for: scinversiones.com
+scinversiones.com UNIQUE
+Searching for: freeadvancedirective.com
+freeadvancedirective.com UNIQUE
+Searching for: cerberusnetworkdefense.com
+cerberusnetworkdefense.com UNIQUE
+Searching for: 3030fernbrook.com
+3030fernbrook.com UNIQUE
+Searching for: umseculodeviolao.com
+umseculodeviolao.com UNIQUE
+Searching for: londonresilience.com
+londonresilience.com UNIQUE
+Searching for: innateproductivity.com
+innateproductivity.com UNIQUE
+Searching for: woocommercemailchimppro.com
+woocommercemailchimppro.com UNIQUE
+Searching for: bamboocool.com
+bamboocool.com UNIQUE
+Searching for: dbmediaproduction.com
+dbmediaproduction.com UNIQUE
+Searching for: mobilecontracts247.com
+mobilecontracts247.com UNIQUE
+Searching for: sd-highway.com
+sd-highway.com UNIQUE
+Searching for: jwlessons.com
+jwlessons.com UNIQUE
+Searching for: luftfiltermatten.com
+luftfiltermatten.com UNIQUE
+Searching for: mosbyt.com
+mosbyt.com UNIQUE
+Searching for: alierdemsunar.com
+alierdemsunar.com UNIQUE
+Searching for: payalandneel.com
+payalandneel.com UNIQUE
+Searching for: pokerathletesstore.com
+pokerathletesstore.com UNIQUE
+Searching for: jinxilighting.com
+jinxilighting.com UNIQUE
+Searching for: ahcycm.com
+ahcycm.com UNIQUE
+Searching for: dotecotld.com
+dotecotld.com UNIQUE
+Searching for: joshhearne.com
+joshhearne.com UNIQUE
+Searching for: 7taow.com
+7taow.com UNIQUE
+Searching for: peypals.com
+peypals.com UNIQUE
+Searching for: scrubmybbq.com
+scrubmybbq.com UNIQUE
+Searching for: rslhost.com
+rslhost.com UNIQUE
+Searching for: yidksw.com
+yidksw.com UNIQUE
+Searching for: christielala.com
+christielala.com UNIQUE
+Searching for: brackeenpower.com
+brackeenpower.com UNIQUE
+Searching for: train2certify.com
+train2certify.com UNIQUE
+Searching for: stopthedisease.com
+stopthedisease.com UNIQUE
+Searching for: ginastaiosphotography.com
+ginastaiosphotography.com UNIQUE
+Searching for: pchy668.com
+pchy668.com UNIQUE
+Searching for: madaresearch.com
+madaresearch.com UNIQUE
+Searching for: companycannabis.com
+companycannabis.com UNIQUE
+Searching for: womenvetsforhire.com
+womenvetsforhire.com UNIQUE
+Searching for: pure18golf.com
+pure18golf.com UNIQUE
+Searching for: boxtogs.com
+boxtogs.com UNIQUE
+Searching for: reubenooi.com
+reubenooi.com UNIQUE
+Searching for: casino-goldrunner.com
+casino-goldrunner.com UNIQUE
+Searching for: valuecalculus.com
+valuecalculus.com UNIQUE
+Searching for: lekao365.com
+lekao365.com UNIQUE
+Searching for: suwonpools.com
+suwonpools.com UNIQUE
+Searching for: stoptaxbreaks.com
+stoptaxbreaks.com UNIQUE
+Searching for: ristoranteincasacatanzaro.com
+ristoranteincasacatanzaro.com UNIQUE
+Searching for: gvudmundur.com
+gvudmundur.com UNIQUE
+Searching for: tricksyskate.com
+tricksyskate.com UNIQUE
+Searching for: youreblocked.com
+youreblocked.com UNIQUE
+Searching for: 10086zjq.com
+10086zjq.com UNIQUE
+Searching for: utokenweb.com
+utokenweb.com UNIQUE
+Searching for: cxhpt.com
+cxhpt.com UNIQUE
+Searching for: fashionsanta.com
+fashionsanta.com UNIQUE
+Searching for: leoematheus.com
+leoematheus.com UNIQUE
+Searching for: dentalklinik-eu.com
+dentalklinik-eu.com UNIQUE
+Searching for: tanjswang.com
+tanjswang.com UNIQUE
+Searching for: schotterlegal.com
+schotterlegal.com UNIQUE
+Searching for: myrumahaqiqah.com
+myrumahaqiqah.com UNIQUE
+Searching for: lindsayamberphotography.com
+lindsayamberphotography.com UNIQUE
+Searching for: vaihaunui.com
+vaihaunui.com UNIQUE
+Searching for: esmewiphotography.com
+esmewiphotography.com UNIQUE
+Searching for: grahamandkelly.com
+grahamandkelly.com UNIQUE
+Searching for: abbreviationradish.com
+abbreviationradish.com UNIQUE
+Searching for: vrajskinclinic.com
+vrajskinclinic.com UNIQUE
+Searching for: 100bookstoreadbeforeyoudie.com
+100bookstoreadbeforeyoudie.com UNIQUE
+Searching for: thebuttaclub.com
+thebuttaclub.com UNIQUE
+Searching for: zhuleyou.com
+zhuleyou.com UNIQUE
+Searching for: watchglance.com
+watchglance.com UNIQUE
+Searching for: musicinterventions.com
+musicinterventions.com UNIQUE
+Searching for: hightechpodiatry.com
+hightechpodiatry.com UNIQUE
+Searching for: tustylo.com
+tustylo.com UNIQUE
+Searching for: gascocylinders.com
+gascocylinders.com UNIQUE
+Searching for: kopisstaffing.com
+kopisstaffing.com UNIQUE
+Searching for: 252338.com
+252338.com UNIQUE
+Searching for: chefmedible.com
+chefmedible.com UNIQUE
+Searching for: comefareseo.com
+comefareseo.com UNIQUE
+Searching for: healthygirlhappy.com
+healthygirlhappy.com UNIQUE
+Searching for: 137656.com
+137656.com UNIQUE
+Searching for: myfirstjobgym.com
+myfirstjobgym.com UNIQUE
+Searching for: braincanceriscurable.com
+braincanceriscurable.com UNIQUE
+Searching for: 785177.com
+785177.com UNIQUE
+Searching for: cookiemarket.com
+EQUALS DOCS FOUND: 1
+Searching for: heroesofskyrealm.com
+heroesofskyrealm.com UNIQUE
+Searching for: oregonpersonaltraining.com
+oregonpersonaltraining.com UNIQUE
+Searching for: 213014.com
+213014.com UNIQUE
+Searching for: kaiquansu.com
+kaiquansu.com UNIQUE
+Searching for: doquickly.com
+doquickly.com UNIQUE
+Searching for: fragolaproduccion.com
+fragolaproduccion.com UNIQUE
+Searching for: shotosoftlabs.com
+shotosoftlabs.com UNIQUE
+Searching for: billyrayhughes.com
+EQUALS DOCS FOUND: 1
+Searching for: gunubirlikabantturu.com
+gunubirlikabantturu.com UNIQUE
+Searching for: waphg3088d.com
+waphg3088d.com UNIQUE
+Searching for: reddeermazda2.com
+reddeermazda2.com UNIQUE
+Searching for: 582122.com
+582122.com UNIQUE
+Searching for: sinovinos.com
+sinovinos.com UNIQUE
+Searching for: numbertenfootball.com
+numbertenfootball.com UNIQUE
+Searching for: websterhaulin.com
+websterhaulin.com UNIQUE
+Searching for: lyufun.com
+lyufun.com UNIQUE
+Searching for: propellrsd.com
+propellrsd.com UNIQUE
+Searching for: furfriendlypetsittingllc.com
+EQUALS DOCS FOUND: 1
+Searching for: forecastlabel.com
+forecastlabel.com UNIQUE
+Searching for: ninawikstol.com
+EQUALS DOCS FOUND: 1
+Searching for: sabine-prinsloo.com
+sabine-prinsloo.com UNIQUE
+Searching for: expert-generalist.com
+expert-generalist.com UNIQUE
+Searching for: freshfamilycleaners.com
+freshfamilycleaners.com UNIQUE
+Searching for: jobspeedmeeting.com
+EQUALS DOCS FOUND: 1
+Searching for: energypreview.com
+energypreview.com UNIQUE
+Searching for: 93759999.com
+93759999.com UNIQUE
+Searching for: woodburydwi.com
+woodburydwi.com UNIQUE
+Searching for: ruslankim.com
+ruslankim.com UNIQUE
+Searching for: xgscm.com
+xgscm.com UNIQUE
+Searching for: 625113.com
+625113.com UNIQUE
+Searching for: bta2015.com
+bta2015.com UNIQUE
+Searching for: bangkok-my.com
+bangkok-my.com UNIQUE
+Searching for: dmcmeetingsmexico.com
+dmcmeetingsmexico.com UNIQUE
+Searching for: mindabovemind.com
+mindabovemind.com UNIQUE
+Searching for: homevaluevoyager.com
+homevaluevoyager.com UNIQUE
+Searching for: mynaturefx.com
+EQUALS DOCS FOUND: 1
+Searching for: ccfbhk.com
+EQUALS DOCS FOUND: 1
+Searching for: thergiii.com
+EQUALS DOCS FOUND: 1
+Searching for: ux-for-big-data-analytics.com
+ux-for-big-data-analytics.com UNIQUE
+Searching for: worksmartanywhere.com
+worksmartanywhere.com UNIQUE
+Searching for: smartworld-uae.com
+smartworld-uae.com UNIQUE
+Searching for: primeorganicplants.com
+primeorganicplants.com UNIQUE
+Searching for: thebestofnewporthomes.com
+thebestofnewporthomes.com UNIQUE
+Searching for: melbourneswomensexpo.com
+EQUALS DOCS FOUND: 1
+Searching for: 92369999.com
+92369999.com UNIQUE
+Searching for: clon3r.com
+clon3r.com UNIQUE
+Searching for: qzffx.com
+qzffx.com UNIQUE
+Searching for: cpamediatarget.com
+cpamediatarget.com UNIQUE
+Searching for: 762055.com
+762055.com UNIQUE
+Searching for: usconnectmeblack.com
+usconnectmeblack.com UNIQUE
+Searching for: torinoriabilitazione.com
+torinoriabilitazione.com UNIQUE
+Searching for: ecdaofpei.com
+ecdaofpei.com UNIQUE
+Searching for: lzbbjs.com
+EQUALS DOCS FOUND: 3
+Searching for: livingbettter101blog.com
+livingbettter101blog.com UNIQUE
+Searching for: zipbreak.com
+zipbreak.com UNIQUE
+Searching for: algolytictrading.com
+EQUALS DOCS FOUND: 1
+Searching for: 795352.com
+795352.com UNIQUE
+Searching for: cannabisgrowexpert.com
+cannabisgrowexpert.com UNIQUE
+Searching for: giuseppepinto.com
+EQUALS DOCS FOUND: 2
+Searching for: ilovemycatholicmomsgroup.com
+ilovemycatholicmomsgroup.com UNIQUE
+Searching for: eightysixsixremarkablecontacts.com
+eightysixsixremarkablecontacts.com UNIQUE
+Searching for: hlebozavodmilena.com
+hlebozavodmilena.com UNIQUE
+Searching for: robbiesroad.com
+robbiesroad.com UNIQUE
+Searching for: hbbaiquan.com
+hbbaiquan.com UNIQUE
+Searching for: kidaroundapp.com
+EQUALS DOCS FOUND: 1
+Searching for: 10106282.com
+10106282.com UNIQUE
+Searching for: evocarsconyers.com
+evocarsconyers.com UNIQUE
+Searching for: flowerlapin.com
+flowerlapin.com UNIQUE
+Searching for: 5831311.com
+5831311.com UNIQUE
+Searching for: collectifcontraceptionliege.com
+collectifcontraceptionliege.com UNIQUE
+Searching for: 5987321.com
+5987321.com UNIQUE
+Searching for: stamp-shoes.com
+stamp-shoes.com UNIQUE
+Searching for: h-t-w.com
+h-t-w.com UNIQUE
+Searching for: 3556233.com
+3556233.com UNIQUE
+Searching for: ddmky.com
+ddmky.com UNIQUE
+Searching for: xn--hewq8upm3a.com
+xn--hewq8upm3a.com UNIQUE
+Searching for: suitedhosting.com
+suitedhosting.com UNIQUE
+Searching for: ideon-agency.com
+ideon-agency.com UNIQUE
+Searching for: rasalgethi.com
+rasalgethi.com UNIQUE
+Searching for: easymicrobiomerecipes.com
+easymicrobiomerecipes.com UNIQUE
+Searching for: demonicpeoplemeet.com
+demonicpeoplemeet.com UNIQUE
+Searching for: locksmith-westhillsca.com
+locksmith-westhillsca.com UNIQUE
+Searching for: swiftiosfinance.com
+swiftiosfinance.com UNIQUE
+Searching for: dronismo.com
+dronismo.com UNIQUE
+Searching for: thevalleyrocks.com
+EQUALS DOCS FOUND: 1
+Searching for: nirichmaninvestments.com
+nirichmaninvestments.com UNIQUE
+Searching for: kidsinkeds.com
+kidsinkeds.com UNIQUE
+Searching for: sirikvalodegard.com
+sirikvalodegard.com UNIQUE
+Searching for: inthe360.com
+inthe360.com UNIQUE
+Searching for: mauioutdoorliving.com
+mauioutdoorliving.com UNIQUE
+Searching for: mindongzhiguang.com
+mindongzhiguang.com UNIQUE
+Searching for: chungcu203nguyenhuytuong.com
+chungcu203nguyenhuytuong.com UNIQUE
+Searching for: journeyanimalservices.com
+journeyanimalservices.com UNIQUE
+Searching for: meetworx.com
+meetworx.com UNIQUE
+Searching for: 415leehill.com
+415leehill.com UNIQUE
+Searching for: wendlescafe-dundalk.com
+wendlescafe-dundalk.com UNIQUE
+Searching for: collegenconnect.com
+collegenconnect.com UNIQUE
+Searching for: watersplashart.com
+watersplashart.com UNIQUE
+Searching for: dcolive.com
+dcolive.com UNIQUE
+Searching for: insureyourcloud.com
+insureyourcloud.com UNIQUE
+Searching for: zmsfinancialservices.com
+zmsfinancialservices.com UNIQUE
+Searching for: nature-o-poil.com
+nature-o-poil.com UNIQUE
+Searching for: cityfoodandwinetour.com
+cityfoodandwinetour.com UNIQUE
+Searching for: independenceindustries.com
+independenceindustries.com UNIQUE
+Searching for: hipknoticcreations.com
+hipknoticcreations.com UNIQUE
+Searching for: fairplayfantasy.com
+fairplayfantasy.com UNIQUE
+Searching for: labelleague.com
+labelleague.com UNIQUE
+Searching for: fleteria.com
+fleteria.com UNIQUE
+Searching for: onnousrappelle.com
+onnousrappelle.com UNIQUE
+Searching for: pastaproductionlines.com
+pastaproductionlines.com UNIQUE
+Searching for: 0001x.com
+0001x.com UNIQUE
+Searching for: qspsummit.com
+qspsummit.com UNIQUE
+Searching for: dabbook.com
+dabbook.com UNIQUE
+Searching for: avnimovers.com
+avnimovers.com UNIQUE
+Searching for: yeaentertainment.com
+yeaentertainment.com UNIQUE
+Searching for: greenconnexxion.com
+greenconnexxion.com UNIQUE
+Searching for: ts-vinduer.com
+ts-vinduer.com UNIQUE
+Searching for: amideli.com
+amideli.com UNIQUE
+Searching for: faulk-collier.com
+faulk-collier.com UNIQUE
+Searching for: odomlawoffice.com
+odomlawoffice.com UNIQUE
+Searching for: sksk446.com
+sksk446.com UNIQUE
+Searching for: foodcouriers-finglas.com
+foodcouriers-finglas.com UNIQUE
+Searching for: peppershelf.com
+peppershelf.com UNIQUE
+Searching for: acrylicfurnituresanfranciscoca.com
+acrylicfurnituresanfranciscoca.com UNIQUE
+Searching for: woljeong.com
+woljeong.com UNIQUE
+Searching for: invisalignapopka.com
+invisalignapopka.com UNIQUE
+Searching for: atomsplav.com
+atomsplav.com UNIQUE
+Searching for: johannahynesyoga.com
+johannahynesyoga.com UNIQUE
+Searching for: ololoio.com
+ololoio.com UNIQUE
+Searching for: alotvines.com
+alotvines.com UNIQUE
+Searching for: mytlcmassage.com
+mytlcmassage.com UNIQUE
+Searching for: mymustangdaily.com
+mymustangdaily.com UNIQUE
+Searching for: winfieldsuccess.com
+winfieldsuccess.com UNIQUE
+Searching for: eye0899.com
+eye0899.com UNIQUE
+Searching for: angeldyke.com
+angeldyke.com UNIQUE
+Searching for: tyler-lazenby.com
+tyler-lazenby.com UNIQUE
+Searching for: horseandriderfitness.com
+horseandriderfitness.com UNIQUE
+Searching for: toppersbozeman.com
+toppersbozeman.com UNIQUE
+Searching for: mstyy.com
+mstyy.com UNIQUE
+Searching for: tucsonconnect.com
+tucsonconnect.com UNIQUE
+Searching for: viabrasilcomunicacao.com
+viabrasilcomunicacao.com UNIQUE
+Searching for: poslovnidogodki.com
+poslovnidogodki.com UNIQUE
+Searching for: ultiproedd.com
+ultiproedd.com UNIQUE
+Searching for: royperexport.com
+royperexport.com UNIQUE
+Searching for: totempoleadvertising.com
+totempoleadvertising.com UNIQUE
+Searching for: photofigurines.com
+photofigurines.com UNIQUE
+Searching for: hellyeahyou.com
+hellyeahyou.com UNIQUE
+Searching for: kalender-steuerberater.com
+kalender-steuerberater.com UNIQUE
+Searching for: shrubandtreecare.com
+shrubandtreecare.com UNIQUE
+Searching for: emkasport.com
+emkasport.com UNIQUE
+Searching for: fioniverse.com
+fioniverse.com UNIQUE
+Searching for: gruponektar.com
+gruponektar.com UNIQUE
+Searching for: originalperfecthair.com
+originalperfecthair.com UNIQUE
+Searching for: hnharmory.com
+hnharmory.com UNIQUE
+Searching for: alaminrestaurant.com
+alaminrestaurant.com UNIQUE
+Searching for: clubhousesportsbarandlounge.com
+clubhousesportsbarandlounge.com UNIQUE
+Searching for: snoozeboxhotelz.com
+snoozeboxhotelz.com UNIQUE
+Searching for: sophiewright.com
+sophiewright.com UNIQUE
+Searching for: babahub.com
+babahub.com UNIQUE
+Searching for: huifyw.com
+huifyw.com UNIQUE
+Searching for: qipai518518.com
+qipai518518.com UNIQUE
+Searching for: hordr.com
+hordr.com UNIQUE
+Searching for: medicinada.com
+medicinada.com UNIQUE
+Searching for: pinkbutic.com
+pinkbutic.com UNIQUE
+Searching for: pinkandbluememories.com
+pinkandbluememories.com UNIQUE
+Searching for: s00zta64.com
+s00zta64.com UNIQUE
+Searching for: yansworkshop.com
+yansworkshop.com UNIQUE
+Searching for: motel6bostondanvers.com
+motel6bostondanvers.com UNIQUE
+Searching for: zjgsdjjx.com
+zjgsdjjx.com UNIQUE
+Searching for: barbarazenicola.com
+barbarazenicola.com UNIQUE
+Searching for: villaslasvegas.com
+villaslasvegas.com UNIQUE
+Searching for: lojazero.com
+lojazero.com UNIQUE
+Searching for: gretchruns.com
+gretchruns.com UNIQUE
+Searching for: diymachineparts.com
+diymachineparts.com UNIQUE
+Searching for: kalkunn.com
+kalkunn.com UNIQUE
+Searching for: buybestdentaldirect.com
+buybestdentaldirect.com UNIQUE
+Searching for: xn--3dsr27cfne1vj.com
+xn--3dsr27cfne1vj.com UNIQUE
+Searching for: fashionshapenews.com
+fashionshapenews.com UNIQUE
+Searching for: melford-country-chickens.com
+melford-country-chickens.com UNIQUE
+Searching for: tifgeiig.com
+tifgeiig.com UNIQUE
+Searching for: linkskhoj.com
+linkskhoj.com UNIQUE
+Searching for: morgianabellydance.com
+morgianabellydance.com UNIQUE
+Searching for: comfortinnhayti.com
+comfortinnhayti.com UNIQUE
+Searching for: newstimesquare.com
+newstimesquare.com UNIQUE
+Searching for: floridawholesalelenders.com
+floridawholesalelenders.com UNIQUE
+Searching for: itifen.com
+itifen.com UNIQUE
+Searching for: myflightchoice.com
+myflightchoice.com UNIQUE
+Searching for: letapfishing.com
+letapfishing.com UNIQUE
+Searching for: ediemaes.com
+ediemaes.com UNIQUE
+Searching for: yourgamedaytee.com
+yourgamedaytee.com UNIQUE
+Searching for: expertrepairllc.com
+expertrepairllc.com UNIQUE
+Searching for: tekhnologos.com
+tekhnologos.com UNIQUE
+Searching for: 2f6q.com
+2f6q.com UNIQUE
+Searching for: highflyinghomes.com
+highflyinghomes.com UNIQUE
+Searching for: hfstservices.com
+hfstservices.com UNIQUE
+Searching for: csmtl.com
+csmtl.com UNIQUE
+Searching for: battorstate.com
+battorstate.com UNIQUE
+Searching for: rattlesnakehearts.com
+rattlesnakehearts.com UNIQUE
+Searching for: jaywillisland.com
+jaywillisland.com UNIQUE
+Searching for: vaporstcharlesmo.com
+vaporstcharlesmo.com UNIQUE
+Searching for: visualetftrader.com
+visualetftrader.com UNIQUE
+Searching for: xn--okostelefonokolcsn-61b.com
+xn--okostelefonokolcsn-61b.com UNIQUE
+Searching for: coolarcondicionado.com
+coolarcondicionado.com UNIQUE
+Searching for: rossynayla.com
+rossynayla.com UNIQUE
+Searching for: rr-land-tn.com
+rr-land-tn.com UNIQUE
+Searching for: peterpaulministries.com
+peterpaulministries.com UNIQUE
+Searching for: actifense.com
+actifense.com UNIQUE
+Searching for: worldwidelawcorp.com
+worldwidelawcorp.com UNIQUE
+Searching for: bouldercreativitylabs.com
+bouldercreativitylabs.com UNIQUE
+Searching for: planetmediapr.com
+planetmediapr.com UNIQUE
+Searching for: ibai-tek.com
+ibai-tek.com UNIQUE
+Searching for: songsongka.com
+songsongka.com UNIQUE
+Searching for: signaturemauiweddings.com
+signaturemauiweddings.com UNIQUE
+Searching for: minsheng56.com
+minsheng56.com UNIQUE
+Searching for: szforums.com
+szforums.com UNIQUE
+Searching for: lalajoie.com
+lalajoie.com UNIQUE
+Searching for: xn--5nqw77assr8vz.com
+xn--5nqw77assr8vz.com UNIQUE
+Searching for: fakstore.com
+fakstore.com UNIQUE
+Searching for: everbritepropertygroup.com
+everbritepropertygroup.com UNIQUE
+Searching for: investigativecase.com
+investigativecase.com UNIQUE
+Searching for: serenitygourds.com
+serenitygourds.com UNIQUE
+Searching for: housesdeath.com
+housesdeath.com UNIQUE
+Searching for: ok2hate.com
+ok2hate.com UNIQUE
+Searching for: sslp007.com
+sslp007.com UNIQUE
+Searching for: bamazingmusic.com
+bamazingmusic.com UNIQUE
+Searching for: earningforfreedom.com
+earningforfreedom.com UNIQUE
+Searching for: angelartmotorcycledesign.com
+angelartmotorcycledesign.com UNIQUE
+Searching for: gregrayguitarlessons-music.com
+gregrayguitarlessons-music.com UNIQUE
+Searching for: isthelookbookstore.com
+isthelookbookstore.com UNIQUE
+Searching for: americanexpatpensions.com
+americanexpatpensions.com UNIQUE
+Searching for: vyriskirubai.com
+vyriskirubai.com UNIQUE
+Searching for: animalhouseart.com
+animalhouseart.com UNIQUE
+Searching for: ripcordtravelinsurance.com
+ripcordtravelinsurance.com UNIQUE
+Searching for: liftrotor.com
+liftrotor.com UNIQUE
+Searching for: icccerts.com
+icccerts.com UNIQUE
+Searching for: sahapjo.com
+sahapjo.com UNIQUE
+Searching for: miriamgee.com
+miriamgee.com UNIQUE
+Searching for: galibiexport.com
+galibiexport.com UNIQUE
+Searching for: 05s3.com
+05s3.com UNIQUE
+Searching for: medalicious.com
+medalicious.com UNIQUE
+Searching for: nanobiqe.com
+nanobiqe.com UNIQUE
+Searching for: classicautospala.com
+classicautospala.com UNIQUE
+Searching for: project-globlity.com
+project-globlity.com UNIQUE
+Searching for: lt519.com
+lt519.com UNIQUE
+Searching for: auziere.com
+auziere.com UNIQUE
+Searching for: nk9y.com
+nk9y.com UNIQUE
+Searching for: cafeteriafraiche.com
+cafeteriafraiche.com UNIQUE
+Searching for: mahugi.com
+mahugi.com UNIQUE
+Searching for: ppkundensrvk.com
+ppkundensrvk.com UNIQUE
+Searching for: harborumc.com
+harborumc.com UNIQUE
+Searching for: airport-parker.com
+airport-parker.com UNIQUE
+Searching for: maker021.com
+maker021.com UNIQUE
+Searching for: mininio.com
+mininio.com UNIQUE
+Searching for: renxingcaifu.com
+renxingcaifu.com UNIQUE
+Searching for: bahamianmoviesintl.com
+bahamianmoviesintl.com UNIQUE
+Searching for: raipurcfs.com
+raipurcfs.com UNIQUE
+Searching for: ipchangersoftware.com
+ipchangersoftware.com UNIQUE
+Searching for: design-plast-renovari.com
+design-plast-renovari.com UNIQUE
+Searching for: oldetownetrolleytours.com
+oldetownetrolleytours.com UNIQUE
+Searching for: adthwart.com
+adthwart.com UNIQUE
+Searching for: nnvncjc.com
+nnvncjc.com UNIQUE
+Searching for: sltcogroup.com
+sltcogroup.com UNIQUE
+Searching for: relgine.com
+relgine.com UNIQUE
+Searching for: cinematicartsagency.com
+cinematicartsagency.com UNIQUE
+Searching for: maui-scout.com
+maui-scout.com UNIQUE
+Searching for: beaumontpc.com
+beaumontpc.com UNIQUE
+Searching for: homecarefoyou.com
+homecarefoyou.com UNIQUE
+Searching for: dotsandslash.com
+dotsandslash.com UNIQUE
+Searching for: 021rong.com
+021rong.com UNIQUE
+Searching for: painting-web.com
+painting-web.com UNIQUE
+Searching for: wearesh.com
+wearesh.com UNIQUE
+Searching for: kunuumi.com
+kunuumi.com UNIQUE
+Searching for: dereeshop.com
+dereeshop.com UNIQUE
+Searching for: xn--rpu22iv5g.com
+xn--rpu22iv5g.com UNIQUE
+Searching for: terangmusicstudio.com
+terangmusicstudio.com UNIQUE
+Searching for: abcmetales.com
+abcmetales.com UNIQUE
+Searching for: emailservices1.com
+emailservices1.com UNIQUE
+Searching for: kevinvonkeen.com
+kevinvonkeen.com UNIQUE
+Searching for: specialeventsdirector.com
+specialeventsdirector.com UNIQUE
+Searching for: namastehomenepal.com
+namastehomenepal.com UNIQUE
+Searching for: winningtracker.com
+winningtracker.com UNIQUE
+Searching for: edensacre.com
+edensacre.com UNIQUE
+Searching for: yyqqz.com
+yyqqz.com UNIQUE
+Searching for: casaelevada.com
+casaelevada.com UNIQUE
+Searching for: idoproductionnyc.com
+idoproductionnyc.com UNIQUE
+Searching for: colorincoloreado.com
+colorincoloreado.com UNIQUE
+Searching for: montfoxoutsourcing.com
+montfoxoutsourcing.com UNIQUE
+Searching for: freetrafficmmm.com
+freetrafficmmm.com UNIQUE
+Searching for: cowlitzcommunityreports.com
+cowlitzcommunityreports.com UNIQUE
+Searching for: taijixitong.com
+taijixitong.com UNIQUE
+Searching for: fanshimenye.com
+fanshimenye.com UNIQUE
+Searching for: ledlightingclub.com
+ledlightingclub.com UNIQUE
+Searching for: xn--o01bs3gb6i7urfyd.com
+xn--o01bs3gb6i7urfyd.com UNIQUE
+Searching for: nvrendang.com
+nvrendang.com UNIQUE
+Searching for: ssgstrategic.com
+ssgstrategic.com UNIQUE
+Searching for: landinmayer.com
+landinmayer.com UNIQUE
+Searching for: next-cso.com
+next-cso.com UNIQUE
+Searching for: normotomotiv.com
+normotomotiv.com UNIQUE
+Searching for: lifecoaching4me.com
+lifecoaching4me.com UNIQUE
+Searching for: weddingartistgroup.com
+weddingartistgroup.com UNIQUE
+Searching for: onyxeventskarratha.com
+onyxeventskarratha.com UNIQUE
+Searching for: tzmtmould.com
+tzmtmould.com UNIQUE
+Searching for: quadskigb.com
+quadskigb.com UNIQUE
+Searching for: lxwtools.com
+lxwtools.com UNIQUE
+Searching for: zhaowangan.com
+zhaowangan.com UNIQUE
+Searching for: prontobagno.com
+prontobagno.com UNIQUE
+Searching for: newabhishek.com
+newabhishek.com UNIQUE
+Searching for: paulaschilling.com
+paulaschilling.com UNIQUE
+Searching for: venturesplace.com
+venturesplace.com UNIQUE
+Searching for: tabithamatthews.com
+tabithamatthews.com UNIQUE
+Searching for: vinhomesr.com
+vinhomesr.com UNIQUE
+Searching for: rossilitoraneo.com
+rossilitoraneo.com UNIQUE
+Searching for: sfjandl.com
+sfjandl.com UNIQUE
+Searching for: kiyaklar.com
+kiyaklar.com UNIQUE
+Searching for: nolafooddude.com
+nolafooddude.com UNIQUE
+Searching for: lol4fans.com
+lol4fans.com UNIQUE
+Searching for: top10icebuckets.com
+top10icebuckets.com UNIQUE
+Searching for: natalieroskin.com
+natalieroskin.com UNIQUE
+Searching for: wartering.com
+wartering.com UNIQUE
+Searching for: petrobocall.com
+petrobocall.com UNIQUE
+Searching for: lavieunreve.com
+lavieunreve.com UNIQUE
+Searching for: prime-fl.com
+prime-fl.com UNIQUE
+Searching for: phatnutmeg.com
+phatnutmeg.com UNIQUE
+Searching for: new-era-hat.com
+new-era-hat.com UNIQUE
+Searching for: resortsimages.com
+resortsimages.com UNIQUE
+Searching for: lidermanutencao.com
+lidermanutencao.com UNIQUE
+Searching for: marlyncastillo.com
+marlyncastillo.com UNIQUE
+Searching for: sexymofos.com
+sexymofos.com UNIQUE
+Searching for: watchyo.com
+watchyo.com UNIQUE
+Searching for: tenislojaonline.com
+tenislojaonline.com UNIQUE
+Searching for: phyl158.com
+phyl158.com UNIQUE
+Searching for: worthlandadvisors.com
+worthlandadvisors.com UNIQUE
+Searching for: osmanliyapi.com
+osmanliyapi.com UNIQUE
+Searching for: luxury-travel-guru.com
+luxury-travel-guru.com UNIQUE
+Searching for: valhallatankremoval.com
+valhallatankremoval.com UNIQUE
+Searching for: medicalalertsystemsbuyersguide.com
+medicalalertsystemsbuyersguide.com UNIQUE
+Searching for: s8tactical.com
+s8tactical.com UNIQUE
+Searching for: macraedev.com
+macraedev.com UNIQUE
+Searching for: nyclifestylerealty.com
+nyclifestylerealty.com UNIQUE
+Searching for: kelterry.com
+kelterry.com UNIQUE
+Searching for: naturalforagebaits.com
+naturalforagebaits.com UNIQUE
+Searching for: seattlebird.com
+seattlebird.com UNIQUE
+Searching for: kudfiual.com
+kudfiual.com UNIQUE
+Searching for: tamantergantung.com
+tamantergantung.com UNIQUE
+Searching for: mediastouch.com
+mediastouch.com UNIQUE
+Searching for: mybentwaterhomeonlakeconroe.com
+mybentwaterhomeonlakeconroe.com UNIQUE
+Searching for: legalmarketingsolution.com
+legalmarketingsolution.com UNIQUE
+Searching for: uptonserv-ice.com
+uptonserv-ice.com UNIQUE
+Searching for: localmedicalspalasvegas.com
+localmedicalspalasvegas.com UNIQUE
+Searching for: xn--n8jub5culpa1c8d6fva8izilfd7j7927cdpsh.com
+xn--n8jub5culpa1c8d6fva8izilfd7j7927cdpsh.com UNIQUE
+Searching for: resiliencecafe.com
+resiliencecafe.com UNIQUE
+Searching for: szwlhk.com
+szwlhk.com UNIQUE
+Searching for: parhamtradings.com
+parhamtradings.com UNIQUE
+Searching for: rhzcym10.com
+rhzcym10.com UNIQUE
+Searching for: starvidroseacessorios.com
+starvidroseacessorios.com UNIQUE
+Searching for: vueasybrand1.com
+vueasybrand1.com UNIQUE
+Searching for: mfeeplc.com
+mfeeplc.com UNIQUE
+Searching for: worklearnearnlive.com
+worklearnearnlive.com UNIQUE
+Searching for: naf-egersund.com
+naf-egersund.com UNIQUE
+Searching for: mintmastergroup.com
+mintmastergroup.com UNIQUE
+Searching for: sculpsurehouston.com
+sculpsurehouston.com UNIQUE
+Searching for: mevarchim.com
+mevarchim.com UNIQUE
+Searching for: mp1990inc.com
+mp1990inc.com UNIQUE
+Searching for: unfilteredme.com
+unfilteredme.com UNIQUE
+Searching for: protection-securite-maison.com
+protection-securite-maison.com UNIQUE
+Searching for: vestidoo.com
+vestidoo.com UNIQUE
+Searching for: manhattanfans.com
+manhattanfans.com UNIQUE
+Searching for: numanaka-kaikei.com
+numanaka-kaikei.com UNIQUE
+Searching for: youngwednesdays.com
+youngwednesdays.com UNIQUE
+Searching for: lashcandie.com
+lashcandie.com UNIQUE
+Searching for: lulukidsacessorios.com
+lulukidsacessorios.com UNIQUE
+Searching for: tinyvr.com
+tinyvr.com UNIQUE
+Searching for: pcsect.com
+pcsect.com UNIQUE
+Searching for: propcreativepnw.com
+propcreativepnw.com UNIQUE
+Searching for: ytgangchang.com
+ytgangchang.com UNIQUE
+Searching for: sterlinglibrary.com
+sterlinglibrary.com UNIQUE
+Searching for: 5006888.com
+5006888.com UNIQUE
+Searching for: zaligat.com
+zaligat.com UNIQUE
+Searching for: rendezvousnites.com
+rendezvousnites.com UNIQUE
+Searching for: paginadeanuncio.com
+paginadeanuncio.com UNIQUE
+Searching for: topmoldova.com
+topmoldova.com UNIQUE
+Searching for: mhommos.com
+mhommos.com UNIQUE
+Searching for: kilianpower.com
+kilianpower.com UNIQUE
+Searching for: 1040yelllane.com
+1040yelllane.com UNIQUE
+Searching for: heatingandairconditioningofbellevue.com
+heatingandairconditioningofbellevue.com UNIQUE
+Searching for: hautesolemagazine.com
+hautesolemagazine.com UNIQUE
+Searching for: gharepeyma.com
+gharepeyma.com UNIQUE
+Searching for: firstaidandcprforlife.com
+firstaidandcprforlife.com UNIQUE
+Searching for: 2012ozbbcmy02.com
+2012ozbbcmy02.com UNIQUE
+Searching for: shreeshyamdecoraters.com
+shreeshyamdecoraters.com UNIQUE
+Searching for: eldpp.com
+eldpp.com UNIQUE
+Searching for: pf-123.com
+pf-123.com UNIQUE
+Searching for: lizic.com
+lizic.com UNIQUE
+Searching for: ylgw.wang
+ylgw.wang UNIQUE
+Searching for: medecinetv.com
+medecinetv.com UNIQUE
+Searching for: privaterecruitmentevents.com
+privaterecruitmentevents.com UNIQUE
+Searching for: schools.healthcare
+schools.healthcare UNIQUE
+Searching for: zhouyao.wang
+zhouyao.wang UNIQUE
+Searching for: sanfordshoesales.com
+sanfordshoesales.com UNIQUE
+Searching for: recycled.glass
+recycled.glass UNIQUE
+Searching for: rky4y.com
+rky4y.com UNIQUE
+Searching for: smits.space
+smits.space UNIQUE
+Searching for: weareresolute.healthcare
+weareresolute.healthcare UNIQUE
+Searching for: kuaikuaijiu.wang
+kuaikuaijiu.wang UNIQUE
+Searching for: mera.tech
+mera.tech UNIQUE
+Searching for: m-and-b.tokyo
+m-and-b.tokyo UNIQUE
+Searching for: systemofadown.band
+systemofadown.band UNIQUE
+Searching for: simpelpmta-22.com
+simpelpmta-22.com UNIQUE
+Searching for: rektore.com
+rektore.com UNIQUE
+Searching for: misterrefs.com
+misterrefs.com UNIQUE
+Searching for: maps.link
+maps.link UNIQUE
+Searching for: redlotusyoga.hamburg
+redlotusyoga.hamburg UNIQUE
+Searching for: sagwaramarket.com
+sagwaramarket.com UNIQUE
+Searching for: paella-chef.com
+paella-chef.com UNIQUE
+Searching for: xn--zn1aw17c.wang
+xn--zn1aw17c.wang UNIQUE
+Searching for: shujian.space
+shujian.space UNIQUE
+Searching for: xajlc.com
+xajlc.com UNIQUE
+Searching for: spacealienatplanetdad.com
+spacealienatplanetdad.com UNIQUE
+Searching for: stemcells.healthcare
+stemcells.healthcare UNIQUE
+Searching for: simoncoding.com
+simoncoding.com UNIQUE
+Searching for: sstsusa.com
+sstsusa.com UNIQUE
+Searching for: wildonconsulting.com
+wildonconsulting.com UNIQUE
+Searching for: suimin-info.com
+suimin-info.com UNIQUE
+Searching for: luoli.space
+luoli.space UNIQUE
+Searching for: odontologiabahiablanca.com
+odontologiabahiablanca.com UNIQUE
+Searching for: vmy.social
+vmy.social UNIQUE
+Searching for: shwl1.com
+shwl1.com UNIQUE
+Searching for: meitushi.wang
+meitushi.wang UNIQUE
+Searching for: realty-school.space
+realty-school.space UNIQUE
+Searching for: torben.hamburg
+torben.hamburg UNIQUE
+Searching for: 59777.wang
+59777.wang UNIQUE
+Searching for: momilyscrafts.com
+momilyscrafts.com UNIQUE
+Searching for: mqjfqqsa.link
+mqjfqqsa.link UNIQUE
+Searching for: loveche.wang
+loveche.wang UNIQUE
+Searching for: suachuaiphonelaylien.com
+suachuaiphonelaylien.com UNIQUE
+Searching for: milesstockbridge.healthcare
+milesstockbridge.healthcare UNIQUE
+Searching for: molecular-turmoil.space
+Jan 14, 2016 6:40:49 PM org.elasticsearch.cluster.service.InternalClusterService$UpdateTask run
+INFO: [Vision] added {[Gorilla-Man][Ikn9OI-ETVO3_FckoX_diQ][adyachenko][inet[/10.100.78.101:9301]]{data=false, client=true},}, reason: zen-disco-receive(from master [[master-search][Mm6kv07HRG6Mw7LXUJhStA][dwdccres1][inet[/10.32.18.31:9303]]{data=false, master=true}])
+molecular-turmoil.space UNIQUE
+Searching for: 455.photo
+455.photo UNIQUE
+Searching for: service-button.com
+service-button.com UNIQUE
+Searching for: wonderfulshare.com
+wonderfulshare.com UNIQUE
+Searching for: newsdigg.link
+newsdigg.link UNIQUE
+Searching for: ldms123.com
+ldms123.com UNIQUE
+Searching for: streetweartv.com
+streetweartv.com UNIQUE
+Searching for: konpa-hitoduma-nagasaki.link
+konpa-hitoduma-nagasaki.link UNIQUE
+Searching for: lipp.photo
+lipp.photo UNIQUE
+Searching for: lllx.wang
+lllx.wang UNIQUE
+Searching for: shopcactuslilly.com
+shopcactuslilly.com UNIQUE
+Searching for: wildathearttours.com
+wildathearttours.com UNIQUE
+Searching for: venturetee.com
+venturetee.com UNIQUE
+Searching for: mobilehome.parts
+mobilehome.parts UNIQUE
+Searching for: usofficespaces.com
+usofficespaces.com UNIQUE
+Searching for: zvtpoilv.wang
+zvtpoilv.wang UNIQUE
+Searching for: strades.com
+strades.com UNIQUE
+Searching for: sachemknowledge.com
+sachemknowledge.com UNIQUE
+Searching for: maehroboter.tips
+maehroboter.tips UNIQUE
+Searching for: midorigaoka.tokyo
+midorigaoka.tokyo UNIQUE
+Searching for: mas.tips
+mas.tips UNIQUE
+Searching for: shcjqy.com
+shcjqy.com UNIQUE
+Searching for: naturelements.healthcare
+naturelements.healthcare UNIQUE
+Searching for: shieldmyid.com
+shieldmyid.com UNIQUE
+Searching for: timdiem.com
+timdiem.com UNIQUE
+Searching for: keychain.link
+keychain.link UNIQUE
+Searching for: nutrikosmetik.tips
+nutrikosmetik.tips UNIQUE
+Searching for: treetopshotel.com
+treetopshotel.com UNIQUE
+Searching for: rubendarioms.com
+rubendarioms.com UNIQUE
+Searching for: trouauto.com
+trouauto.com UNIQUE
+Searching for: mechatroniker.nrw
+mechatroniker.nrw UNIQUE
+Searching for: numismatics.tips
+Jan 14, 2016 6:41:00 PM org.elasticsearch.cluster.service.InternalClusterService$UpdateTask run
+INFO: [Vision] removed {[Gorilla-Man][Ikn9OI-ETVO3_FckoX_diQ][adyachenko][inet[/10.100.78.101:9301]]{data=false, client=true},}, reason: zen-disco-receive(from master [[master-search][Mm6kv07HRG6Mw7LXUJhStA][dwdccres1][inet[/10.32.18.31:9303]]{data=false, master=true}])
+numismatics.tips UNIQUE
+Searching for: optimalisere.tips
+optimalisere.tips UNIQUE
+Searching for: umadentertainment.com
+umadentertainment.com UNIQUE
+Searching for: mobchannel.link
+mobchannel.link UNIQUE
+Searching for: woodcomodularkitchen.com
+woodcomodularkitchen.com UNIQUE
+Searching for: 95112.wang
+95112.wang UNIQUE
+Searching for: playreevemc.com
+playreevemc.com UNIQUE
+Searching for: theboothsociety.com
+theboothsociety.com UNIQUE
+Searching for: oosaka-20dai-hitoduma-sefure.link
+oosaka-20dai-hitoduma-sefure.link UNIQUE
+Searching for: unretouchedav.com
+unretouchedav.com UNIQUE
+Searching for: ricksmarket.com
+ricksmarket.com UNIQUE
+Searching for: somewearboutique.com
+somewearboutique.com UNIQUE
+Searching for: koch.schule
+koch.schule UNIQUE
+Searching for: zombieroadtrip.com
+zombieroadtrip.com UNIQUE
+Searching for: mauriceglazer.ceo
+mauriceglazer.ceo UNIQUE
+Searching for: marylandpersonalinjurylawyer.space
+marylandpersonalinjurylawyer.space UNIQUE
+Searching for: 4026.wang
+4026.wang UNIQUE
+Searching for: sismofm.com
+sismofm.com UNIQUE
+Searching for: kyoto-20dai-h-shitai.link
+kyoto-20dai-h-shitai.link UNIQUE
+Searching for: 44441.wang
+44441.wang UNIQUE
+Searching for: sexhuli.com
+sexhuli.com UNIQUE
+Searching for: tlaloc666.com
+tlaloc666.com UNIQUE
+Searching for: lll.black
+lll.black UNIQUE
+Searching for: thebestdenverhomesearch.com
+thebestdenverhomesearch.com UNIQUE
+Searching for: absolutestaffingtexas.com
+absolutestaffingtexas.com UNIQUE
+Searching for: stogiessportsbar.com
+stogiessportsbar.com UNIQUE
+Searching for: contacto-suntory.com
+contacto-suntory.com UNIQUE
+Searching for: ca88gg.com
+ca88gg.com UNIQUE
+Searching for: wwwskiptests.com
+wwwskiptests.com UNIQUE
+Searching for: lenyfunds.com
+lenyfunds.com UNIQUE
+Searching for: idamancollectionkb.com
+idamancollectionkb.com UNIQUE
+Searching for: cell-defense.com
+cell-defense.com UNIQUE
+Searching for: michaellynnvcard.com
+michaellynnvcard.com UNIQUE
+Searching for: lovelylittletrinkets.com
+lovelylittletrinkets.com UNIQUE
+Searching for: jacsboothe.com
+jacsboothe.com UNIQUE
+Searching for: massageforemployees.com
+massageforemployees.com UNIQUE
+Searching for: ppnol.com
+ppnol.com UNIQUE
+Searching for: whtg98.com
+whtg98.com UNIQUE
+Searching for: jinxiangjzzs.com
+jinxiangjzzs.com UNIQUE
+Searching for: dark-owl.com
+dark-owl.com UNIQUE
+Searching for: arge-mak.com
+arge-mak.com UNIQUE
+Searching for: websitemesh.com
+websitemesh.com UNIQUE
+Searching for: nungz.com
+nungz.com UNIQUE
+Searching for: mlilymattresses.com
+mlilymattresses.com UNIQUE
+Searching for: bolsasconasassuajadas.com
+bolsasconasassuajadas.com UNIQUE
+Searching for: zgsynz.com
+zgsynz.com UNIQUE
+Searching for: egowork.com
+egowork.com UNIQUE
+Searching for: kyl2013.com
+kyl2013.com UNIQUE
+Searching for: vantainguyenxuan.com
+vantainguyenxuan.com UNIQUE
+Searching for: kpsorganic.com
+kpsorganic.com UNIQUE
+Searching for: lavilledemille.com
+lavilledemille.com UNIQUE
+Searching for: swipecleanapp.com
+swipecleanapp.com UNIQUE
+Searching for: xmgc120.com
+xmgc120.com UNIQUE
+Searching for: livingfoodnorway.com
+livingfoodnorway.com UNIQUE
+Searching for: brookharthomes.com
+brookharthomes.com UNIQUE
+Searching for: seducewomeneasily.com
+seducewomeneasily.com UNIQUE
+Searching for: huichunchan.com
+huichunchan.com UNIQUE
+Searching for: apawd.com
+apawd.com UNIQUE
+Searching for: tour-treff-mallorca.com
+tour-treff-mallorca.com UNIQUE
+Searching for: vicstracking.com
+vicstracking.com UNIQUE
+Searching for: mps-teamryan.com
+mps-teamryan.com UNIQUE
+Searching for: alquilatelo.com
+alquilatelo.com UNIQUE
+Searching for: xn--justiadigital-mgb.com
+xn--justiadigital-mgb.com UNIQUE
+Searching for: urucurituba.com
+urucurituba.com UNIQUE
+Searching for: soyunasuperpersona.com
+soyunasuperpersona.com UNIQUE
+Searching for: mascotcorp.com
+mascotcorp.com UNIQUE
+Searching for: s2a6.com
+s2a6.com UNIQUE
+Searching for: droneskyfilms.com
+droneskyfilms.com UNIQUE
+Searching for: renxingshouji.com
+renxingshouji.com UNIQUE
+Searching for: triatekstil.com
+triatekstil.com UNIQUE
+Searching for: walkerspianoservice.com
+walkerspianoservice.com UNIQUE
+Searching for: dubs3.com
+dubs3.com UNIQUE
+Searching for: dailydipz.com
+dailydipz.com UNIQUE
+Searching for: nsj518.com
+nsj518.com UNIQUE
+Searching for: theyescardprocessing.com
+theyescardprocessing.com UNIQUE
+Searching for: michelettitavares.com
+michelettitavares.com UNIQUE
+Searching for: haoclass123.com
+haoclass123.com UNIQUE
+Searching for: swaarygrowtronics.com
+swaarygrowtronics.com UNIQUE
+Searching for: tastypitchfork.com
+tastypitchfork.com UNIQUE
+Searching for: designyourdropcards.com
+designyourdropcards.com UNIQUE
+Searching for: chinesespringfestivaleveningparty.com
+chinesespringfestivaleveningparty.com UNIQUE
+Searching for: kh-mall.com
+kh-mall.com UNIQUE
+Searching for: ewasta.com
+ewasta.com UNIQUE
+Searching for: baisite88.com
+baisite88.com UNIQUE
+Searching for: kikan-kou.com
+kikan-kou.com UNIQUE
+Searching for: sadiyyah-shakur.com
+sadiyyah-shakur.com UNIQUE
+Searching for: heydafo.com
+heydafo.com UNIQUE
+Searching for: mylyfeseries.com
+mylyfeseries.com UNIQUE
+Searching for: shroaring.com
+shroaring.com UNIQUE
+Searching for: avaasaapl.com
+avaasaapl.com UNIQUE
+Searching for: ashfaqalikhan.com
+ashfaqalikhan.com UNIQUE
+Searching for: butterflyparadigm.com
+butterflyparadigm.com UNIQUE
+Searching for: bbb634.com
+bbb634.com UNIQUE
+Searching for: wyzmls.com
+wyzmls.com UNIQUE
+Searching for: cobbcountyvalues.com
+cobbcountyvalues.com UNIQUE
+Searching for: biencordialement.com
+biencordialement.com UNIQUE
+Searching for: jbvario.com
+jbvario.com UNIQUE
+Searching for: trnsprtr.com
+trnsprtr.com UNIQUE
+Searching for: nb-jianan.com
+nb-jianan.com UNIQUE
+Searching for: rsirealestategroup.com
+rsirealestategroup.com UNIQUE
+Searching for: ibookmontreal.com
+ibookmontreal.com UNIQUE
+Searching for: federalmedicalmarijuanadispensaries.com
+federalmedicalmarijuanadispensaries.com UNIQUE
+Searching for: givingitree.com
+givingitree.com UNIQUE
+Searching for: tessyonyia.com
+tessyonyia.com UNIQUE
+Searching for: premeeraupdate.com
+premeeraupdate.com UNIQUE
+Searching for: houseoffiveboutique.com
+houseoffiveboutique.com UNIQUE
+Searching for: wasjh.com
+wasjh.com UNIQUE
+Searching for: muabanxenangtay.com
+muabanxenangtay.com UNIQUE
+Searching for: vachulavistahomes.com
+vachulavistahomes.com UNIQUE
+Searching for: vns242.com
+vns242.com UNIQUE
+Searching for: rejuvenatewithtouch.com
+rejuvenatewithtouch.com UNIQUE
+Searching for: 98s758.com
+98s758.com UNIQUE
+Searching for: flikfrekarz.com
+flikfrekarz.com UNIQUE
+Searching for: tzimispor.com
+tzimispor.com UNIQUE
+Searching for: ylhcw666.com
+ylhcw666.com UNIQUE
+Searching for: islandofliberty.com
+islandofliberty.com UNIQUE
+Searching for: nuskin-galvanicspa.com
+nuskin-galvanicspa.com UNIQUE
+Searching for: sergimoreso.com
+sergimoreso.com UNIQUE
+Searching for: dabsterscrubbinglistings.com
+dabsterscrubbinglistings.com UNIQUE
+Searching for: testmyfbapp.com
+testmyfbapp.com UNIQUE
+Searching for: helixcoffee.com
+helixcoffee.com UNIQUE
+Searching for: otelhamamalzemeleri.com
+otelhamamalzemeleri.com UNIQUE
+Searching for: ibooktoronto.com
+ibooktoronto.com UNIQUE
+Searching for: pixplatinium.com
+pixplatinium.com UNIQUE
+Searching for: praveerg.com
+praveerg.com UNIQUE
+Searching for: mkto-aba0434.com
+mkto-aba0434.com UNIQUE
+Searching for: creativeconstructiongroupllc.com
+creativeconstructiongroupllc.com UNIQUE
+Searching for: alertsentry-aaa.com
+alertsentry-aaa.com UNIQUE
+Searching for: szqzx.com
+szqzx.com UNIQUE
+Searching for: healthlaba.com
+healthlaba.com UNIQUE
+Searching for: 247trackit.com
+247trackit.com UNIQUE
+Searching for: dubsmashdescargar.com
+dubsmashdescargar.com UNIQUE
+Searching for: ecowriting.com
+ecowriting.com UNIQUE
+Searching for: hiatushomes.com
+hiatushomes.com UNIQUE
+Searching for: deathdivided.com
+deathdivided.com UNIQUE
+Searching for: ljtcr.com
+ljtcr.com UNIQUE
+Searching for: saiqi7.com
+saiqi7.com UNIQUE
+Searching for: wyrgame.com
+wyrgame.com UNIQUE
+Searching for: propertypalsrealestate.com
+propertypalsrealestate.com UNIQUE
+Searching for: kesaar.com
+kesaar.com UNIQUE
+Searching for: perfecthomeforredwoodsystems.com
+perfecthomeforredwoodsystems.com UNIQUE
+Searching for: omarimohamed.com
+omarimohamed.com UNIQUE
+Searching for: masskush.com
+masskush.com UNIQUE
+Searching for: wwscz.com
+wwscz.com UNIQUE
+Searching for: koukasnote.com
+koukasnote.com UNIQUE
+Searching for: wholecommitment.com
+wholecommitment.com UNIQUE
+Searching for: volzuki.com
+volzuki.com UNIQUE
+Searching for: kita-mainz.com
+kita-mainz.com UNIQUE
+Searching for: cmazilu.com
+cmazilu.com UNIQUE
+Searching for: kelliinsure.com
+kelliinsure.com UNIQUE
+Searching for: rpgamingstore.com
+rpgamingstore.com UNIQUE
+Searching for: ptdc-consultants.com
+ptdc-consultants.com UNIQUE
+Searching for: rowanbishopcatering.com
+rowanbishopcatering.com UNIQUE
+Searching for: me-myskin-and-my-success.com
+me-myskin-and-my-success.com UNIQUE
+Searching for: bayfieldford.com
+bayfieldford.com UNIQUE
+Searching for: lisabautistapr.com
+lisabautistapr.com UNIQUE
+Searching for: kidsafementoring.com
+kidsafementoring.com UNIQUE
+Searching for: chenyiku.com
+chenyiku.com UNIQUE
+Searching for: 949.it
+949.it UNIQUE
+Searching for: oos.us
+oos.us UNIQUE
+Searching for: clipper.tv
+clipper.tv UNIQUE
+Searching for: p0d.co.uk
+p0d.co.uk UNIQUE
+Searching for: 697.ru
+697.ru UNIQUE
+Searching for: fwl.ru
+fwl.ru UNIQUE
+Searching for: dg7.co.uk
+dg7.co.uk UNIQUE
+Searching for: scenographer.it
+scenographer.it UNIQUE
+Searching for: 10n.me
+Jan 14, 2016 6:41:54 PM org.elasticsearch.cluster.service.InternalClusterService$UpdateTask run
+INFO: [Vision] added {[Penance][eFcjp5OHRve3bmdrFmTY_g][adyachenko][inet[/10.100.78.101:9301]]{data=false, client=true},}, reason: zen-disco-receive(from master [[master-search][Mm6kv07HRG6Mw7LXUJhStA][dwdccres1][inet[/10.32.18.31:9303]]{data=false, master=true}])
+10n.me UNIQUE
+Searching for: ibq.it
+ibq.it UNIQUE
+Searching for: servo.me
+servo.me UNIQUE
+Searching for: gsss.us
+gsss.us UNIQUE
+Searching for: dwi.us
+dwi.us UNIQUE
+Searching for: a91.ru
+a91.ru UNIQUE
+Searching for: c1n.ru
+c1n.ru UNIQUE
+Searching for: cdy.io
+cdy.io UNIQUE
+Searching for: kaf.co.uk
+Jan 14, 2016 6:41:57 PM org.elasticsearch.cluster.service.InternalClusterService$UpdateTask run
+INFO: [Vision] removed {[Penance][eFcjp5OHRve3bmdrFmTY_g][adyachenko][inet[/10.100.78.101:9301]]{data=false, client=true},}, reason: zen-disco-receive(from master [[master-search][Mm6kv07HRG6Mw7LXUJhStA][dwdccres1][inet[/10.32.18.31:9303]]{data=false, master=true}])
+kaf.co.uk UNIQUE
+Searching for: poster.io
+poster.io UNIQUE
+Searching for: tical.me
+tical.me UNIQUE
+Searching for: robing.it
+robing.it UNIQUE
+Searching for: blade.tv
+blade.tv UNIQUE
+Searching for: avx.tv
+avx.tv UNIQUE
+Searching for: lns.us
+lns.us UNIQUE
+Searching for: fotw.me
+fotw.me UNIQUE
+Searching for: dcut.co.uk
+dcut.co.uk UNIQUE
+Searching for: cnnr.co.uk
+cnnr.co.uk UNIQUE
+Searching for: cfkyjy.com
+cfkyjy.com UNIQUE
+Searching for: fpf.es
+fpf.es UNIQUE
+Searching for: gcu.es
+gcu.es UNIQUE
+Searching for: ejx.us
+ejx.us UNIQUE
+Searching for: dfw.co.uk
+dfw.co.uk UNIQUE
+Searching for: prest.me
+prest.me UNIQUE
+Searching for: mattress.it
+mattress.it UNIQUE
+Searching for: pomo.to
+pomo.to UNIQUE
+Searching for: bja.it
+bja.it UNIQUE
+Searching for: chewy.me
+chewy.me UNIQUE
+Searching for: h2e.us
+h2e.us UNIQUE
+Searching for: blo.tv
+blo.tv UNIQUE
+Searching for: apiculture.io
+apiculture.io UNIQUE
+Searching for: murrey.me
+murrey.me UNIQUE
+Searching for: djg.me
+djg.me UNIQUE
+Searching for: dbb.us
+dbb.us UNIQUE
+Searching for: evangelion.it
+evangelion.it UNIQUE
+Searching for: brasse.it
+brasse.it UNIQUE
+Searching for: fkcl.co.uk
+fkcl.co.uk UNIQUE
+Searching for: dover.tv
+dover.tv UNIQUE
+Searching for: dxz.us
+dxz.us UNIQUE
+Searching for: grower.it
+grower.it UNIQUE
+Searching for: afbp.co.uk
+afbp.co.uk UNIQUE
+Searching for: bwv.it
+bwv.it UNIQUE
+Searching for: cadmus.me
+cadmus.me UNIQUE
+Searching for: b03.us
+b03.us UNIQUE
+Searching for: refurbishedforgood.com
+refurbishedforgood.com UNIQUE
+Searching for: prince.it
+prince.it UNIQUE
+Searching for: incredibleediblesgiftbaskets.com
+incredibleediblesgiftbaskets.com UNIQUE
+Searching for: hbts.co.uk
+hbts.co.uk UNIQUE
+Searching for: homestretch.tv
+homestretch.tv UNIQUE
+Searching for: gpaa.co.uk
+gpaa.co.uk UNIQUE
+Searching for: ladder.io
+ladder.io UNIQUE
+Searching for: trilateral.it
+trilateral.it UNIQUE
+Searching for: itit.co.uk
+itit.co.uk UNIQUE
+Searching for: jaws.co.uk
+jaws.co.uk UNIQUE
+Searching for: gestalt.me
+gestalt.me UNIQUE
+Searching for: ehow.ru
+ehow.ru UNIQUE
+Searching for: hprc.us
+hprc.us UNIQUE
+Searching for: erzt.ru
+erzt.ru UNIQUE
+Searching for: atelierduvertbois.com
+atelierduvertbois.com UNIQUE
+Searching for: parlamentoteatinos.com
+parlamentoteatinos.com UNIQUE
+Searching for: my-digi-box.com
+my-digi-box.com UNIQUE
+Searching for: tano-shiki.com
+tano-shiki.com UNIQUE
+Searching for: dock26.com
+dock26.com UNIQUE
+Searching for: goodseven.com
+goodseven.com UNIQUE
+Searching for: redchecksro.com
+redchecksro.com UNIQUE
+Searching for: ceo1.co.uk
+ceo1.co.uk UNIQUE
+Searching for: drmurtazaadeeb.com
+drmurtazaadeeb.com UNIQUE
+Searching for: bye.co.uk
+bye.co.uk UNIQUE
+Searching for: urgica.com
+urgica.com UNIQUE
+Searching for: ceag.it
+ceag.it UNIQUE
+Searching for: bobs-box.com
+bobs-box.com UNIQUE
+Searching for: draftingpen.com
+draftingpen.com UNIQUE
+Searching for: uy.to
+uy.to UNIQUE
+Searching for: abnormality.co.uk
+abnormality.co.uk UNIQUE
+Searching for: tijanajaksiclifestyle.com
+tijanajaksiclifestyle.com UNIQUE
+Searching for: hardwoodstores.com
+hardwoodstores.com UNIQUE
+Searching for: faim.it
+faim.it UNIQUE
+Searching for: wealthyaffiliatelife.com
+wealthyaffiliatelife.com UNIQUE
+Searching for: harvey-media.com
+harvey-media.com UNIQUE
+Searching for: dimensionsone.com
+dimensionsone.com UNIQUE
+Searching for: billigabocker.com
+billigabocker.com UNIQUE
+Searching for: cameronswright.com
+cameronswright.com UNIQUE
+Searching for: eleventavenue.com
+eleventavenue.com UNIQUE
+Searching for: feelgoodassistentin.com
+feelgoodassistentin.com UNIQUE
+Searching for: protectionnano.com
+protectionnano.com UNIQUE
+Searching for: corsoconcealment.com
+corsoconcealment.com UNIQUE
+Searching for: ictx.tv
+ictx.tv UNIQUE
+Searching for: glider.me
+glider.me UNIQUE
+Searching for: cerec2015.com
+cerec2015.com UNIQUE
+Searching for: invrite.com
+invrite.com UNIQUE
+Searching for: bluestone.it
+bluestone.it UNIQUE
+Searching for: myshadeofred.com
+myshadeofred.com UNIQUE
+Searching for: travelinsuranceforparents.com
+travelinsuranceforparents.com UNIQUE
+Searching for: starcityrising.com
+starcityrising.com UNIQUE
+Searching for: tnwaterways.com
+tnwaterways.com UNIQUE
+Searching for: slepper.com
+slepper.com UNIQUE
+Searching for: sfagentjeremy.com
+sfagentjeremy.com UNIQUE
+Searching for: erotikpornom.com
+erotikpornom.com UNIQUE
+Searching for: web2cars-mail.com
+web2cars-mail.com UNIQUE
+Searching for: truckoutfittersandaccessories.com
+truckoutfittersandaccessories.com UNIQUE
+Searching for: xmaslife.com
+xmaslife.com UNIQUE
+Searching for: improving.me
+improving.me UNIQUE
+Searching for: betbula.com
+betbula.com UNIQUE
+Searching for: localattorneygeneral.com
+localattorneygeneral.com UNIQUE
+Searching for: jcma.tv
+jcma.tv UNIQUE
+Searching for: pencawanschool.com
+pencawanschool.com UNIQUE
+Searching for: westccon.com
+westccon.com UNIQUE
+Searching for: ruffdayadvisors.com
+ruffdayadvisors.com UNIQUE
+Searching for: bulago.com
+bulago.com UNIQUE
+Searching for: cpcv.co.uk
+cpcv.co.uk UNIQUE
+Searching for: hiol.it
+Jan 14, 2016 6:42:27 PM org.elasticsearch.cluster.service.InternalClusterService$UpdateTask run
+INFO: [Vision] added {[Calypso][9mp52ED6SYOqm56b13GIVA][adyachenko][inet[/10.100.78.101:9301]]{data=false, client=true},}, reason: zen-disco-receive(from master [[master-search][Mm6kv07HRG6Mw7LXUJhStA][dwdccres1][inet[/10.32.18.31:9303]]{data=false, master=true}])
+hiol.it UNIQUE
+Searching for: gogiandtamara.com
+gogiandtamara.com UNIQUE
+Searching for: eroticheskijmassageodessa.com
+eroticheskijmassageodessa.com UNIQUE
+Searching for: 1071.ru
+1071.ru UNIQUE
+Searching for: mh9.ru
+mh9.ru UNIQUE
+Searching for: martianledtech.com
+martianledtech.com UNIQUE
+Searching for: deskbrew.com
+deskbrew.com UNIQUE
+Searching for: animuskierium.com
+animuskierium.com UNIQUE
+Searching for: ambition-athletics.com
+ambition-athletics.com UNIQUE
+Searching for: hwww.ru
+hwww.ru UNIQUE
+Searching for: 16618616.com
+16618616.com UNIQUE
+Searching for: 2558skeystoneave.com
+2558skeystoneave.com UNIQUE
+Searching for: onlinepadala.com
+onlinepadala.com UNIQUE
+Searching for: skortuttur.com
+skortuttur.com UNIQUE
+Searching for: classyhotelhanoi.com
+classyhotelhanoi.com UNIQUE
+Searching for: highapprovalrates.com
+highapprovalrates.com UNIQUE
+Searching for: rentahaus.com
+rentahaus.com UNIQUE
+Searching for: harrypottertshirts.com
+harrypottertshirts.com UNIQUE
+Searching for: brics-group.com
+brics-group.com UNIQUE
+Searching for: hadiyajewelry.com
+hadiyajewelry.com UNIQUE
+Searching for: hb768.com
+hb768.com UNIQUE
+Searching for: topnotchmart.com
+topnotchmart.com UNIQUE
+Searching for: shinwabld.com
+shinwabld.com UNIQUE
+Searching for: rockies.it
+rockies.it UNIQUE
+Searching for: feetcelebs.com
+feetcelebs.com UNIQUE
+Searching for: zgsjc.com
+zgsjc.com UNIQUE
+Searching for: sahacini.com
+sahacini.com UNIQUE
+Searching for: gfpsdxuanirt.com
+gfpsdxuanirt.com UNIQUE
+Searching for: 892.ru
+892.ru UNIQUE
+Searching for: domination-movie.com
+domination-movie.com UNIQUE
+Searching for: zhanhong56.com
+zhanhong56.com UNIQUE
+Searching for: zggdmidea.com
+zggdmidea.com UNIQUE
+Searching for: francemister.com
+francemister.com UNIQUE
+Searching for: workplaceurp.com
+workplaceurp.com UNIQUE
+Searching for: 360x24h.com
+360x24h.com UNIQUE
+Searching for: projectindustry.com
+projectindustry.com UNIQUE
+Searching for: eld.me
+eld.me UNIQUE
+Searching for: 9yt54.com
+9yt54.com UNIQUE
+Searching for: gbit.it
+gbit.it UNIQUE
+Searching for: zln.tv
+zln.tv UNIQUE
+Searching for: 814.co.uk
+814.co.uk UNIQUE
+Searching for: yoh.es
+yoh.es UNIQUE
+Searching for: lavnetwork.com
+lavnetwork.com UNIQUE
+Searching for: ecole-beldanse.com
+ecole-beldanse.com UNIQUE
+Searching for: 2pw.ru
+2pw.ru UNIQUE
+Searching for: astgfw.com
+astgfw.com UNIQUE
+Searching for: anquanlan.com
+anquanlan.com UNIQUE
+Searching for: cstx.us
+cstx.us UNIQUE
+Searching for: isqajo.com
+isqajo.com UNIQUE
+Searching for: pescaderialabarquitadesanvicente.com
+pescaderialabarquitadesanvicente.com UNIQUE
+Searching for: 3djhui.com
+3djhui.com UNIQUE
+Searching for: vectoflow.com
+vectoflow.com UNIQUE
+Searching for: globule-vert.com
+globule-vert.com UNIQUE
+Searching for: gjventuresanddecors.com
+gjventuresanddecors.com UNIQUE
+Searching for: mapasociety.com
+mapasociety.com UNIQUE
+Searching for: pualena.com
+pualena.com UNIQUE
+Searching for: xiamen0857.com
+xiamen0857.com UNIQUE
+Searching for: younidianqi.com
+younidianqi.com UNIQUE
+Searching for: wolfii.com
+wolfii.com UNIQUE
+Searching for: fullcartfullwallet.com
+fullcartfullwallet.com UNIQUE
+Searching for: sydneyconcretespraying.com
+sydneyconcretespraying.com UNIQUE
+Searching for: daumclub.com
+daumclub.com UNIQUE
+Searching for: myhomesell.com
+myhomesell.com UNIQUE
+Searching for: xn--t8j4aa8fza6f6070aftwbgj6bpnxb7eejxv.com
+xn--t8j4aa8fza6f6070aftwbgj6bpnxb7eejxv.com UNIQUE
+Searching for: zhamunian.com
+zhamunian.com UNIQUE
+Searching for: christianrehabb.com
+christianrehabb.com UNIQUE
+Searching for: howtostartaonlinebusinesss.com
+howtostartaonlinebusinesss.com UNIQUE
+Searching for: kubaoweb.com
+kubaoweb.com UNIQUE
+Searching for: rzhengtong.com
+rzhengtong.com UNIQUE
+Searching for: rowlettcoffeeroastery.com
+rowlettcoffeeroastery.com UNIQUE
+Searching for: hairtransplant4arab.com
+hairtransplant4arab.com UNIQUE
+Searching for: jongillingsrud.com
+jongillingsrud.com UNIQUE
+Searching for: eyongde.com
+eyongde.com UNIQUE
+Searching for: srmenuiserie.com
+srmenuiserie.com UNIQUE
+Searching for: indosolarexpert.com
+indosolarexpert.com UNIQUE
+Searching for: le-forgeron-du-golf.com
+le-forgeron-du-golf.com UNIQUE
+Searching for: etiquettetrain.com
+etiquettetrain.com UNIQUE
+Searching for: pacificschoolofhanggliding.com
+pacificschoolofhanggliding.com UNIQUE
+Searching for: garogame.com
+garogame.com UNIQUE
+Searching for: cgparka.com
+cgparka.com UNIQUE
+Searching for: knoxvilleselfdefense.com
+knoxvilleselfdefense.com UNIQUE
+Searching for: projectfreedomusa.com
+projectfreedomusa.com UNIQUE
+Searching for: solicitorsmelbourne.com
+solicitorsmelbourne.com UNIQUE
+Searching for: intoxarest.com
+intoxarest.com UNIQUE
+Searching for: fidolce.com
+fidolce.com UNIQUE
+Searching for: kusikuytours.com
+kusikuytours.com UNIQUE
+Searching for: hospitalmiladinoski.com
+hospitalmiladinoski.com UNIQUE
+Searching for: ilmulino-cefalu.com
+ilmulino-cefalu.com UNIQUE
+Searching for: lk5566.com
+lk5566.com UNIQUE
+Searching for: nicolasorsini.com
+nicolasorsini.com UNIQUE
+Searching for: ufficio87.com
+ufficio87.com UNIQUE
+Searching for: sismacom.com
+sismacom.com UNIQUE
+Searching for: caiyunlegou.com
+caiyunlegou.com UNIQUE
+Searching for: fujidq.com
+fujidq.com UNIQUE
+Searching for: elmalahet.com
+elmalahet.com UNIQUE
+Searching for: 24horasabogado.com
+24horasabogado.com UNIQUE
+Searching for: pinkysfamoussmokeshop.com
+pinkysfamoussmokeshop.com UNIQUE
+Searching for: shopnsavemall.com
+shopnsavemall.com UNIQUE
+Searching for: xn--vhqqb647ff0zhgkfp3a.com
+xn--vhqqb647ff0zhgkfp3a.com UNIQUE
+Searching for: marrywhich.com
+marrywhich.com UNIQUE
+Searching for: hteconsulting.com
+Jan 14, 2016 6:42:57 PM org.elasticsearch.cluster.service.InternalClusterService$UpdateTask run
+INFO: [Vision] removed {[Calypso][9mp52ED6SYOqm56b13GIVA][adyachenko][inet[/10.100.78.101:9301]]{data=false, client=true},}, reason: zen-disco-receive(from master [[master-search][Mm6kv07HRG6Mw7LXUJhStA][dwdccres1][inet[/10.32.18.31:9303]]{data=false, master=true}])
+hteconsulting.com UNIQUE
+Searching for: aozhouchi.com
+aozhouchi.com UNIQUE
+Searching for: loveoneout.com
+loveoneout.com UNIQUE
+Searching for: hannibiscannabis.com
+hannibiscannabis.com UNIQUE
+Searching for: roemer-real.com
+roemer-real.com UNIQUE
+Searching for: qacountydu.com
+qacountydu.com UNIQUE
+Searching for: youjianshop.com
+youjianshop.com UNIQUE
+Searching for: cbaseballclub.com
+cbaseballclub.com UNIQUE
+Searching for: simplecmo.com
+simplecmo.com UNIQUE
+Searching for: thebudvault.com
+thebudvault.com UNIQUE
+Searching for: hztaihua.com
+hztaihua.com UNIQUE
+Searching for: solussecurity.com
+solussecurity.com UNIQUE
+Searching for: bay-walk.com
+bay-walk.com UNIQUE
+Searching for: adovery.com
+adovery.com UNIQUE
+Searching for: hollywoodbikenights.com
+hollywoodbikenights.com UNIQUE
+Searching for: kotonjeans.com
+kotonjeans.com UNIQUE
+Searching for: artepinturasereparos.com
+artepinturasereparos.com UNIQUE
+Searching for: yuantainj.com
+yuantainj.com UNIQUE
+Searching for: hit-kit.com
+hit-kit.com UNIQUE
+Searching for: absolutebusinessbuilders.com
+absolutebusinessbuilders.com UNIQUE
+Searching for: scrpisos.com
+scrpisos.com UNIQUE
+Searching for: villacerropelado.com
+villacerropelado.com UNIQUE
+Searching for: lonelyforty.com
+lonelyforty.com UNIQUE
+Searching for: c-nav.com
+c-nav.com UNIQUE
+Searching for: gansuzulin.com
+gansuzulin.com UNIQUE
+Searching for: toledorepair.com
+toledorepair.com UNIQUE
+Searching for: 51yeyun.com
+51yeyun.com UNIQUE
+Searching for: theleftinalabama.com
+theleftinalabama.com UNIQUE
+Searching for: bridestowelavenderbear.com
+bridestowelavenderbear.com UNIQUE
+Searching for: sedefisim.com
+sedefisim.com UNIQUE
+Searching for: jinpingu.com
+jinpingu.com UNIQUE
+Searching for: aislingoutback.com
+aislingoutback.com UNIQUE
+Searching for: isl-algerie.com
+isl-algerie.com UNIQUE
+Searching for: cqsspbxx.com
+cqsspbxx.com UNIQUE
+Searching for: medicinalmente.com
+medicinalmente.com UNIQUE
+Searching for: mingleb.com
+mingleb.com UNIQUE
+Searching for: 7157canyondr.com
+7157canyondr.com UNIQUE
+Searching for: top500x.com
+top500x.com UNIQUE
+Searching for: syndicateddealanalyzer.com
+syndicateddealanalyzer.com UNIQUE
+Searching for: chapelcreekevents.com
+chapelcreekevents.com UNIQUE
+Searching for: nkx6ykaa.com
+nkx6ykaa.com UNIQUE
+Searching for: interioringredients.com
+interioringredients.com UNIQUE
+Searching for: coralie-huger.com
+coralie-huger.com UNIQUE
+Searching for: megazora.com
+megazora.com UNIQUE
+Searching for: ezijobs.com
+ezijobs.com UNIQUE
+Searching for: kholimited.com
+kholimited.com UNIQUE
+Searching for: yiliaomeng.com
+yiliaomeng.com UNIQUE
+Searching for: layoutdezigns.com
+layoutdezigns.com UNIQUE
+Jan 14, 2016 6:44:35 PM org.elasticsearch.cluster.service.InternalClusterService$UpdateTask run
+INFO: [Vision] added {[Fault Zone][Zyawnbz1STmXRw-9Y2Q8Yw][adyachenko][inet[/10.100.78.101:9301]]{data=false, client=true},}, reason: zen-disco-receive(from master [[master-search][Mm6kv07HRG6Mw7LXUJhStA][dwdccres1][inet[/10.32.18.31:9303]]{data=false, master=true}])
+Jan 14, 2016 6:44:39 PM org.elasticsearch.cluster.service.InternalClusterService$UpdateTask run
+INFO: [Vision] removed {[Fault Zone][Zyawnbz1STmXRw-9Y2Q8Yw][adyachenko][inet[/10.100.78.101:9301]]{data=false, client=true},}, reason: zen-disco-receive(from master [[master-search][Mm6kv07HRG6Mw7LXUJhStA][dwdccres1][inet[/10.32.18.31:9303]]{data=false, master=true}])
+Jan 14, 2016 6:45:12 PM org.elasticsearch.cluster.service.InternalClusterService$UpdateTask run
+INFO: [Vision] added {[Terminus][UAYI3uyYRUSaQqp1L6MqLQ][adyachenko][inet[/10.100.78.101:9301]]{data=false, client=true},}, reason: zen-disco-receive(from master [[master-search][Mm6kv07HRG6Mw7LXUJhStA][dwdccres1][inet[/10.32.18.31:9303]]{data=false, master=true}])
+Jan 14, 2016 6:45:20 PM org.elasticsearch.cluster.service.InternalClusterService$UpdateTask run
+INFO: [Vision] removed {[Terminus][UAYI3uyYRUSaQqp1L6MqLQ][adyachenko][inet[/10.100.78.101:9301]]{data=false, client=true},}, reason: zen-disco-receive(from master [[master-search][Mm6kv07HRG6Mw7LXUJhStA][dwdccres1][inet[/10.32.18.31:9303]]{data=false, master=true}])
+Jan 14, 2016 6:46:13 PM org.elasticsearch.cluster.service.InternalClusterService$UpdateTask run
+INFO: [Vision] added {[Random][VUjzdixiQPybcbNr8hbkTw][adyachenko][inet[/10.100.78.101:9301]]{data=false, client=true},}, reason: zen-disco-receive(from master [[master-search][Mm6kv07HRG6Mw7LXUJhStA][dwdccres1][inet[/10.32.18.31:9303]]{data=false, master=true}])
+Jan 14, 2016 6:46:23 PM org.elasticsearch.cluster.service.InternalClusterService$UpdateTask run
+INFO: [Vision] removed {[Random][VUjzdixiQPybcbNr8hbkTw][adyachenko][inet[/10.100.78.101:9301]]{data=false, client=true},}, reason: zen-disco-receive(from master [[master-search][Mm6kv07HRG6Mw7LXUJhStA][dwdccres1][inet[/10.32.18.31:9303]]{data=false, master=true}])
+Jan 14, 2016 6:46:47 PM org.elasticsearch.cluster.service.InternalClusterService$UpdateTask run
+INFO: [Vision] added {[ElectroCute][G0ghQWs-QAiHYB2by-Y9zg][adyachenko][inet[/10.100.78.101:9301]]{data=false, client=true},}, reason: zen-disco-receive(from master [[master-search][Mm6kv07HRG6Mw7LXUJhStA][dwdccres1][inet[/10.32.18.31:9303]]{data=false, master=true}])
+Jan 14, 2016 6:46:55 PM org.elasticsearch.cluster.service.InternalClusterService$UpdateTask run
+INFO: [Vision] removed {[ElectroCute][G0ghQWs-QAiHYB2by-Y9zg][adyachenko][inet[/10.100.78.101:9301]]{data=false, client=true},}, reason: zen-disco-receive(from master [[master-search][Mm6kv07HRG6Mw7LXUJhStA][dwdccres1][inet[/10.32.18.31:9303]]{data=false, master=true}])
+Jan 14, 2016 7:07:02 PM org.elasticsearch.cluster.service.InternalClusterService$UpdateTask run
+INFO: [Vision] added {[Tusk][WREa3HW2STS4hX-dik3TZQ][dwdccres6.dela.clif.dc.comodo.net][inet[/10.32.18.36:9302]]{data=false, client=true},}, reason: zen-disco-receive(from master [[master-search][Mm6kv07HRG6Mw7LXUJhStA][dwdccres1][inet[/10.32.18.31:9303]]{data=false, master=true}])
+Jan 14, 2016 7:07:11 PM org.elasticsearch.cluster.service.InternalClusterService$UpdateTask run
+INFO: [Vision] removed {[Tusk][WREa3HW2STS4hX-dik3TZQ][dwdccres6.dela.clif.dc.comodo.net][inet[/10.32.18.36:9302]]{data=false, client=true},}, reason: zen-disco-receive(from master [[master-search][Mm6kv07HRG6Mw7LXUJhStA][dwdccres1][inet[/10.32.18.31:9303]]{data=false, master=true}])
+Jan 14, 2016 7:08:30 PM org.elasticsearch.cluster.service.InternalClusterService$UpdateTask run
+INFO: [Vision] added {[Comet][7ofhlZ_sQK6Ozx69_W58BA][dwdccres6.dela.clif.dc.comodo.net][inet[/10.32.18.36:9302]]{data=false, client=true},}, reason: zen-disco-receive(from master [[master-search][Mm6kv07HRG6Mw7LXUJhStA][dwdccres1][inet[/10.32.18.31:9303]]{data=false, master=true}])
