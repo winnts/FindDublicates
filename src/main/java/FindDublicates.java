@@ -57,7 +57,7 @@ public class FindDublicates {
                 SearchResponse scrollResp2 = scrollES(indexWhereFind, findDoc, 10, returnFields);
                 if (scrollResp2.getHits().totalHits() != 0) {
                     System.out.println("EQUALS DOCS FOUND: " + scrollResp2.getHits().totalHits());
-                    //deleteFromES(findDoc, indexWhereFind);
+                    deleteFromES(findDoc, indexWhereFind);
                     deleteCounter.add(scrollResp2.getHits().totalHits());
 //                    while (true) {
 //                        for (SearchHit hit2 : scrollResp2.getHits().getHits()) {
