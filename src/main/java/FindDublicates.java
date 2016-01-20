@@ -29,8 +29,8 @@ import static org.elasticsearch.index.query.QueryBuilders.matchAllQuery;
  * Created by adyachenko on 14.01.16.
  */
 public class FindDublicates {
-    static Node node;
-    static Client client;
+    static Node node = ConnectAsNode.connectASNode();
+    static Client client = node.client();
     static LongAdder counter = new LongAdder();
     static LongAdder deleteCounter = new LongAdder();
 
@@ -131,8 +131,8 @@ public class FindDublicates {
         String[] index = {"marketing008"};
         String[] indexWhereFind = {"marketing001", "marketing002", "marketing003", "marketing004", "marketing005",
                 "marketing006", "marketing007", "marketing009"};
-        node = ConnectAsNode.connectASNode();
-        client = node.client();
+//        node = ConnectAsNode.connectASNode();
+//        client = node.client();
 //        client = ConnectAsTransport.connectToEs("main-cluster", "10.32.18.31", 9303);
 //        FilteredQueryBuilder searchFor = filteredQuery(matchAllQuery(), andFilter(termFilter("scanMode", 0), termFilter("domain", "cetrom.net")));
         List<Thread> threads = new ArrayList<>();
