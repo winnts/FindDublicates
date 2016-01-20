@@ -51,12 +51,12 @@ public class FindDublicates {
                 @Override
                 public void afterBulk(long executionId, BulkRequest request, BulkResponse response) {
                     for (BulkItemResponse bulkItemResponse : response) {
-                        System.out.println("TOTAL DELETED: " + deleteCounter);
                         if (bulkItemResponse.getFailureMessage() != null) {
                             System.err.println(Thread.currentThread().getName() + " " + bulkItemResponse.getId() + "" +
                                     " " + bulkItemResponse.getFailureMessage());
                         }
                     }
+                    System.out.println("TOTAL DELETED: " + deleteCounter);
                 }
 
                 @Override
@@ -66,7 +66,7 @@ public class FindDublicates {
             .setBulkActions(500)
             //.setBulkSize(new ByteSizeValue(5, ByteSizeUnit.MB))
             .setBulkSize(new ByteSizeValue(-1))
-            .setFlushInterval(TimeValue.timeValueSeconds(60))
+            .setFlushInterval(TimeValue.timeValueSeconds(300))
             .setConcurrentRequests(1)
             .build();
 
@@ -103,8 +103,8 @@ public class FindDublicates {
                             .totalHits());
                     while (true) {
                         for (SearchHit hit2 : scrollResp2.getHits().getHits()) {
-                            System.out.println(Thread.currentThread().getName() + " Will be DELETED: Index: " + hit2
-                                    .getIndex() + " _ID: " + hit2.getId());
+                            System.out.println(Thread.currentThread().getName() + " Will be DELETED: Index: " +
+                                    hit2.getIndex() + " _ID: " + hit2.getId());
                             bulkProcessor.add(new DeleteRequest(hit2.getIndex(), "doc", hit2.getId()));
                             deleteCounter.increment();
                         }
@@ -118,7 +118,7 @@ public class FindDublicates {
                     System.out.println(Thread.currentThread().getName() +" Document: " + hostToFind + " is UNIQUE");
                 }
                 counter.increment();
-                System.out.println(Thread.currentThread().getName() + " Processed: " + counter);
+                System.out.println("Processed: " + counter);
             }
             scrollResp = client.prepareSearchScroll(scrollResp.getScrollId()).setScroll(new TimeValue(600000))
                     .execute().actionGet();
@@ -136,7 +136,7 @@ public class FindDublicates {
         for (Integer reader_id : reader_ids) {
             Thread find = new Thread() {
                 public void run() {
-                    setName("Tread number by id: " + reader_id);
+                    setName("Thread : " + reader_id);
                     FindDublicates findHosts = new FindDublicates();
                     try {
                         FilteredQueryBuilder searchFor = filteredQuery(matchAllQuery(), andFilter(termFilter
